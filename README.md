@@ -6,4 +6,6 @@ Files:
 
 2) **Generate_ BIOBERT_word_vectors_for_HPO_terms.py** is a python program that generates a BioBERT embedding for each term in the HPO.
 
-3) **HPO.csv** is a CSV file with 18,988 HPO_Terms and their HPO_ID.  Column 1 is HPO_ID. Column 2 is HPO_Term 
+3) **HPO.csv** is a CSV file with 18,988 HPO_Terms and their HPO_ID.  Column 1 is HPO_ID. Column 2 is HPO_Term
+
+4) **Normalize by Spacy.py** is a python program that normalizes terms using the cosine similarity built into spaCy and word embeddings from **en_core_web_lg**.
