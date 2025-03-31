@@ -11,8 +11,8 @@ pip install -r requirements.txt
 Files:
 1) well_formed_terms.csv is a csv file with the header 'extracted_term'. It has 1820 rows (terms) all found in OMIM summaries and all are candidates to be normalized by being mapped to an HPO concept. This is our primary test file of terms.
 
-2) Generate_ BIOBERT_word_vectors_for_HPO_terms.py** is a python program that generates a BioBERT embedding for each term in the HPO.
+2) Generate_ BIOBERT_word_vectors_for_HPO_terms.py is a python program that generates a BioBERT embedding for each term in the HPO.
 
-3) HPO.csv** is a CSV file with 18,988 HPO_Terms and their HPO_ID.  Column 1 is HPO_ID. Column 2 is HPO_Term
+3) HPO.csv is a CSV file with 18,988 HPO_Terms and their HPO_ID.  Column 1 is HPO_ID. Column 2 is HPO_Term
 
-4) **Normalize by Spacy.py** is a python program that normalizes terms using the cosine similarity built into spaCy and word embeddings from **en_core_web_lg**
+4) Normalize by Spacy.py** is a python program that normalizes terms using the cosine similarity built into spaCy and word embeddings from **en_core_web_lg**
