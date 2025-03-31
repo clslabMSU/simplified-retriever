@@ -42,47 +42,36 @@ scripts/    # Python scripts for retriever + normalization pipeline
 
 ---
 
-## 📂 Files and Scripts
+## 📂 Scripts
 
-### `data/well_formed_terms.csv`
-- CSV file with the header `extracted_term`
-- Contains 1,820 phenotype terms extracted from OMIM summaries
-
-### `scripts/Generate_BioBERT_word_vectors_for_HPO_terms.py`
-- Generates a BioBERT embedding for each term in the HPO
-
-### `data/HPO.csv`
-- 18,988 rows of HPO term metadata  
-- Column 1: `hp_id`, Column 2: `hp_term`
-
-### `scripts/Normalize_by_Spacy.py`
-- Normalizes terms using cosine similarity from **spaCy**'s `en_core_web_lg` vector model
-
-### `scripts/Normalize_with_GPT_RAG.py`
-- Normalizes terms using **GPT-4o** with Retrieval-Augmented Generation (RAG)  
-- Requires OpenAI API key  
-- Uses precomputed BioBERT similarity scores for candidate terms
-
-
-### `Plot_model_accuracies.py`
-- Plots a bar chart of model accuracies
-
-### `scripts/Plot_rag_accuracy_vs_candidates.py`
-- Plots a bar chart of RAG model accuracies with number of candidates as a indeependent variable on x-axis
+"Generate_ BIOBERT_word_vectors_for_HPO_terms.py",
+"Normalize_by_BioBERT.py",
+"Normalize_by_doc2hpo.py",
+"Normalize_by_Spacy.py",
+"Normalize_with_GPT_without RAG.py",
+"Normalize_with_GPT-4_with_RAG.py",
+"Plot_model_accuracies.py",
+"Plot_RAG_accuracy_vs_candidates.py"
 ---`
 
+## 📂 Data
+
+"data/closest_matches_biobert_with_similarities.csv",
+"data/HP_terms.csv",
+"data/HP0.csv",
+"data/well_formed_terms.csv"
 
 ## ✅ Outputs
 
 Example output files:
 
-- `results/normalization_by_Spacy.csv`
-- `results/best_matches_gpt_4o_with_RAG_20_candidates_1.csv`
-
-Each output contains:
-- `target_term`: input term from OMIM  
-- `best_hpo_term`: top match selected (via spaCy or GPT-4o)  
-- `hpo_id`: matched HPO concept ID
+"results/best_matches_gpt_4o_with_RAG_20_candidates_1.csv",
+"results/doc2hpo_extracted_terms.csv",
+"results/hpo_terms_with_normalizations_gpt-4o.csv",
+"results/influence_of_rag_choices_on_accuracy.png",
+"results/model_accuracies.png",
+"results/normalization_by_BioBERT.csv",
+"results/string matching.csv"
 
 ---
 
