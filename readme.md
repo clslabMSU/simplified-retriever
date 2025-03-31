@@ -1,4 +1,4 @@
-a# simplified-retriever
+##**simplified-retriever**
 
 Large language models (LLMs) have shown improved accuracy in phenotype term normalization tasks when augmented with retrievers that suggest candidate matches based on semantic similarity.
 
@@ -65,8 +65,12 @@ scripts/    # Python scripts for retriever + normalization pipeline
 
 
 ### `Plot_model_accuracies.py`
-- Plots a bar chart of model accuracies 
----
+- Plots a bar chart of model accuracies
+
+### `scripts/Plot_rag_accuracy_vs_candidates.py`
+- Plots a bar chart of RAG model accuracies with number of candidates as a indeependent variable on x-axis
+---`
+
 
 ## ✅ Outputs
 
