@@ -1,4 +1,4 @@
-# simplified-retriever
+a# simplified-retriever
 
 Large language models (LLMs) have shown improved accuracy in phenotype term normalization tasks when augmented with retrievers that suggest candidate matches based on semantic similarity.
 
@@ -83,7 +83,7 @@ Each output contains:
 
 This repository supports the findings of the published manuscript:
 
-> **[Title of Your Paper]**  
-> Authors: [Your Name et al.]  
-> Journal: [Name of Journal]  
-> DOI: [Add DOI or URL link here]
+Hier DB, Do TS, Obafemi-Ajayi T. 
+A simplified retriever to improve accuracy of phenotype normalizations by large language models. 
+Frontiers in Digital Health. 2025 Mar 4;7:1495040.
+https://doi.org/10.3389/fdgth.2025.1495040
