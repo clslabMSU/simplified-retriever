@@ -1,0 +1,1850 @@
+extracted_term,hpo_term,hpo_id,negated
+abnormal bladder function,None detected,None,False
+abnormal cognition,None detected,None,False
+abnormal eye movements,abnormal eye movements,HP:0000496,False
+abnormal eye movements or nystagmus,abnormal eye movements,HP:0000496,False
+abnormal eye movements or nystagmus,nystagmus,HP:0000639,False
+abnormal eye signs,abnormal eye,HP:0000478,False
+abnormal gait,abnormal gait,HP:0001288,False
+abnormal hand posturing,None detected,None,False
+abnormal horizontal pursuit,None detected,None,False
+abnormal ocular movements,abnormal ocular movements,HP:0000496,False
+abnormal postures,None detected,None,False
+abnormal posturing,abnormal posturing,HP:0002533,False
+abnormal saccadic movements,None detected,None,False
+abnormal saccadic pursuit,None detected,None,False
+abnormal shuffling gait,shuffling gait,HP:0002362,False
+abnormal smooth pursuit,None detected,None,False
+abnormal spastic gait,spastic gait,HP:0002064,False
+abnormal speech,None detected,None,False
+abnormal steppage gait,steppage gait,HP:0003376,False
+abnormal tongue shape,abnormal tongue,HP:0000157,False
+abnormal trunk posture,None detected,None,False
+abnormal writing,None detected,None,False
+abolished deep tendon reflexes,None detected,None,False
+abolished reflexes in all 4 limbs,None detected,None,False
+abolished tendon reflexes,None detected,None,False
+abolition of upgaze,None detected,None,False
+absence of distal deep tendon reflexes,None detected,None,False
+absence of speech,None detected,None,False
+absence seizures,absence seizures,HP:0002121,False
+absent Achilles reflexes,None detected,None,False
+absent Achilles tendon reflex,None detected,None,False
+absent Achilles tendon reflexes,None detected,None,False
+absent ankle jerk reflexes,None detected,None,False
+absent ankle jerks,None detected,None,False
+absent ankle reflexes,absent ankle reflexes,HP:0003438,False
+absent corneal reflex,None detected,None,False
+absent deep tendon reflexes,absent deep tendon reflexes,HP:0001284,False
+absent deep tendon reflexes in all extremities,absent deep tendon reflexes,HP:0001284,False
+absent deep tendon reflexes in the legs,absent deep tendon reflexes,HP:0001284,False
+absent detrusor contractility,None detected,None,False
+absent gag reflex,None detected,None,False
+absent knee jerk reflexes,None detected,None,False
+absent language,None detected,None,False
+absent muscle stretch reflexes,None detected,None,False
+absent or limited speech,None detected,None,False
+absent reflexes,None detected,None,False
+absent reflexes at the ankle,None detected,None,False
+absent reflexes at the ankles,None detected,None,False
+absent sensory nerve action potentials,None detected,None,False
+absent speech,absent speech,HP:0001344,False
+absent tendon reflexes,absent tendon reflexes,HP:0001284,False
+acetabular dysplasia,acetabular dysplasia,HP:0008807,False
+achalasia,achalasia,HP:0002571,False
+Achilles contractures,contractures,HP:0001371,False
+Achilles tendon contractures,achilles tendon contractures,HP:0001771,False
+acquired microcephaly,acquired microcephaly,HP:0005484,False
+acropathy,None detected,None,False
+action tremor,action tremor,HP:0002345,False
+action tremor of the hand,action tremor,HP:0002345,False
+action tremor of the hands,action tremor,HP:0002345,False
+acute onset of dysarthria,dysarthria,HP:0001260,False
+acute respiratory stridor,stridor,HP:0010307,False
+adducted thumbs,adducted thumbs,HP:0001181,False
+afebrile seizures,None detected,None,False
+aggression,aggression,HP:0000718,False
+aggressive behaviors,None detected,None,False
+agraphia,None detected,None,False
+akathisia,None detected,None,False
+akinesia,akinesia,HP:0002304,False
+akinetic rigid parkinsonism,parkinsonism,HP:0001300,False
+akinetic rigid syndrome,None detected,None,False
+akinetic rigidity,rigidity,HP:0002063,False
+altered finger nose test,None detected,None,False
+altered heel knee test,None detected,None,False
+amblyopia,amblyopia,HP:0000646,False
+ambulation with walker,None detected,None,False
+amyotrophy of the forearms,amyotrophy,HP:0003202,False
+amyotrophy of the hands,amyotrophy,HP:0003202,False
+amyotrophy of the lower legs,amyotrophy,HP:0003202,False
+anarthria,anarthria,HP:0002425,False
+ankle areflexia,areflexia,HP:0001284,False
+ankle clonus,ankle clonus,HP:0011448,False
+ankle contractures,ankle contractures,HP:0006466,False
+ankle foot orthotics,None detected,None,False
+ankle joint instability,joint instability,HP:0001388,False
+ankle sprains,None detected,None,False
+anosmia,anosmia,HP:0000458,False
+anteverted nostrils,anteverted nostrils,HP:0000463,False
+anxiety,anxiety,HP:0000739,False
+apathy,apathy,HP:0000741,False
+aphasia,aphasia,HP:0002381,False
+aphonia,None detected,None,False
+appendicular ataxia,appendicular ataxia,HP:0002070,False
+appendicular dysmetria,dysmetria,HP:0001310,False
+appendicular hypertonia,hypertonia,HP:0001276,False
+appendicular spasticity,spasticity,HP:0001257,False
+apraxia,apraxia,HP:0002186,False
+apraxia of eyelid opening,apraxia,HP:0002186,False
+arachnodactyly,arachnodactyly,HP:0001166,False
+arched eyebrows,arched eyebrows,HP:0002553,False
+arched feet,None detected,None,False
+arching back,None detected,None,False
+arching of the neck,None detected,None,False
+areflexia,areflexia,HP:0001284,False
+areflexia in the lower limbs,areflexia,HP:0001284,False
+areflexia of the lower limbs,areflexia of the lower limbs,HP:0002522,False
+Argyll Robertson pupils,None detected,None,False
+arm involvement,None detected,None,False
+arm tremor,tremor,HP:0001337,False
+arrest and regression of motor function,None detected,None,False
+arthrogryposis,arthrogryposis,HP:0002804,False
+articulation problems,None detected,None,False
+asymmetric proximal muscle weakness,proximal muscle weakness,HP:0003701,False
+asymmetric resting tremor,resting tremor,HP:0002322,False
+asymmetric tremor,tremor,HP:0001337,False
+asymmetric weakness,None detected,None,False
+ataxia,ataxia,HP:0001251,False
+ataxia of the arms,ataxia,HP:0001251,False
+ataxia of the upper limbs,ataxia,HP:0001251,False
+ataxic episodes,None detected,None,False
+ataxic gait,ataxic gait,HP:0002066,False
+ataxic movements,None detected,None,False
+athetoid movements,athetoid movements,HP:0002305,False
+athetosis,athetosis,HP:0002305,False
+atonia,None detected,None,False
+atonic seizures,atonic seizures,HP:0010819,False
+atrophic optic discs,None detected,None,False
+atrophy,None detected,None,False
+atrophy in the intrinsic hand muscles,None detected,None,False
+atrophy of all extremities,None detected,None,False
+atrophy of hand muscles,None detected,None,False
+atrophy of intrinsic hand muscles,None detected,None,False
+atrophy of lower limb muscles,None detected,None,False
+atrophy of lower limbs,None detected,None,False
+atrophy of peroneal muscles,None detected,None,False
+atrophy of the anterior tibial peroneal muscles,None detected,None,False
+atrophy of the distal limb muscles,None detected,None,False
+atrophy of the distal lower limb muscles,None detected,None,False
+atrophy of the distal muscles of the forearm,None detected,None,False
+atrophy of the hand muscles,None detected,None,False
+atrophy of the intrinsic foot muscles,None detected,None,False
+atrophy of the intrinsic hand muscles,None detected,None,False
+"atrophy of the intrinsic hand, foot, and calf muscles",None detected,None,False
+atrophy of the legs,None detected,None,False
+atrophy of the lower limbs,None detected,None,False
+atrophy of the paraspinal muscles,None detected,None,False
+atrophy of the peroneal muscles,None detected,None,False
+atrophy of the posterior tibial muscles,None detected,None,False
+attacks of athetosis,athetosis,HP:0002305,False
+attacks of chorea,chorea,HP:0002072,False
+attacks of dystonia,dystonia,HP:0001332,False
+attacks of muscle weakness mainly in limbs,muscle weakness,HP:0001324,False
+attention deficit with hyperactivity,attention deficit,HP:0007018,False
+attention deficit with hyperactivity,hyperactivity,HP:0000752,False
+attention deficits,attention deficits,HP:0007018,False
+atypical absence seizures,atypical absence seizures,HP:0007270,False
+atypical gait disturbance,gait disturbance,HP:0001288,False
+autism spectrum disorder,autism spectrum disorder,HP:0000729,False
+autistic behavior,autistic behavior,HP:0000729,False
+automutilation such as hand biting,None detected,None,False
+awkward gait,None detected,None,False
+awkward in toed gait,None detected,None,False
+axial dystonia,axial dystonia,HP:0002530,False
+axial hypotonia,axial hypotonia,HP:0008936,False
+axial rigidity,rigidity,HP:0002063,False
+axial weakness,None detected,None,False
+Babinski sign,babinski sign,HP:0003487,False
+back pain,back pain,HP:0003418,False
+balance problems,None detected,None,False
+ballismus,None detected,None,False
+behavioral abnormalities,None detected,None,False
+behavioral and psychiatric disturbances,psychiatric disturbances,HP:0000708,False
+behavioral changes,behavioral changes,HP:0000708,False
+behavioral disturbances,behavioral disturbances,HP:0000708,False
+behavioral issues,None detected,None,False
+behavioral problems,behavioral problems,HP:0000708,False
+behavioral problems with aggressive features,behavioral problems,HP:0000708,False
+bifid uvula,bifid uvula,HP:0000193,False
+bilateral cavus feet,None detected,None,False
+bilateral extensor plantar responses,extensor plantar responses,HP:0003487,False
+bilateral facial weakness,bilateral facial weakness,HP:0001349,False
+bilateral foot drop,foot drop,HP:0009027,False
+bilateral hand tremor,hand tremor,HP:0002378,False
+bilateral hand tremors,tremors,HP:0001337,False
+bilateral lower limb hyperreflexia,lower limb hyperreflexia,HP:0002395,False
+bilateral optic atrophy,optic atrophy,HP:0000648,False
+bilateral pes cavus,pes cavus,HP:0001761,False
+bilateral pes equinovarus,pes equinovarus,HP:0001762,False
+bilateral progressive visual failure,None detected,None,False
+bilateral upgoing plantar responses,None detected,None,False
+bilateral vocal cord paralysis,bilateral vocal cord paralysis,HP:0012820,False
+bladder disturbance,None detected,None,False
+bladder disturbances,None detected,None,False
+bladder dysfunction,None detected,None,False
+bladder incontinence,bladder incontinence,HP:0000020,False
+bladder urgency,None detected,None,False
+blepharoptosis,blepharoptosis,HP:0000508,False
+blepharospasm,blepharospasm,HP:0000643,False
+blindness,blindness,HP:0000618,False
+blindness from optic atrophy,blindness,HP:0000618,False
+blindness from optic atrophy,optic atrophy,HP:0000648,False
+blurred vision,blurred vision,HP:0000622,False
+body temperature instability,body temperature instability,HP:0005968,False
+bowel urgency,bowel urgency,HP:0012701,False
+brachial dystonia,dystonia,HP:0001332,False
+brachycephaly,brachycephaly,HP:0000248,False
+bradykinesia,bradykinesia,HP:0002067,False
+bradykinesia of the tongue,bradykinesia,HP:0002067,False
+brief attacks of dystonia,dystonia,HP:0001332,False
+brisk deep tendon reflexes,brisk deep tendon reflexes,HP:0006801,False
+brisk deep tendon reflexes in the lower extremities,brisk deep tendon reflexes,HP:0006801,False
+brisk lower extremity reflexes,brisk lower extremity reflexes,HP:0002395,False
+brisk lower limb reflexes,None detected,None,False
+brisk reflexes,brisk reflexes,HP:0001348,False
+brisk reflexes throughout,brisk reflexes,HP:0001348,False
+brisk reflexes with clonus at the ankles,brisk reflexes,HP:0001348,False
+brisk reflexes with clonus at the ankles,clonus,HP:0002169,False
+brisk tendon reflexes,None detected,None,False
+brisk upper limb reflexes,None detected,None,False
+broad based gait,broad based gait,HP:0002136,False
+broad nasal bridge,broad nasal bridge,HP:0000431,False
+broad nasal root,broad nasal root,HP:0000431,False
+bulbar dysfunction,None detected,None,False
+bulbar dystonia,dystonia,HP:0001332,False
+bulbar weakness,bulbar weakness,HP:0001283,False
+bulbous nose,bulbous nose,HP:0000414,False
+bulging eyes,None detected,None,False
+cafe au lait spots,cafe au lait spots,HP:0000957,False
+calf hypertrophy,calf hypertrophy,HP:0008981,False
+cataplexy,cataplexy,HP:0002524,False
+cataracts,cataracts,HP:0000518,False
+central apnea,central apnea,HP:0002871,False
+central hypotonia,central hypotonia,HP:0011398,False
+central hypoventilation,central hypoventilation,HP:0007110,False
+central retinal degeneration,retinal degeneration,HP:0000546,False
+central visual impairment or optic atrophy,visual impairment,HP:0000505,False
+central visual impairment or optic atrophy,optic atrophy,HP:0000648,False
+cerbellar dysarthria,dysarthria,HP:0001260,False
+cerebellar ataxia,cerebellar ataxia,HP:0001251,False
+cerebellar ataxic gait,ataxic gait,HP:0002066,False
+cerebellar atrophy,cerebellar atrophy,HP:0001272,False
+cerebellar dysarthria,dysarthria,HP:0001260,False
+cerebellar dysfunction,None detected,None,False
+cerebellar limb ataxia,limb ataxia,HP:0002070,False
+cerebellar oculomotor disturbance,None detected,None,False
+cerebellar signs,cerebellar signs,HP:0001317,False
+cervical dystonia,cervical dystonia,HP:0000473,False
+Charcot joints,None detected,None,False
+chest deformities,None detected,None,False
+chest deformity,None detected,None,False
+childhood absence epilepsy,epilepsy,HP:0001250,False
+childhood onset seizures,seizures,HP:0001250,False
+chorea,chorea,HP:0002072,False
+choreic movements,choreic movements,HP:0002072,False
+choreic movements in the distal limbs,choreic movements,HP:0002072,False
+choreoathetoid movements,choreoathetoid movements,HP:0001266,False
+choreoathetoid movements of the extremity,choreoathetoid movements,HP:0001266,False
+choreoathetosis,choreoathetosis,HP:0001266,False
+chronic cough,cough,HP:0012735,False
+chronic diarrhea,chronic diarrhea,HP:0002028,False
+claw hand deformities,claw hand,HP:0001171,False
+claw hand deformities,claw hand deformities,HP:0001171,False
+claw hands,claw hands,HP:0001171,False
+claw toes,None detected,None,False
+clawed toes,None detected,None,False
+cleft palate,cleft palate,HP:0000175,False
+clonic movements,None detected,None,False
+clonic seizures,seizures,HP:0001250,False
+clonus,clonus,HP:0002169,False
+clouded consciousness,None detected,None,False
+clubfeet,clubfeet,HP:0001762,False
+clubfoot,clubfoot,HP:0001762,False
+clumsiness,clumsiness,HP:0002312,False
+clumsy gait,None detected,None,False
+coarse facial features,coarse facial features,HP:0000280,False
+coarse features,None detected,None,False
+cognitive decline,cognitive decline,HP:0001268,False
+cognitive delay,cognitive delay,HP:0001263,False
+cognitive deterioration,None detected,None,False
+cognitive impairment,cognitive impairment,HP:0100543,False
+cognitive issues,None detected,None,False
+cognitive regression,None detected,None,False
+cogwheel ocular pursuit,None detected,None,False
+cogwheel rigidity,cogwheel rigidity,HP:0002396,False
+cogwheel tone without rigidity,rigidity,HP:0002063,True
+color blindness,color blindness,HP:0007641,False
+coma,coma,HP:0001259,False
+complete areflexia,areflexia,HP:0001284,False
+complete vertical gaze palsy,vertical gaze palsy,HP:0000511,False
+complex partial seizures,complex partial seizures,HP:0002384,False
+complex partial seizures with secondary generalization,complex partial seizures,HP:0002384,False
+complex partial seizures with secondary generalization,partial seizures with secondary generalization,HP:0007334,False
+compulsive behaviors,None detected,None,False
+congenital contractures,congenital contractures,HP:0002803,False
+congenital hip dislocation,congenital hip dislocation,HP:0001374,False
+congenital nystagmus,congenital nystagmus,HP:0006934,False
+constipation,constipation,HP:0002019,False
+contractures,contractures,HP:0001371,False
+contractures in lower extremities,contractures,HP:0001371,False
+contractures of all joints in the lower limbs,contractures,HP:0001371,False
+contractures of the extremities,contractures,HP:0001371,False
+contractures of the knees and ankles,contractures of the knees,HP:0006380,False
+convergent squint,squint,HP:0000486,False
+convergent strabismus,convergent strabismus,HP:0020045,False
+cortical blindness,cortical blindness,HP:0100704,False
+cortical visual impairment,cortical visual impairment,HP:0100704,False
+cramping in the lower limbs,None detected,None,False
+cramps,None detected,None,False
+crying bouts,None detected,None,False
+deafness,deafness,HP:0000365,False
+decreased consciousness,None detected,None,False
+decreased deep tendon reflexes,decreased deep tendon reflexes,HP:0001265,False
+decreased dexterity,None detected,None,False
+decreased distal muscle bulk,None detected,None,False
+decreased distal position sense,None detected,None,False
+decreased distal sensation,decreased distal sensation,HP:0002936,False
+decreased distal vibration sense,decreased distal vibration sense,HP:0006886,False
+decreased exercise tolerance,None detected,None,False
+decreased fine motor skills in the hands,None detected,None,False
+decreased forced vital capacity,None detected,None,False
+decreased hearing,None detected,None,False
+decreased heart rate bordering bradycardia,bradycardia,HP:0001662,False
+decreased IQ,None detected,None,False
+decreased median motor NCVs,None detected,None,False
+decreased muscle mass,decreased muscle mass,HP:0003199,False
+decreased muscle mass of the shanks,decreased muscle mass,HP:0003199,False
+decreased muscle strength in the hands,None detected,None,False
+decreased or absent deep tendon reflexes,absent deep tendon reflexes,HP:0001284,False
+decreased or absent reflexes,None detected,None,False
+decreased patellar reflexes,decreased patellar reflexes,HP:0011808,False
+decreased position sense,None detected,None,False
+decreased pupillary reaction to light,None detected,None,False
+decreased range of motion,None detected,None,False
+decreased reactivity to electric stimulation,None detected,None,False
+decreased reflexes,None detected,None,False
+decreased reflexes in lower limbs,None detected,None,False
+decreased reflexes in the lower limbs,None detected,None,False
+decreased sensation,None detected,None,False
+decreased shank muscle mass,None detected,None,False
+decreased tendon reflexes,decreased tendon reflexes,HP:0001265,False
+decreased vibration and position sense,None detected,None,False
+decreased vibration sense,decreased vibration sense,HP:0002495,False
+decreased vibration sense at the ankles,decreased vibration sense,HP:0002495,False
+decreased vibration sense in lower limbs,decreased vibration sense,HP:0002495,False
+decreased vibration sense in the lower limbs,decreased vibration sense,HP:0002495,False
+decreased vibration sense in the toes,decreased vibration sense,HP:0002495,False
+decreased vibratory sensation,None detected,None,False
+decreased vibratory sense below the knees,decreased vibratory sense,HP:0002495,False
+decreased visual acuity,decreased visual acuity,HP:0007663,False
+decreased visual evoked potentials,None detected,None,False
+decreased vital capacity,decreased vital capacity,HP:0002792,False
+deep tendon reflexes,None detected,None,False
+deficits in executive function,None detected,None,False
+delayed early motor development,None detected,None,False
+delayed early motor milestones,delayed early motor milestones,HP:0001270,False
+delayed gross motor development,delayed gross motor development,HP:0002194,False
+delayed language,None detected,None,False
+delayed motor and language development,None detected,None,False
+delayed motor development,delayed motor development,HP:0001270,False
+delayed motor milestones,delayed motor milestones,HP:0001270,False
+delayed motor skills,delayed motor skills,HP:0002194,False
+delayed psychomotor development,delayed psychomotor development,HP:0001263,False
+delayed walking,None detected,None,False
+delusions,delusions,HP:0000746,False
+dementia,dementia,HP:0000726,False
+depressed deep tendon reflexes,None detected,None,False
+depressed or absent deep tendon reflexes,absent deep tendon reflexes,HP:0001284,False
+depression,depression,HP:0000716,False
+developmental and motor delay,motor delay,HP:0001270,False
+developmental arrest,developmental arrest,HP:0007281,False
+developmental delay,developmental delay,HP:0001263,False
+developmental delay of speech and motor skills,developmental delay,HP:0001263,False
+developmental dyspraxia,None detected,None,False
+dexterity difficulties,None detected,None,False
+difficulties chewing,None detected,None,False
+difficulties climbing stairs,None detected,None,False
+difficulties in eating,None detected,None,False
+difficulties swallowing,None detected,None,False
+difficulties using the hands,None detected,None,False
+difficulties with fine movements of the hands,None detected,None,False
+difficulty breathing,difficulty breathing,HP:0002098,False
+difficulty climbing stairs,difficulty climbing stairs,HP:0003551,False
+difficulty expressing needs,None detected,None,False
+difficulty in crawling,None detected,None,False
+difficulty in opening of the eyelids,None detected,None,False
+difficulty jumping,None detected,None,False
+difficulty lifting above the head,None detected,None,False
+difficulty running,difficulty running,HP:0009046,False
+difficulty swallowing,difficulty swallowing,HP:0200136,False
+difficulty walking,difficulty walking,HP:0002355,False
+difficulty walking and running,difficulty walking,HP:0002355,False
+difficulty walking on heels,difficulty walking,HP:0002355,False
+difficulty walking with support,difficulty walking,HP:0002355,False
+difficulty walking without support,difficulty walking,HP:0002355,False
+difficulty with fine motor tasks,None detected,None,False
+difficulty with handwriting,None detected,None,False
+difficulty writing,None detected,None,False
+diffuse muscle weakness with axial predominance,muscle weakness,HP:0001324,False
+diffusely depigmented hair and skin at birth,None detected,None,False
+dilated fixed and unequal pupils,None detected,None,False
+diminished blink rate,None detected,None,False
+diminished deep tendon reflexes in arms and knees,diminished deep tendon reflexes,HP:0001265,False
+diminished manual dexterity,None detected,None,False
+diminished muscle bulk distally,None detected,None,False
+diminished or absent limb reflexes,None detected,None,False
+diminished sensation of all modalities in the distal parts of the extremities,None detected,None,False
+diminished tendon reflexes,None detected,None,False
+diplopia,diplopia,HP:0000651,False
+disabling daytime drowsiness,drowsiness,HP:0002329,False
+discoloration,None detected,None,False
+disinhibition,disinhibition,HP:0000734,False
+dislocation of hips,None detected,None,False
+dislocation of knees,None detected,None,False
+dislocations of elbows,None detected,None,False
+dislocations of knees,None detected,None,False
+disordered skin and hair pigmentation,None detected,None,False
+disorientation,disorientation,HP:0001289,False
+disrupted ocular pursuit movements,disrupted ocular pursuit movements,HP:0000617,False
+disrupted saccades,None detected,None,False
+distal amyotrophy,distal amyotrophy,HP:0003693,False
+distal atrophy,None detected,None,False
+distal atrophy and severe weakness of the hands and ankles,None detected,None,False
+distal contractures,contractures,HP:0001371,False
+distal hypoesthesia,hypoesthesia,HP:0003474,False
+distal joint laxity,joint laxity,HP:0001388,False
+distal leg atrophy,None detected,None,False
+distal limb deformities,None detected,None,False
+distal limb muscle weakness,distal limb muscle weakness,HP:0002460,False
+distal limb weakness,distal limb weakness,HP:0002460,False
+distal lower limb wasting,None detected,None,False
+distal lower limb weakness,lower limb weakness,HP:0007340,False
+distal motor and sensory impairment,sensory impairment,HP:0003474,False
+distal muscle atrophy,distal muscle atrophy,HP:0003693,False
+distal muscle atrophy in the lower limbs,distal muscle atrophy,HP:0003693,False
+distal muscle atrophy particularly of the intrinsic hand muscles,distal muscle atrophy,HP:0003693,False
+distal muscle wasting,distal muscle wasting,HP:0003693,False
+distal muscle wasting in the upper and lower limbs,distal muscle wasting,HP:0003693,False
+distal muscle weakness,distal muscle weakness,HP:0002460,False
+distal muscle weakness and atrophy,distal muscle weakness,HP:0002460,False
+distal muscle weakness and atrophy affecting the lower limbs,distal muscle weakness,HP:0002460,False
+distal muscle weakness in the upper and lower limbs,distal muscle weakness,HP:0002460,False
+distal muscular atrophy,distal muscular atrophy,HP:0003693,False
+distal muscular weakness,distal muscular weakness,HP:0002460,False
+distal numbness and subjective coldness of the lower limbs,None detected,None,False
+distal sensory abnormalities,None detected,None,False
+distal sensory change,None detected,None,False
+distal sensory impairment,distal sensory impairment,HP:0002936,False
+distal sensory impairment at the toes,distal sensory impairment,HP:0002936,False
+distal sensory impairment in lower limbs to vibration,distal sensory impairment in lower limbs,HP:0002936,False
+distal sensory impairment of the lower limbs,distal sensory impairment,HP:0002936,False
+distal sensory impairment particularly in the lower limbs,distal sensory impairment,HP:0002936,False
+distal sensory loss,distal sensory loss,HP:0002936,False
+distal sensory loss in the hands and feet,distal sensory loss,HP:0002936,False
+distal sensory loss in the lower limbs,distal sensory loss,HP:0002936,False
+distal upper limb wasting,None detected,None,False
+distal upper limb weakness,limb weakness,HP:0003690,False
+distal wasting in all limbs,None detected,None,False
+distal weakness,None detected,None,False
+distal weakness affecting the upper limb,None detected,None,False
+distal weakness and atrophy in the upper extremities,None detected,None,False
+distal weakness and atrophy of the limbs,None detected,None,False
+distally pronounced muscular weakness of the arms and legs,muscular weakness,HP:0001324,False
+diurnal variation of symptoms,None detected,None,False
+dizziness,dizziness,HP:0002321,False
+dorsal flexion of the great toes,None detected,None,False
+double vision,double vision,HP:0000651,False
+down or upslanting palpebral fissures,upslanting palpebral fissures,HP:0000582,False
+downbeat nystagmus,downbeat nystagmus,HP:0010545,False
+downbeating nystagmus,nystagmus,HP:0000639,False
+drooling,drooling,HP:0002307,False
+dysarthria,dysarthria,HP:0001260,False
+dysarthric speech,dysarthric speech,HP:0001260,False
+dysautonomia,None detected,None,False
+dysconjugate eye gaze,None detected,None,False
+dysdiadochokinesia,dysdiadochokinesia,HP:0002075,False
+dysdiadochokinesis,dysdiadochokinesis,HP:0002075,False
+dysesthetic sensations in feet,None detected,None,False
+dysfunction of bowel and bladder,None detected,None,False
+dysgraphia,dysgraphia,HP:0010526,False
+dyskinesia,dyskinesia,HP:0100660,False
+dyskinesias,dyskinesias,HP:0100660,False
+dyskinetic movements in the left limb and trunk,None detected,None,False
+dysmetria,dysmetria,HP:0001310,False
+dysmetric saccades,dysmetric saccades,HP:0000641,False
+dysmetric saccadic eye movements,None detected,None,False
+dysmetric vertical saccades,None detected,None,False
+dysmorphic facial features,dysmorphic facial features,HP:0001999,False
+"dysmorphic features (prominent and bulbous nose, wide mouth, coarse features)",bulbous nose,HP:0000414,False
+"dysmorphic features (prominent and bulbous nose, wide mouth, coarse features)",wide mouth,HP:0000154,False
+dysphagia,dysphagia,HP:0002015,False
+dysphonia,dysphonia,HP:0001618,False
+dyspnea,dyspnea,HP:0002094,False
+dystonia,dystonia,HP:0001332,False
+dystonia affecting the legs,dystonia,HP:0001332,False
+dystonia episodes of the face,dystonia,HP:0001332,False
+dystonia involving the face,dystonia,HP:0001332,False
+dystonia involving the jaw,dystonia,HP:0001332,False
+dystonia involving the larynx,dystonia,HP:0001332,False
+dystonia involving the tongue,dystonia,HP:0001332,False
+dystonia involving the trunk,dystonia,HP:0001332,False
+dystonia of the craniocervical region,dystonia,HP:0001332,False
+dystonia of the feet,dystonia,HP:0001332,False
+dystonia of the lower limbs,dystonia,HP:0001332,False
+dystonia of the trunk,dystonia,HP:0001332,False
+dystonia of the upper limbs,dystonia,HP:0001332,False
+dystonic arm posturing,None detected,None,False
+dystonic cramps,None detected,None,False
+dystonic hand posturing,None detected,None,False
+dystonic head jerks,None detected,None,False
+dystonic movements,dystonic movements,HP:0001332,False
+dystonic movements of the right hand,dystonic movements,HP:0001332,False
+dystonic posture of toes,None detected,None,False
+dystonic posture or movement,None detected,None,False
+dystonic posturing,None detected,None,False
+dystonic posturing of the hands,None detected,None,False
+dystonic posturing of the head and arm,None detected,None,False
+dystonic posturing of the limbs,None detected,None,False
+dystonic posturing of the upper limbs,None detected,None,False
+dystonic spasms,None detected,None,False
+dystonic torticollis,torticollis,HP:0000473,False
+dystonic tremor in upper limbs,tremor,HP:0001337,False
+early loss of color discrimination,None detected,None,False
+early onset hearing loss,hearing loss,HP:0000365,False
+easy fatigability,easy fatigability,HP:0003388,False
+elongated face,None detected,None,False
+emotional lability,emotional lability,HP:0000712,False
+end range nystagmus,nystagmus,HP:0000639,False
+epilepsy,epilepsy,HP:0001250,False
+episodic breath holding,None detected,None,False
+episodic dyskinesias,dyskinesias,HP:0100660,False
+episodic muscle cramps,muscle cramps,HP:0003394,False
+equino-varus deformity,None detected,None,False
+exaggerated deep tendon reflexes,None detected,None,False
+exaggerated jaw jerk,None detected,None,False
+exaggerated lumbar lordosis,exaggerated lumbar lordosis,HP:0002938,False
+exaggerated startle reflex,None detected,None,False
+exaggerated startle response,exaggerated startle response,HP:0002267,False
+executive dysfunction,None detected,None,False
+exercise induced paroxysmal dystonia,paroxysmal dystonia,HP:0002268,False
+exotropia,exotropia,HP:0000577,False
+explosive speech,explosive speech,HP:0002168,False
+expressive ataxic speech,None detected,None,False
+expressive language delay,expressive language delay,HP:0002474,False
+expressive speech delay,speech delay,HP:0000750,False
+extensor plantar responses,extensor plantar responses,HP:0003487,False
+external ophthalmoplegia,external ophthalmoplegia,HP:0000544,False
+extreme hypertonia,hypertonia,HP:0001276,False
+eye movement abnormalities,eye movement abnormalities,HP:0000496,False
+eyelid apraxia,eyelid apraxia,HP:0000658,False
+eyelid myoclonia,eyelid myoclonia,HP:0025097,False
+face involvement,None detected,None,False
+facial dystonia,facial dystonia,HP:0012179,False
+facial grimacing,facial grimacing,HP:0000273,False
+facial hypomimia,hypomimia,HP:0000338,False
+facial hypotonia,facial hypotonia,HP:0000297,False
+facial lingual fasciculations,lingual fasciculations,HP:0001308,False
+facial myoclonus,myoclonus,HP:0001336,False
+facial myokymia,facial myokymia,HP:0000317,False
+facial palsy with reduced tongue mobility,facial palsy,HP:0010628,False
+facial tics,facial tics,HP:0011468,False
+facial weakness,facial weakness,HP:0010628,False
+failure to acquire language,None detected,None,False
+failure to thrive,failure to thrive,HP:0001508,False
+fasciculations,fasciculations,HP:0002380,False
+fasciculations in the lower limbs,fasciculations,HP:0002380,False
+fasciculations of the periorbital region and limbs,fasciculations,HP:0002380,False
+fast horizontal or rotary nystagmus,rotary nystagmus,HP:0001583,False
+fatigue following ataxic attacks,fatigue,HP:0012378,False
+faucial dystonia,dystonia,HP:0001332,False
+febrile seizures,febrile seizures,HP:0002373,False
+feeding difficulties,feeding difficulties,HP:0011968,False
+feeding difficulties requiring a gastrostomy tube,feeding difficulties,HP:0011968,False
+feeding problems,feeding problems,HP:0011968,False
+feeling of muscle slowness or stiffness,None detected,None,False
+fetal akinesia,fetal akinesia,HP:0001989,False
+fine finger control difficulties,None detected,None,False
+fine motor incoordination,incoordination,HP:0002311,False
+fine twitching in the face,twitching,HP:0010546,False
+fine twitching in the hand muscles,twitching,HP:0010546,False
+fixed facial expression,fixed facial expression,HP:0005329,False
+flaccidity,None detected,None,False
+flat face,flat face,HP:0012368,False
+flat feet,flat feet,HP:0001763,False
+flexion contractures,flexion contractures,HP:0001371,False
+flexion contractures of the fingers,flexion contractures,HP:0001371,False
+flexion contractures of the legs,flexion contractures,HP:0001371,False
+flexion contractures of the limbs,flexion contractures,HP:0001371,False
+flexion contractures of the toes,flexion contractures,HP:0001371,False
+flexion contractures of the toes,contractures of the toes,HP:0005830,False
+flexion deformities of the interphalangeal joints,None detected,None,False
+flexion dystonia of the fingers,dystonia,HP:0001332,False
+flexion of the elbows,None detected,None,False
+flexion of the knees,None detected,None,False
+focal dystonia,focal dystonia,HP:0004373,False
+focal myoclonic seizures,focal myoclonic seizures,HP:0011166,False
+focal seizures,focal seizures,HP:0007359,False
+foot abnormalities,None detected,None,False
+foot and wrist drop,wrist drop,HP:0031189,False
+foot clonus,clonus,HP:0002169,False
+foot deformities,foot deformities,HP:0001760,False
+foot deformities (pes cavus or pes valgus),foot deformities,HP:0001760,False
+foot deformities (pes cavus or pes valgus),pes cavus,HP:0001761,False
+foot deformities (pes cavus or pes valgus),pes valgus,HP:0008081,False
+foot deformities (pes cavus),foot deformities,HP:0001760,False
+foot deformities (pes cavus),pes cavus,HP:0001761,False
+foot deformities including pes cavus and hammertoes,foot deformities,HP:0001760,False
+foot deformities including pes cavus and hammertoes,pes cavus,HP:0001761,False
+foot deformities including pes cavus and hammertoes,hammertoes,HP:0001765,False
+foot deformities such as hammertoes,foot deformities,HP:0001760,False
+foot deformities such as hammertoes,hammertoes,HP:0001765,False
+foot deformities such as pes cavus and hammertoes,foot deformities,HP:0001760,False
+foot deformities such as pes cavus and hammertoes,pes cavus,HP:0001761,False
+foot deformities such as pes cavus and hammertoes,hammertoes,HP:0001765,False
+foot deformities such as pes cavus or claw toes,foot deformities,HP:0001760,False
+foot deformities such as pes cavus or claw toes,pes cavus,HP:0001761,False
+foot deformity,foot deformity,HP:0001760,False
+foot dragging,None detected,None,False
+foot drop,foot drop,HP:0009027,False
+foot dystonia,dystonia,HP:0001332,False
+foot eversion,None detected,None,False
+foot or ankle deformities,None detected,None,False
+foot paroxysmal exercise induced dyskinesia,dyskinesia,HP:0100660,False
+freckles,None detected,None,False
+frequent falling due to lower limb weakness,lower limb weakness,HP:0007340,False
+frequent falls,frequent falls,HP:0002359,False
+frequent falls when walking,frequent falls,HP:0002359,False
+frequent infections,frequent infections,HP:0002719,False
+frequent respiratory infections,frequent respiratory infections,HP:0002205,False
+frequent tripping,None detected,None,False
+frontotemporal dementia,frontotemporal dementia,HP:0002145,False
+gait abnormalities,gait abnormalities,HP:0001288,False
+gait abnormality,None detected,None,False
+gait and balance problems,None detected,None,False
+gait and postural abnormalities,None detected,None,False
+gait ataxia,gait ataxia,HP:0002066,False
+gait difficulties,gait difficulties,HP:0001288,False
+gait disorder with falls,falls,HP:0002527,False
+gait disturbance,gait disturbance,HP:0001288,False
+gait disturbances,gait disturbances,HP:0001288,False
+gait disturbances due to cerebellar ataxia,gait disturbances,HP:0001288,False
+gait disturbances due to cerebellar ataxia,cerebellar ataxia,HP:0001251,False
+gait impairment,None detected,None,False
+gait instability,gait instability,HP:0002317,False
+gastroesophageal reflux,gastroesophageal reflux,HP:0002020,False
+gastrointestinal dysfunction,None detected,None,False
+gastrointestinal symptoms,None detected,None,False
+gaze evoked horizontal nystagmus,horizontal nystagmus,HP:0000666,False
+gaze evoked nystagmus,nystagmus,HP:0000639,False
+gaze fixation instability,None detected,None,False
+gaze palsy,None detected,None,False
+gaze paretic nystagmus,nystagmus,HP:0000639,False
+general cognitive decline,cognitive decline,HP:0001268,False
+generalized areflexia,areflexia,HP:0001284,False
+generalized convulsive seizures,seizures,HP:0001250,False
+generalized dystonia,generalized dystonia,HP:0007325,False
+generalized epilepsy,epilepsy,HP:0001250,False
+generalized epileptic seizures,seizures,HP:0001250,False
+generalized fasciculations,fasciculations,HP:0002380,False
+generalized hypertonia,hypertonia,HP:0001276,False
+generalized hypotonia,generalized hypotonia,HP:0001290,False
+generalized hypotonia at birth,generalized hypotonia,HP:0001290,False
+generalized motor seizures,seizures,HP:0001250,False
+generalized muscle weakness,generalized muscle weakness,HP:0003324,False
+generalized seizure,seizure,HP:0001250,False
+generalized seizures,generalized seizures,HP:0002197,False
+generalized tonic clonic seizures,generalized tonic clonic seizures,HP:0002069,False
+generalized wasting,None detected,None,False
+genu recurvatum,genu recurvatum,HP:0002816,False
+glaucoma,glaucoma,HP:0000501,False
+global developmental delay,global developmental delay,HP:0001263,False
+global developmental stagnation,developmental stagnation,HP:0007281,False
+glossoptosis,glossoptosis,HP:0000162,False
+Gowers sign,gowers sign,HP:0003391,False
+grimacing,None detected,None,False
+gross motor delay,gross motor delay,HP:0002194,False
+growth retardation,growth retardation,HP:0001510,False
+gum hypertrophy,gum hypertrophy,HP:0000212,False
+hallucinations,hallucinations,HP:0000738,False
+hammer toes,None detected,None,False
+hammertoes,hammertoes,HP:0001765,False
+hand clapping,None detected,None,False
+hand deformity,None detected,None,False
+hand dystonia,dystonia,HP:0001332,False
+hand muscle weakness,hand muscle weakness,HP:0030237,False
+hand muscle weakness and atrophy,hand muscle weakness,HP:0030237,False
+hand tremor,hand tremor,HP:0002378,False
+hand weakness,None detected,None,False
+handwriting difficulties,None detected,None,False
+head and trunk titubation,titubation,HP:0030187,False
+head banging,None detected,None,False
+head lag,None detected,None,False
+head nodding,None detected,None,False
+head shaking,None detected,None,False
+head titubation,head titubation,HP:0002599,False
+head tremor,head tremor,HP:0002346,False
+headache,headache,HP:0002315,False
+hearing impairment,hearing impairment,HP:0000365,False
+hearing loss,hearing loss,HP:0000365,False
+high arched feet,None detected,None,False
+high arched palate,high arched palate,HP:0002705,False
+high arches,None detected,None,False
+high foot arches,None detected,None,False
+high frequency low amplitude tremor of the hands,tremor,HP:0001337,False
+high frequency small amplitude tremor in both hands,tremor,HP:0001337,False
+high palate,high palate,HP:0000218,False
+high pitched voice,high pitched voice,HP:0001620,False
+hip joint instability,joint instability,HP:0001388,False
+hirsutism,hirsutism,HP:0001007,False
+hoarse voice,hoarse voice,HP:0001609,False
+hobby horse gait,None detected,None,False
+hollowed cheeks,None detected,None,False
+horizontal and vertical gaze evoked nystagmus,nystagmus,HP:0000639,False
+horizontal gaze evoked nystagmus,nystagmus,HP:0000639,False
+horizontal gaze limitation,None detected,None,False
+horizontal gaze nystagmus,nystagmus,HP:0000639,False
+horizontal nystagmus,horizontal nystagmus,HP:0000666,False
+hyperactive deep tendon reflexes in the lower limbs,hyperactive deep tendon reflexes,HP:0006801,False
+hyperactive reflexes,None detected,None,False
+hyperactivity,hyperactivity,HP:0000752,False
+hyperextensibility of the wrists and ankles,None detected,None,False
+hyperextension of the knees and elbows,None detected,None,False
+hyperhidrosis,hyperhidrosis,HP:0000975,False
+hyperlordotic spine,None detected,None,False
+hypermetric saccades,hypermetric saccades,HP:0007338,False
+hypermetropia,hypermetropia,HP:0000540,False
+hypermobility,None detected,None,False
+hypermotor activity,None detected,None,False
+hypernasal speech,hypernasal speech,HP:0001611,False
+hyperopic astigmatism,hyperopic astigmatism,HP:0000484,False
+hyperreflexia,hyperreflexia,HP:0001347,False
+hyperreflexia in the upper and lower limbs,hyperreflexia,HP:0001347,False
+hyperreflexia in upper and lower limbs,hyperreflexia,HP:0001347,False
+hyperreflexia of the knee,hyperreflexia,HP:0001347,False
+hyperreflexia of the lower limbs,hyperreflexia,HP:0001347,False
+hyperreflexia of the upper and lower limbs,hyperreflexia,HP:0001347,False
+hyperreflexia of the upper limbs,hyperreflexia,HP:0001347,False
+hyperreflexia with extensor plantar responses,hyperreflexia,HP:0001347,False
+hyperreflexia with extensor plantar responses,extensor plantar responses,HP:0003487,False
+hypertelorism,hypertelorism,HP:0000316,False
+hypertonia,hypertonia,HP:0001276,False
+hypertonic urinary bladder disturbances,None detected,None,False
+hypertonicity,hypertonicity,HP:0001276,False
+hypertrichosis,hypertrichosis,HP:0000998,False
+hypertrophic muscles,hypertrophic muscles,HP:0003712,False
+hypertrophy of calf muscles,None detected,None,False
+hyperventilation,hyperventilation,HP:0002883,False
+hypo or areflexia,areflexia,HP:0001284,False
+hypoactive deep tendon reflexes,None detected,None,False
+hypoactive reflexes,None detected,None,False
+hypoesthesia of the lower limbs,hypoesthesia,HP:0003474,False
+hypokinesia,hypokinesia,HP:0002375,False
+hypometric ocular saccades,None detected,None,False
+hypometric saccades,hypometric saccades,HP:0000571,False
+hypomielination of the spinal cord,None detected,None,False
+hypomimia,hypomimia,HP:0000338,False
+hypomimic face,hypomimic face,HP:0000338,False
+hypomotor seizures,seizures,HP:0001250,False
+hypophonia,hypophonia,HP:0001621,False
+hyporeflexia,hyporeflexia,HP:0001265,False
+hyporeflexia of the lower limbs,hyporeflexia of the lower limbs,HP:0002600,False
+hyporeflexia of the upper limbs,hyporeflexia,HP:0001265,False
+hyporeflexia or areflexia in the lower limbs,hyporeflexia,HP:0001265,False
+hyporeflexia or areflexia in the lower limbs,areflexia,HP:0001284,False
+hypothyroidism,hypothyroidism,HP:0000821,False
+hypotonia,hypotonia,HP:0001290,False
+hypotrophy,None detected,None,False
+hypotrophy of the forearm muscles,None detected,None,False
+ideomotor apraxia,apraxia,HP:0002186,False
+imbalance,imbalance,HP:0002172,False
+impaired dexterity,None detected,None,False
+impaired distal vibration sensation,impaired distal vibration sensation,HP:0006886,False
+impaired dorsiflexion of the feet,None detected,None,False
+impaired gait,impaired gait,HP:0001288,False
+impaired intellectual development,None detected,None,False
+impaired optokinetic nystagmus,nystagmus,HP:0000639,False
+impaired saccades,impaired saccades,HP:0000570,False
+impaired sensation,None detected,None,False
+impaired sensation at the ankles,None detected,None,False
+impaired sensation of all modalities predominantly affecting the lower limbs,None detected,None,False
+impaired smell,None detected,None,False
+impaired smooth pursuit,impaired smooth pursuit,HP:0007772,False
+impaired strength distally,None detected,None,False
+impaired swallowing (dysphagia),dysphagia,HP:0002015,False
+impaired vibration sense in the lower legs,None detected,None,False
+impaired vibratory sense in the legs,impaired vibratory sense,HP:0002495,False
+impairment in vibration sense,None detected,None,False
+impulse control behaviors,None detected,None,False
+impulsivity,impulsivity,HP:0100710,False
+inability to achieve head control,None detected,None,False
+inability to communicate verbally,None detected,None,False
+inability to crawl,None detected,None,False
+inability to hold head up,None detected,None,False
+inability to hold up the head,None detected,None,False
+inability to roll over,None detected,None,False
+inability to run,None detected,None,False
+inability to run or climb stairs,None detected,None,False
+inability to sit or walk,None detected,None,False
+inability to sit unsupported,None detected,None,False
+inability to speak,inability to speak,HP:0002300,False
+inability to stand,None detected,None,False
+inability to stand without assistance,None detected,None,False
+inability to walk,inability to walk,HP:0002540,False
+inability to walk independently,inability to walk,HP:0002540,False
+inability to walk on heels,inability to walk,HP:0002540,False
+inability to walk on the heels or tiptoes,inability to walk,HP:0002540,False
+inability to walk or speak,inability to walk,HP:0002540,False
+inability to walk unaided,inability to walk,HP:0002540,False
+inability to walk unsupported,inability to walk,HP:0002540,False
+inability to walk without aid,inability to walk,HP:0002540,False
+incontinence,None detected,None,False
+incoordination,incoordination,HP:0002311,False
+incoordination in the arms,incoordination,HP:0002311,False
+incoordination of the hands,incoordination,HP:0002311,False
+increased ankle reflexes,None detected,None,False
+increased deep tendon reflexes,increased deep tendon reflexes,HP:0001347,False
+increased falls,falls,HP:0002527,False
+increased jaw and glabellar reflexes,None detected,None,False
+increased knee reflexes,None detected,None,False
+increased lower limb reflexes,None detected,None,False
+increased muscle tone,increased muscle tone,HP:0001276,False
+increased muscle tone in lower limbs,increased muscle tone,HP:0001276,False
+increased muscle tone in the lower limbs,increased muscle tone,HP:0001276,False
+increased patellar reflex,None detected,None,False
+increased reflexes,increased reflexes,HP:0001347,False
+increased serum creatine kinase,increased serum creatine kinase,HP:0003236,False
+increased startle induced falls,falls,HP:0002527,False
+increased tendon reflexes,None detected,None,False
+increased tone,None detected,None,False
+increased tone in all 4 limbs,None detected,None,False
+increased tone in the legs,None detected,None,False
+increased tone in the lower limbs,None detected,None,False
+increased tone in upper and lower limbs,None detected,None,False
+inguinal hernias,hernias,HP:0100790,False
+insidious progressive visual loss,progressive visual loss,HP:0000529,False
+insomnia,insomnia,HP:0100785,False
+inspiratory stridor,inspiratory stridor,HP:0005348,False
+intellectual disability,intellectual disability,HP:0001249,False
+intellectual impairment,intellectual impairment,HP:0100543,False
+intention tremor,intention tremor,HP:0002080,False
+intention tremor in hands,intention tremor,HP:0002080,False
+intention tremor in the upper limbs,intention tremor,HP:0002080,False
+intentional tremor,tremor,HP:0001337,False
+interictal cerebellar deficits,None detected,None,False
+intermittent cranial nerve involvement manifest as Bell palsy,cranial nerve involvement,HP:0001291,False
+intermittent dystonic symptoms,None detected,None,False
+intermittent hemidystonia,None detected,None,False
+intermittent limb stiffness,None detected,None,False
+intermittent myoclonic jerks,myoclonic jerks,HP:0001336,False
+intractable epilepsy,epilepsy,HP:0001250,False
+intractable focal occipital epilepsy,epilepsy,HP:0001250,False
+intractable seizures,seizures,HP:0001250,False
+involuntary choreiform movements,choreiform movements,HP:0002072,False
+involuntary dystonic movements,dystonic movements,HP:0001332,False
+involuntary facial twitching,twitching,HP:0010546,False
+involuntary flexing and extending movements,None detected,None,False
+involuntary leg jerks,None detected,None,False
+involuntary movements,involuntary movements,HP:0004305,False
+involuntary movements affecting the face,involuntary movements,HP:0004305,False
+involuntary movements affecting the jaw,involuntary movements,HP:0004305,False
+involuntary movements affecting the tongue,involuntary movements,HP:0004305,False
+involuntary movements of the legs,involuntary movements,HP:0004305,False
+"involuntary movements of the limbs, trunk, and face",involuntary movements,HP:0004305,False
+involuntary orobulbar spasms,None detected,None,False
+"involuntary posturing of the trunk, neck, or limbs",None detected,None,False
+involuntary pronation of the right arm,None detected,None,False
+involuntary sustained muscle contractions,None detected,None,False
+involvement of craniofacial muscles,None detected,None,False
+involvement of the upper extremities,None detected,None,False
+IQ less than 60,None detected,None,False
+irregular vertical pursuit,None detected,None,False
+irresistible desire to move the legs,None detected,None,False
+irresistible desire to move the lower extremities,None detected,None,False
+irritability,irritability,HP:0000737,False
+isolated hand dystonic tremor,tremor,HP:0001337,False
+isolated weakness of ankle dorsiflexion,None detected,None,False
+jaw opening with hypersalivation,hypersalivation,HP:0003781,False
+jerking head movements,jerking head movements,HP:0006961,False
+jerking movements of the arms,jerking,HP:0001336,False
+jerking movements of the head,jerking,HP:0001336,False
+jerking movements of the legs,jerking,HP:0001336,False
+jerking of the lower limbs,jerking,HP:0001336,False
+jerking of the upper limbs,jerking,HP:0001336,False
+jerky cervical dystonia,cervical dystonia,HP:0000473,False
+jerky ocular pursuit,None detected,None,False
+jerky smooth pursuit,jerky smooth pursuit,HP:0008003,False
+jerky tremor predominantly affecting the upper limbs,tremor,HP:0001337,False
+jittery movements,None detected,None,False
+joint contractures,joint contractures,HP:0001371,False
+joint pains,joint pains,HP:0002829,False
+joint position sense loss,None detected,None,False
+juvenile myoclonic epilepsy,epilepsy,HP:0001250,False
+kinetic ataxia,ataxia,HP:0001251,False
+knee contractures,knee contractures,HP:0006380,False
+kyphoscoliosis,kyphoscoliosis,HP:0002751,False
+kyphosis,kyphosis,HP:0002808,False
+lack of deep tendon reflexes,None detected,None,False
+lack of intentional movements,None detected,None,False
+lack of language development,lack of language development,HP:0001344,False
+lack of reflexes in the upper and lower limbs,None detected,None,False
+lack of response to auditory stimuli,None detected,None,False
+lack of response to tactile stimuli,None detected,None,False
+lack of response to visual stimuli,None detected,None,False
+lack of smooth pursuit,None detected,None,False
+lack of speech,lack of speech,HP:0001344,False
+lagophthalmos,None detected,None,False
+language delay,language delay,HP:0000750,False
+large calves,None detected,None,False
+laryngeal adductor dysphonia,dysphonia,HP:0001618,False
+laryngeal dysfunction,None detected,None,False
+laryngeal dystonia,laryngeal dystonia,HP:0012049,False
+laryngeal involvement,None detected,None,False
+late onset afebrile generalized tonic clonic seizures,generalized tonic clonic seizures,HP:0002069,False
+late onset cerebellar ataxia,cerebellar ataxia,HP:0001251,False
+later deterioration of motor skills,None detected,None,False
+learning difficulties,None detected,None,False
+learning disabilities,None detected,None,False
+learning disability,None detected,None,False
+leg cramps,None detected,None,False
+leg cramps during the day with exercise,None detected,None,False
+leg pains,None detected,None,False
+leg tremor,tremor,HP:0001337,False
+leg weakness,leg weakness,HP:0007340,False
+limb and truncal ataxia,truncal ataxia,HP:0002078,False
+limb ataxia,limb ataxia,HP:0002070,False
+limb contractures,limb contractures,HP:0003121,False
+limb dysmetria,limb dysmetria,HP:0002406,False
+limb dystonia,limb dystonia,HP:0002451,False
+limb hyperreflexia,hyperreflexia,HP:0001347,False
+limb hypertonia,limb hypertonia,HP:0002509,False
+limb incoordination,limb incoordination,HP:0002311,False
+limb muscle weakness,limb muscle weakness,HP:0003690,False
+limb spasticity,spasticity,HP:0001257,False
+limb tremors,tremors,HP:0001337,False
+limb weakness,limb weakness,HP:0003690,False
+limitation of eye movements,None detected,None,False
+limited hip abduction,limited hip abduction,HP:0003184,False
+limited lateral ocular movements,None detected,None,False
+"limited movements of shoulders, hips, and knees",None detected,None,False
+limited neck flexion,limited neck flexion,HP:0005991,False
+limping gait,None detected,None,False
+long toes,long toes,HP:0010511,False
+lordosis,lordosis,HP:0003307,False
+loss of ability to read and write,None detected,None,False
+loss of ability to walk,loss of ability to walk,HP:0006957,False
+loss of acquired language skills,None detected,None,False
+loss of acquired motor skills,None detected,None,False
+loss of acquired speech,None detected,None,False
+loss of ambulation,None detected,None,False
+loss of ankle reflexes,None detected,None,False
+loss of consciousness,loss of consciousness,HP:0007185,False
+loss of control of legs,None detected,None,False
+loss of developmental milestones,loss of developmental milestones,HP:0002376,False
+loss of distal joint position sense,None detected,None,False
+loss of handwriting ability,None detected,None,False
+loss of independent ambulation,None detected,None,False
+loss of motor skills,None detected,None,False
+loss of reflexes in the lower limbs,None detected,None,False
+loss of sphincter control,None detected,None,False
+loss of terminal digits,None detected,None,False
+loss of the ability to run,None detected,None,False
+loss of vibration sense,None detected,None,False
+loss of vision,loss of vision,HP:0000572,False
+loss or lack of independent ambulation,None detected,None,False
+low alertness,None detected,None,False
+low hanging columella,low hanging columella,HP:0009765,False
+low set ears,low set ears,HP:0000369,False
+lower bulbar palsies,bulbar palsies,HP:0001283,False
+lower extremity muscle weakness,muscle weakness,HP:0001324,False
+lower extremity weakness,lower extremity weakness,HP:0007340,False
+lower leg weakness,leg weakness,HP:0007340,False
+lower limb amyotrophy,lower limb amyotrophy,HP:0007210,False
+lower limb areflexia,areflexia,HP:0001284,False
+lower limb atrophy,lower limb atrophy,HP:0008944,False
+lower limb contractures,limb contractures,HP:0003121,False
+lower limb dystonia,limb dystonia,HP:0002451,False
+lower limb hyperreflexia,lower limb hyperreflexia,HP:0002395,False
+lower limb hyporeflexia,hyporeflexia,HP:0001265,False
+lower limb involvement,None detected,None,False
+lower limb muscle atrophy,muscle atrophy,HP:0003202,False
+lower limb muscle spasticity,muscle spasticity,HP:0001257,False
+lower limb muscle wasting,muscle wasting,HP:0003202,False
+lower limb muscle weakness,lower limb muscle weakness,HP:0007340,False
+lower limb spasticity,lower limb spasticity,HP:0002061,False
+lower limb spasticity primarily affecting the hamstring and posterior tibial muscles,lower limb spasticity,HP:0002061,False
+lower limb stiffness,None detected,None,False
+lower limb weakness,lower limb weakness,HP:0007340,False
+lumbar hyperlordosis,lumbar hyperlordosis,HP:0002938,False
+lumbar lordosis,lumbar lordosis,HP:0002938,False
+lumbar scoliosis,lumbar scoliosis,HP:0004626,False
+macular dystrophy,macular dystrophy,HP:0007754,False
+marked atrophy of the muscles in the legs,None detected,None,False
+marked bilateral spasticity in the legs,spasticity,HP:0001257,False
+marked distal sensory loss in all four extremities,distal sensory loss,HP:0002936,False
+marked distal upper limb weakness,limb weakness,HP:0003690,False
+marked distal weakness and wasting of the lower limbs,None detected,None,False
+marked hyperlaxity,None detected,None,False
+marked kyphosis,kyphosis,HP:0002808,False
+marked muscular atrophy,muscular atrophy,HP:0003202,False
+marked reduction of all sensory modalities below the elbows and knees,None detected,None,False
+marked sensory abnormalities,None detected,None,False
+marked short stature,short stature,HP:0004322,False
+marked spasticity,spasticity,HP:0001257,False
+marked weakness,None detected,None,False
+markedly increased tone,None detected,None,False
+mask like face,None detected,None,False
+mechanical ventilation requirement,None detected,None,False
+memory deficits,None detected,None,False
+mental impairment,mental impairment,HP:0100543,False
+mental retardation,mental retardation,HP:0001249,False
+microcephaly,microcephaly,HP:0000252,False
+micrognathia,micrognathia,HP:0000347,False
+micrographia,None detected,None,False
+mild action tremor in the upper limbs,action tremor,HP:0002345,False
+mild akinesia,akinesia,HP:0002304,False
+mild amyotrophy of the hands,amyotrophy,HP:0003202,False
+mild ataxia,ataxia,HP:0001251,False
+mild ataxia of upper and lower limbs,ataxia,HP:0001251,False
+mild atrophy of intrinsic foot muscles,None detected,None,False
+mild atrophy of proximal muscles,None detected,None,False
+mild bladder control issues,None detected,None,False
+mild bladder urgency,None detected,None,False
+mild bradykinesia,bradykinesia,HP:0002067,False
+mild cerebellar tremors,tremors,HP:0001337,False
+mild cognitive deficits,cognitive deficits,HP:0100543,False
+mild cognitive delay,cognitive delay,HP:0001263,False
+mild cognitive deterioration,None detected,None,False
+mild cognitive impairment,cognitive impairment,HP:0100543,False
+mild distal lower limb atrophy,lower limb atrophy,HP:0008944,False
+mild distal sensory impairment,distal sensory impairment,HP:0002936,False
+mild distal sensory loss,distal sensory loss,HP:0002936,False
+mild dysarthria,dysarthria,HP:0001260,False
+mild dysmetria of the upper limbs,dysmetria,HP:0001310,False
+mild dysmorphism,None detected,None,False
+mild dysphagia,dysphagia,HP:0002015,False
+mild facial muscle weakness,facial muscle weakness,HP:0010628,False
+mild facial weakness,facial weakness,HP:0010628,False
+mild gait ataxia,gait ataxia,HP:0002066,False
+mild hand atrophy,None detected,None,False
+mild hearing loss,hearing loss,HP:0000365,False
+mild horizontal gaze evoked nystagmus,nystagmus,HP:0000639,False
+mild hyperreflexia,hyperreflexia,HP:0001347,False
+mild increases in muscle tone,None detected,None,False
+mild increases in tone,None detected,None,False
+mild intellectual disability,intellectual disability,HP:0001249,False
+mild intention tremor,intention tremor,HP:0002080,False
+mild kyphosis,kyphosis,HP:0002808,False
+mild language delay,language delay,HP:0000750,False
+mild learning difficulties,None detected,None,False
+mild limb dystonia,limb dystonia,HP:0002451,False
+mild limb involvement,None detected,None,False
+mild lordosis,lordosis,HP:0003307,False
+mild lower limb ataxia,limb ataxia,HP:0002070,False
+mild memory impairment,memory impairment,HP:0002354,False
+mild mental delay,None detected,None,False
+mild mental retardation,mild mental retardation,HP:0001256,False
+mild microcephaly,mild microcephaly,HP:0040196,False
+mild motor dyspraxia,None detected,None,False
+mild muscle weakness and atrophy affecting only the lower limbs,muscle weakness,HP:0001324,False
+mild muscle weakness of the anterior tibial peroneal and posterior tibial muscles,muscle weakness,HP:0001324,False
+mild nystagmus,nystagmus,HP:0000639,False
+mild parkinsonism,parkinsonism,HP:0001300,False
+mild pes cavus,pes cavus,HP:0001761,False
+mild proximal contractures,contractures,HP:0001371,False
+mild proximal muscle weakness,proximal muscle weakness,HP:0003701,False
+mild proximal weakness,None detected,None,False
+mild ptosis,ptosis,HP:0000508,False
+mild pyramidal signs,pyramidal signs,HP:0007256,False
+mild resting tremor,resting tremor,HP:0002322,False
+mild rigidity,rigidity,HP:0002063,False
+mild sensory impairment,sensory impairment,HP:0003474,False
+mild sensory impairment of the distal lower legs,sensory impairment,HP:0003474,False
+mild sensory loss,None detected,None,False
+mild signs of sensory neuropathy,sensory neuropathy,HP:0000763,False
+mild slurring of speech,None detected,None,False
+mild spasticity,spasticity,HP:0001257,False
+mild spasticity of the lower limbs,spasticity,HP:0001257,False
+mild spasticity of the upper limbs,spasticity,HP:0001257,False
+mild to moderate cognitive delay,cognitive delay,HP:0001263,False
+mild to moderate cognitive impairment,cognitive impairment,HP:0100543,False
+mild to moderate developmental delay,developmental delay,HP:0001263,False
+mild to moderate spasticity,spasticity,HP:0001257,False
+mild to moderate speech delay,speech delay,HP:0000750,False
+mild unsteadiness,None detected,None,False
+mild upper limb ataxia,limb ataxia,HP:0002070,False
+mild upper limb cogwheel rigidity,cogwheel rigidity,HP:0002396,False
+mild upper limb dysmetria,upper limb dysmetria,HP:0020036,False
+mild upper limb hyperreflexia,hyperreflexia,HP:0001347,False
+mild upper limb involvement,None detected,None,False
+mild urinary urgency,urinary urgency,HP:0000012,False
+mild weakness of the distal hand muscles,None detected,None,False
+mild weakness of the proximal lower limb muscles,None detected,None,False
+mildly decreased sensation of pain and vibration in the feet,pain,HP:0012531,False
+mildly decreased vibration sense at the ankles,decreased vibration sense,HP:0002495,False
+mildly diminished sensation for all modalities in regions distal to the ankles,None detected,None,False
+mildly impaired intellectual development,None detected,None,False
+mildly impaired position sense,None detected,None,False
+mildly impaired smooth pursuit,impaired smooth pursuit,HP:0007772,False
+mildly impaired vibration sense,None detected,None,False
+mildly increased muscle tone,increased muscle tone,HP:0001276,False
+mildly increased serum creatine kinase,mildly increased serum creatine kinase,HP:0008180,False
+mildly reduced muscle strength in ankle dorsiflexors,None detected,None,False
+mini myoclonus,myoclonus,HP:0001336,False
+minimal ataxia,ataxia,HP:0001251,False
+minimally reactive pupils,None detected,None,False
+miosis,miosis,HP:0000616,False
+mixed hearing loss pattern,mixed hearing loss,HP:0000410,False
+moderate degree of amyotrophy in the lower extremities,amyotrophy,HP:0003202,False
+moderate intellectual disability,intellectual disability,HP:0001249,False
+moderate muscle weakness,muscle weakness,HP:0001324,False
+moderate to severe cognitive deficits,cognitive deficits,HP:0100543,False
+monotone speech,None detected,None,False
+mood abnormalities,None detected,None,False
+mood disorders,None detected,None,False
+motor aphasia,motor aphasia,HP:0002427,False
+motor deficits,None detected,None,False
+motor delay,motor delay,HP:0001270,False
+motor disturbances,None detected,None,False
+motor disturbances in all limbs,None detected,None,False
+motor fluctuations,None detected,None,False
+motor impairment (mild to moderate),None detected,None,False
+motor neuropathy,neuropathy,HP:0009830,False
+motor restlessness,restlessness,HP:0000711,False
+motor skills delay,None detected,None,False
+multiple joint contractures,multiple joint contractures,HP:0002828,False
+muscle atrophy,muscle atrophy,HP:0003202,False
+muscle atrophy affecting the upper and lower limbs,muscle atrophy,HP:0003202,False
+muscle atrophy of the hands and feet,muscle atrophy,HP:0003202,False
+muscle atrophy of the paraspinal muscles,muscle atrophy,HP:0003202,False
+muscle atrophy primarily affecting the lower limbs,muscle atrophy,HP:0003202,False
+muscle cramping,None detected,None,False
+muscle cramps,muscle cramps,HP:0003394,False
+muscle fasciculation,muscle fasciculation,HP:0002380,False
+muscle hypertonia,muscle hypertonia,HP:0001276,False
+muscle hypotrophy,muscle hypotrophy,HP:0003202,False
+muscle spasms,muscle spasms,HP:0002487,False
+muscle stiffness,muscle stiffness,HP:0003552,False
+muscle tightening typically in an extremity,None detected,None,False
+muscle wasting,muscle wasting,HP:0003202,False
+muscle weakness,muscle weakness,HP:0001324,False
+muscle weakness and atrophy in the distal upper limbs,muscle weakness,HP:0001324,False
+muscle weakness of limbs,muscle weakness,HP:0001324,False
+muscular atrophy,muscular atrophy,HP:0003202,False
+muscular hypertonia,hypertonia,HP:0001276,False
+muscular hypertonia of the lower limbs,hypertonia,HP:0001276,False
+muscular hypotonia,muscular hypotonia,HP:0001252,False
+muscular pain,pain,HP:0012531,False
+muscular rigidity,rigidity,HP:0002063,False
+mutism,mutism,HP:0002300,False
+myalgia,myalgia,HP:0003326,False
+myoclonic jerks,myoclonic jerks,HP:0001336,False
+myoclonic jerks affecting proximal muscles,myoclonic jerks,HP:0001336,False
+myoclonic jerks affecting the upper limbs,myoclonic jerks,HP:0001336,False
+myoclonic or generalized seizures,generalized seizures,HP:0002197,False
+myoclonic seizures,myoclonic seizures,HP:0002123,False
+myoclonus,myoclonus,HP:0001336,False
+myokymia of the face,myokymia,HP:0002411,False
+myokymia of the limbs,myokymia,HP:0002411,False
+myokymic activity,None detected,None,False
+myopathic facies,myopathic facies,HP:0002058,False
+myopia,myopia,HP:0000545,False
+myotonia,myotonia,HP:0002486,False
+narrow based spastic gait,spastic gait,HP:0002064,False
+narrow chest,narrow chest,HP:0000774,False
+narrow myopathic face,myopathic face,HP:0002058,False
+nasal voice,nasal voice,HP:0001611,False
+nausea,nausea,HP:0002018,False
+neck dystonia,dystonia,HP:0001332,False
+neck muscle weakness,neck muscle weakness,HP:0000467,False
+neck myoclonia,None detected,None,False
+neck tremor,tremor,HP:0001337,False
+neck weakness,None detected,None,False
+need for assistance in walking,None detected,None,False
+neonatal convulsions,None detected,None,False
+neonatal hypotonia,neonatal hypotonia,HP:0001319,False
+neurocognitive regression,None detected,None,False
+neurogenic bladder,neurogenic bladder,HP:0000011,False
+neurogenic bladder dysfunction,neurogenic bladder,HP:0000011,False
+neuropathic joint degeneration,None detected,None,False
+neuropathic pain,pain,HP:0012531,False
+no expressive language,None detected,None,False
+no head control,None detected,None,False
+no movement of the big toes,None detected,None,False
+no movement of the right vocal cord,None detected,None,False
+no social eye contact,None detected,None,False
+no speech,None detected,None,False
+no spontaneous mobility,None detected,None,False
+no spontaneous movement,None detected,None,False
+no visual reaction to light,None detected,None,False
+no voluntary movement of lower extremities below the knees,None detected,None,False
+nocturnal enuresis,nocturnal enuresis,HP:0010677,False
+nocturnal hypoventilation,nocturnal hypoventilation,HP:0002877,False
+nocturnal insomnia,insomnia,HP:0100785,False
+nocturnal muscle jerks,None detected,None,False
+nocturnal secondary generalized tonic clonic seizures,secondary generalized tonic clonic seizures,HP:0007334,False
+nonambulatory,None detected,None,False
+nonambulatory status,None detected,None,False
+nonprogressive weakness,None detected,None,False
+nonspecific dysmorphic facial features,dysmorphic facial features,HP:0001999,False
+nonspecific dysmorphic features such as bulbous nose and long face,bulbous nose,HP:0000414,False
+nonspecific dysmorphic features such as bulbous nose and long face,long face,HP:0000276,False
+nonspecific lower back pain,lower back pain,HP:0003419,False
+nonstimulus sensitive myoclonic jerks affecting face,myoclonic jerks,HP:0001336,False
+nonstimulus sensitive myoclonic jerks affecting hands,myoclonic jerks,HP:0001336,False
+nonverbal,nonverbal,HP:0001344,False
+numbness and weakness of the feet and legs,None detected,None,False
+nystagmoid eye movement,None detected,None,False
+nystagmus,nystagmus,HP:0000639,False
+obesity,obesity,HP:0001513,False
+obstructive sleep apnea,obstructive sleep apnea,HP:0002870,False
+occasionally difficulty with bladder emptying,None detected,None,False
+ocular abnormalities,None detected,None,False
+ocular apraxia,apraxia,HP:0002186,False
+ocular dysmetria,dysmetria,HP:0001310,False
+ocular elevation,None detected,None,False
+ocular movement abnormalities,ocular movement abnormalities,HP:0000496,False
+oculogyric crises,None detected,None,False
+oculogyric spasms,None detected,None,False
+oculomotor abnormalities,oculomotor abnormalities,HP:0000496,False
+oculomotor apraxia,oculomotor apraxia,HP:0000657,False
+oculomotor disturbance,None detected,None,False
+open mouth,open mouth,HP:0000194,False
+open mouth posture,open mouth,HP:0000194,False
+ophthalmoplegia,ophthalmoplegia,HP:0000602,False
+opisthotonic posturing,None detected,None,False
+optic atrophy,optic atrophy,HP:0000648,False
+optic disc pallor,optic disc pallor,HP:0000543,False
+optic nerve atrophy,optic nerve atrophy,HP:0000648,False
+optic nerve dysfunction,None detected,None,False
+optical atrophy,None detected,None,False
+orofacial dyskinesia,orofacial dyskinesia,HP:0002310,False
+orofacial dystonia,None detected,None,False
+oromandibular dysfunction,None detected,None,False
+oromandibular dystonia,oromandibular dystonia,HP:0012048,False
+oromotor dysfunction,None detected,None,False
+oromotor hypotonia,hypotonia,HP:0001290,False
+oropharyngeal dysmotility,None detected,None,False
+orthostatic hypotension,orthostatic hypotension,HP:0001278,False
+oscillopsia,None detected,None,False
+overall decreased muscle bulk,None detected,None,False
+pain,pain,HP:0012531,False
+pain in the distal lower limbs,pain,HP:0012531,False
+pain in the lower extremities,pain,HP:0012531,False
+painful paresthesias,paresthesias,HP:0003401,False
+palatal myoclonus,palatal myoclonus,HP:0010530,False
+palatal tremor,tremor,HP:0001337,False
+pale fundi,None detected,None,False
+pale hair,None detected,None,False
+pale optic disc,pale optic disc,HP:0000543,False
+pale optic discs,pale optic discs,HP:0000543,False
+paranoia,paranoia,HP:0011999,False
+paresis,None detected,None,False
+paresis of the hand muscles,None detected,None,False
+paresthesias,paresthesias,HP:0003401,False
+paresthesias in the legs,paresthesias,HP:0003401,False
+paresthesias on the lower limbs,paresthesias,HP:0003401,False
+paresthesias periorally,paresthesias,HP:0003401,False
+parkinsonian features,None detected,None,False
+parkinsonian symptoms,None detected,None,False
+parkinsonism,parkinsonism,HP:0001300,False
+paroxysmal jerking of the trunk,jerking,HP:0001336,False
+partial complex seizures,seizures,HP:0001250,False
+partial seizures,partial seizures,HP:0007359,False
+partial vocal cord paresis,vocal cord paresis,HP:0001604,False
+patchy pigmentation,None detected,None,False
+patchy vitiligo like depigmentation,vitiligo,HP:0001045,False
+pectus carinatum,pectus carinatum,HP:0000768,False
+pectus excavatum,pectus excavatum,HP:0000767,False
+pendular eye movements,None detected,None,False
+pendular nystagmus,pendular nystagmus,HP:0012043,False
+perceptive hearing loss,hearing loss,HP:0000365,False
+periodic ataxia,ataxia,HP:0001251,False
+periodic slight head tremor,head tremor,HP:0002346,False
+periorbital twitching,twitching,HP:0010546,False
+peripheral nerve involvement,None detected,None,False
+peripheral neuropathy,peripheral neuropathy,HP:0009830,False
+peripheral neuropathy affecting the lower limbs,peripheral neuropathy,HP:0009830,False
+peripheral sensory neuropathy,peripheral sensory neuropathy,HP:0000763,False
+periventricular leukomalacia,periventricular leukomalacia,HP:0006970,False
+peroneal muscle wasting,muscle wasting,HP:0003202,False
+peroneal muscular atrophy,muscular atrophy,HP:0003202,False
+persistent nystagmus,nystagmus,HP:0000639,False
+persistent smiling or laughing,None detected,None,False
+pes cavus,pes cavus,HP:0001761,False
+pes equinovarus,pes equinovarus,HP:0001762,False
+pes planus,pes planus,HP:0001763,False
+photosensitive seizures,seizures,HP:0001250,False
+photosensitivity,photosensitivity,HP:0000992,False
+pigmentary retinopathy,pigmentary retinopathy,HP:0000580,False
+pinprick sensation loss,None detected,None,False
+poor balance,None detected,None,False
+poor circulation with lower limb edema,edema,HP:0000969,False
+poor cognitive function,None detected,None,False
+poor coordination,poor coordination,HP:0002370,False
+poor exercise tolerance,poor exercise tolerance,HP:0003546,False
+poor expressive language,None detected,None,False
+poor eye contact,poor eye contact,HP:0000817,False
+poor feeding,poor feeding,HP:0011968,False
+poor fine motor skills,None detected,None,False
+poor growth,poor growth,HP:0001510,False
+poor head control,poor head control,HP:0002421,False
+poor motor coordination,poor motor coordination,HP:0002275,False
+poor motor patterning of the tongue,None detected,None,False
+poor muscle bulk,None detected,None,False
+poor or absent language,None detected,None,False
+poor or absent smooth pursuit,absent smooth pursuit,HP:0007179,False
+poor or absent speech,absent speech,HP:0001344,False
+poor or absent visual contact,None detected,None,False
+poor or no antigravity movements,None detected,None,False
+poor overall balance,None detected,None,False
+poor overall growth,None detected,None,False
+poor speech or absence of speech,poor speech,HP:0002465,False
+poor vestibuloocular reflex,None detected,None,False
+poor vision,poor vision,HP:0000505,False
+poor weight gain,poor weight gain,HP:0001508,False
+position sense defects,None detected,None,False
+positive Babinski sign,babinski sign,HP:0003487,False
+positive Gowers sign,positive gowers sign,HP:0003391,False
+positive palmomental reflex,palmomental reflex,HP:0030902,False
+postural abnormalities,None detected,None,False
+postural arm tremor,tremor,HP:0001337,False
+postural hand tremor,hand tremor,HP:0002378,False
+postural hypotension,postural hypotension,HP:0001278,False
+postural instability,postural instability,HP:0002172,False
+postural tremor,postural tremor,HP:0002174,False
+postural tremor in the upper limbs,postural tremor,HP:0002174,False
+postural tremor of the hands,postural tremor,HP:0002174,False
+postural tremor of the head,postural tremor,HP:0002174,False
+present reflexes at the knees and upper extremities,None detected,None,False
+preserved or increased reflexes,increased reflexes,HP:0001347,False
+primary progressive aphasia,aphasia,HP:0002381,False
+problems with bladder control,None detected,None,False
+problems with bowel control,None detected,None,False
+profound axonal loss,axonal loss,HP:0003447,False
+profound developmental delay,developmental delay,HP:0001263,False
+profound psychomotor delays,None detected,None,False
+profound psychomotor disability,None detected,None,False
+prognathism,prognathism,HP:0000303,False
+progressive and severe spasticity,spasticity,HP:0001257,False
+progressive ataxia,progressive ataxia,HP:0002073,False
+progressive cognitive decline,progressive cognitive decline,HP:0001268,False
+progressive difficulty walking and running,difficulty walking,HP:0002355,False
+progressive difficulty walking due to lower limb spasticity,difficulty walking,HP:0002355,False
+progressive difficulty walking due to lower limb spasticity,lower limb spasticity,HP:0002061,False
+progressive distal amyotrophy,distal amyotrophy,HP:0003693,False
+progressive distal lower limb weakness,lower limb weakness,HP:0007340,False
+progressive distal upper extremity weakness,None detected,None,False
+progressive dysarthria,dysarthria,HP:0001260,False
+progressive early onset dystonia,dystonia,HP:0001332,False
+progressive gait abnormalities,gait abnormalities,HP:0001288,False
+progressive loss of leg strength,None detected,None,False
+progressive loss of vision,progressive loss of vision,HP:0000529,False
+progressive lower extremity spasticity,spasticity,HP:0001257,False
+progressive lower extremity weakness,lower extremity weakness,HP:0007340,False
+progressive lower limb spasticity,lower limb spasticity,HP:0002061,False
+progressive lower limb weakness,lower limb weakness,HP:0007340,False
+progressive microcephaly,progressive microcephaly,HP:0000253,False
+progressive motor predominant axonal peripheral neuropathy,axonal peripheral neuropathy,HP:0003477,False
+progressive muscle atrophy,muscle atrophy,HP:0003202,False
+progressive muscle weakness affecting upper and lower limbs,progressive muscle weakness,HP:0003323,False
+progressive paraparesis,paraparesis,HP:0002385,False
+progressive peripheral neuropathy,progressive peripheral neuropathy,HP:0007133,False
+progressive postnatal microcephaly,postnatal microcephaly,HP:0005484,False
+progressive proximal lower extremity weakness,lower extremity weakness,HP:0007340,False
+progressive scoliosis,scoliosis,HP:0002650,False
+progressive severe weakness,None detected,None,False
+progressive spastic gait,spastic gait,HP:0002064,False
+progressive spastic paraparesis,progressive spastic paraparesis,HP:0007199,False
+progressive spastic paraplegia,progressive spastic paraplegia,HP:0007020,False
+progressive spastic tetraplegia,spastic tetraplegia,HP:0002510,False
+progressive spasticity affecting all 4 limbs,progressive spasticity,HP:0002191,False
+progressive spasticity mainly affecting lower limbs,progressive spasticity,HP:0002191,False
+progressive spasticity of the lower limbs,progressive spasticity,HP:0002191,False
+progressive spasticity of the upper and lower limbs,progressive spasticity,HP:0002191,False
+progressive stiffness of the lower limbs,None detected,None,False
+progressive tightening of the lower extremities,None detected,None,False
+progressive upper limb spasticity,upper limb spasticity,HP:0006986,False
+progressive wasting of distal upper and lower extremity muscles,None detected,None,False
+progressively decreasing head circumference percentile,None detected,None,False
+projectile vomiting,projectile vomiting,HP:0002587,False
+prolongation of blink reflexes,None detected,None,False
+prolonged febrile seizures,febrile seizures,HP:0002373,False
+prolonged periods of rigidity in neonates,rigidity,HP:0002063,False
+prolonged staring spells,None detected,None,False
+prominent distal sensory loss,distal sensory loss,HP:0002936,False
+pronounced spasticity,spasticity,HP:0001257,False
+protuberant abdomen,protuberant abdomen,HP:0001538,False
+proximal and distal muscle weakness,distal muscle weakness,HP:0002460,False
+proximal and distal weakness in the lower limbs,None detected,None,False
+proximal limb muscle weakness,proximal limb muscle weakness,HP:0003701,False
+proximal lower limb weakness,lower limb weakness,HP:0007340,False
+proximal muscle involvement,None detected,None,False
+proximal muscle weakness,proximal muscle weakness,HP:0003701,False
+proximal muscle weakness of the lower and upper limbs,proximal muscle weakness,HP:0003701,False
+proximal muscle weakness of the lower limbs,proximal muscle weakness,HP:0003701,False
+proximal paresis of the legs,None detected,None,False
+proximal upper limb weakness,limb weakness,HP:0003690,False
+proximal weakness of the lower limbs,None detected,None,False
+proximally weak lower extremities,None detected,None,False
+pseudobulbar dysarthria,dysarthria,HP:0001260,False
+pseudobulbar palsy,pseudobulbar palsy,HP:0007024,False
+pseudobulbar signs,pseudobulbar signs,HP:0002200,False
+pseudohypertrophy of the calves,pseudohypertrophy of the calves,HP:0003707,False
+pseudopyramidal signs including exaggerated tendon reflexes and extensor plantar responses,extensor plantar responses,HP:0003487,False
+psychomotor delay,psychomotor delay,HP:0001263,False
+psychosis,psychosis,HP:0000709,False
+ptosis,ptosis,HP:0000508,False
+pupillary abnormalities,pupillary abnormalities,HP:0000615,False
+quadriparesis,quadriparesis,HP:0002273,False
+quadriplegia,quadriplegia,HP:0002445,False
+quadriplegic,None detected,None,False
+rapidly progressive asymmetric paralysis of the upper and lower limbs,paralysis,HP:0003470,False
+raspy voice,None detected,None,False
+rebound nystagmus,nystagmus,HP:0000639,False
+recurrent and brief attacks of involuntary movement,None detected,None,False
+recurrent complex partial seizures,complex partial seizures,HP:0002384,False
+recurrent episodes of unilateral eyelid twitching,eyelid twitching,HP:0000643,False
+reduced cervical motion,None detected,None,False
+reduced distal sensation,None detected,None,False
+reduced dopaminergic innervation,None detected,None,False
+reduced hip flexion,None detected,None,False
+reduced or absent blink reflexes,None detected,None,False
+reduced or absent reflexes,None detected,None,False
+reduced saccadic velocity,None detected,None,False
+reduced sensation,None detected,None,False
+reduced sensation in the lower limbs,None detected,None,False
+"reduced sensation to pinprick, light touch, vibration, and joint position in legs and feet",None detected,None,False
+reduced spontaneous movements,None detected,None,False
+reduced superficial sensibility,None detected,None,False
+reduced upgaze,None detected,None,False
+reduced vertical upgaze,None detected,None,False
+reduced vibration sense,None detected,None,False
+reduced vision,None detected,None,False
+reduced visual acuity,reduced visual acuity,HP:0007663,False
+regression of skills,None detected,None,False
+repetitive bilateral myoclonic jerks in the shoulders and arms,myoclonic jerks,HP:0001336,False
+repetitive movements,repetitive movements,HP:0000733,False
+respiratory muscle weakness,respiratory muscle weakness,HP:0002747,False
+resting tremor,resting tremor,HP:0002322,False
+restless legs,restless legs,HP:0012452,False
+restricted ocular movements,None detected,None,False
+retching,None detected,None,False
+retinal pigment abnormalities,None detected,None,False
+retinal vessel tortuosity,None detected,None,False
+retrocollis,retrocollis,HP:0002544,False
+retrognathia,retrognathia,HP:0000278,False
+rigid spine,rigid spine,HP:0003306,False
+rigidity,rigidity,HP:0002063,False
+rolandic seizures,seizures,HP:0001250,False
+Romberg sign,None detected,None,False
+Romberg sign positive,None detected,None,False
+rotary movements of the head and eyes,None detected,None,False
+rotary nystagmus,rotary nystagmus,HP:0001583,False
+rotatory end gaze nystagmus,nystagmus,HP:0000639,False
+running difficulties,None detected,None,False
+saccadic eye intrusions,None detected,None,False
+saccadic eye movements,None detected,None,False
+saccadic eye pursuit,None detected,None,False
+saccadic ocular pursuit,None detected,None,False
+saccadic pursuit,None detected,None,False
+saccadic pursuits,None detected,None,False
+scanning speech,scanning speech,HP:0002168,False
+scapular winging,scapular winging,HP:0003691,False
+scissor gait,scissor gait,HP:0012407,False
+scissoring gait,None detected,None,False
+scissoring walk,None detected,None,False
+scissors gait,scissors gait,HP:0012407,False
+scoliosis,scoliosis,HP:0002650,False
+seizures,seizures,HP:0001250,False
+sensorimotor axonopathy,None detected,None,False
+sensorimotor polyneuropathy,None detected,None,False
+sensorineural deafness,sensorineural deafness,HP:0000407,False
+sensorineural hearing loss,sensorineural hearing loss,HP:0000407,False
+sensory abnormalities,None detected,None,False
+sensory ataxia,sensory ataxia,HP:0010871,False
+sensory deficits in a symmetrical stocking glove pattern,None detected,None,False
+sensory disturbance,None detected,None,False
+sensory impairment,sensory impairment,HP:0003474,False
+sensory loss,None detected,None,False
+sensory loss affecting all modalities,None detected,None,False
+severe amyotrophy,amyotrophy,HP:0003202,False
+severe appendicular spasticity,spasticity,HP:0001257,False
+severe ataxia of gait,ataxia of gait,HP:0002066,False
+severe atrophy and decreased sensation in the arms and legs,None detected,None,False
+severe cerebellar atrophy,cerebellar atrophy,HP:0001272,False
+severe cognitive deficit,None detected,None,False
+severe cognitive impairment,cognitive impairment,HP:0100543,False
+severe developmental delay,developmental delay,HP:0001263,False
+severe distal muscle atrophy,distal muscle atrophy,HP:0003693,False
+severe distal weakness,None detected,None,False
+severe dysarthria,dysarthria,HP:0001260,False
+severe facial weakness,facial weakness,HP:0010628,False
+severe failure to thrive,severe failure to thrive,HP:0001525,False
+severe fetal akinesia,fetal akinesia,HP:0001989,False
+severe foot deformity,foot deformity,HP:0001760,False
+severe gait disturbance,gait disturbance,HP:0001288,False
+severe hypotonia,hypotonia,HP:0001290,False
+severe incapacitating spastic paraparesis,spastic paraparesis,HP:0002313,False
+severe intellectual disability,intellectual disability,HP:0001249,False
+severe intractable epilepsy,epilepsy,HP:0001250,False
+severe kyphoscoliosis,kyphoscoliosis,HP:0002751,False
+severe mental deterioration,mental deterioration,HP:0001268,False
+severe mental retardation,severe mental retardation,HP:0010864,False
+severe muscle wasting,muscle wasting,HP:0003202,False
+severe neurologic impairment,None detected,None,False
+severe spastic tetraparesis,spastic tetraparesis,HP:0001285,False
+severe spasticity,spasticity,HP:0001257,False
+severe spasticity of the legs,spasticity,HP:0001257,False
+severe weakness,None detected,None,False
+severe weakness of the lower extremities,None detected,None,False
+severely delayed psychomotor development,delayed psychomotor development,HP:0001263,False
+sexual dysfunction,None detected,None,False
+short philtrum,short philtrum,HP:0000322,False
+short stature,short stature,HP:0004322,False
+shoulder girdle weakness,shoulder girdle weakness,HP:0003547,False
+shoulder myoclonia,None detected,None,False
+shuffling gait,shuffling gait,HP:0002362,False
+significant hand involvement,None detected,None,False
+significant sleep disturbances,sleep disturbances,HP:0002360,False
+significant torticollis,torticollis,HP:0000473,False
+significant visual loss,visual loss,HP:0000572,False
+significantly delayed psychomotor development,delayed psychomotor development,HP:0001263,False
+simple febrile seizures,simple febrile seizures,HP:0011171,False
+skeletal abnormalities,skeletal abnormalities,HP:0000924,False
+skeletal deformities,None detected,None,False
+skeletal muscle atrophy,skeletal muscle atrophy,HP:0003202,False
+skipping gait,None detected,None,False
+sleep disturbances,sleep disturbances,HP:0002360,False
+sleep paralysis,sleep paralysis,HP:0025233,False
+slight ataxia,ataxia,HP:0001251,False
+slight deafness,deafness,HP:0000365,False
+slight difficulty with tandem gait,None detected,None,False
+slight facial weakness,facial weakness,HP:0010628,False
+slight movement of the left vocal cord,None detected,None,False
+slight postural tremor,postural tremor,HP:0002174,False
+slow movements,slow movements,HP:0002067,False
+slow ocular saccades,None detected,None,False
+slow or absent pupillary reactions,None detected,None,False
+slow pupillary reflexes,None detected,None,False
+slow pursuit,None detected,None,False
+slow saccades,slow saccades,HP:0000514,False
+slow smooth pursuit,None detected,None,False
+slow spastic gait,spastic gait,HP:0002064,False
+slow vertical saccades,None detected,None,False
+slowed mental processes,None detected,None,False
+slowed saccades,None detected,None,False
+slowed speech,None detected,None,False
+slowing of smooth pursuit eye movements,None detected,None,False
+slowly progressive distal muscle weakness,progressive distal muscle weakness,HP:0009063,False
+slowly progressive distal muscle weakness and atrophy mainly affecting the lower limbs,progressive distal muscle weakness,HP:0009063,False
+slowly progressive gait disturbances,gait disturbances,HP:0001288,False
+slowly progressive motor dysfunction,None detected,None,False
+slowly progressive weakness,None detected,None,False
+slowly progressive weakness of the distal lower limb muscles,None detected,None,False
+slurred speech,slurred speech,HP:0001350,False
+small amplitude tremor in both hands,tremor,HP:0001337,False
+small body size,None detected,None,False
+small head circumference,small head circumference,HP:0000252,False
+small pinpoint pupils,None detected,None,False
+some proximal muscle weakness,proximal muscle weakness,HP:0003701,False
+spasmodic dysphonia,spasmodic dysphonia,HP:0012049,False
+spasmodic torticollis,spasmodic torticollis,HP:0000473,False
+spastic ataxia,spastic ataxia,HP:0002497,False
+spastic diplegia,spastic diplegia,HP:0001264,False
+spastic dysarthria,spastic dysarthria,HP:0002464,False
+spastic dysphonia,dysphonia,HP:0001618,False
+spastic gait,spastic gait,HP:0002064,False
+spastic gait abnormalities,spastic gait,HP:0002064,False
+spastic gait abnormalities,gait abnormalities,HP:0001288,False
+spastic gait abnormality,spastic gait,HP:0002064,False
+spastic gait ataxia,spastic gait,HP:0002064,False
+spastic gait ataxia,gait ataxia,HP:0002066,False
+spastic gait disorder,spastic gait,HP:0002064,False
+spastic leg tone,None detected,None,False
+spastic paraparesis,spastic paraparesis,HP:0002313,False
+spastic paraplegia,spastic paraplegia,HP:0001258,False
+spastic paraplegia of the limbs,spastic paraplegia,HP:0001258,False
+spastic paraplegia of the lower limbs,spastic paraplegia,HP:0001258,False
+spastic quadriparesis,spastic quadriparesis,HP:0001285,False
+spastic quadriplegia,spastic quadriplegia,HP:0002510,False
+spastic tetraparesis,spastic tetraparesis,HP:0001285,False
+spastic tetraplegia,spastic tetraplegia,HP:0002510,False
+spastic tongue protrusion,tongue protrusion,HP:0010808,False
+spasticity,spasticity,HP:0001257,False
+spasticity affecting all four limbs,spasticity,HP:0001257,False
+spasticity in all 4 limbs,spasticity,HP:0001257,False
+spasticity in lower extremities,spasticity,HP:0001257,False
+spasticity in the lower limbs,spasticity,HP:0001257,False
+spasticity in the upper extremities,spasticity,HP:0001257,False
+spasticity in upper extremities,spasticity,HP:0001257,False
+spasticity mainly affecting the lower limbs,spasticity,HP:0001257,False
+spasticity of all 4 limbs,spasticity,HP:0001257,False
+spasticity of all limbs,spasticity,HP:0001257,False
+spasticity of the arms,spasticity,HP:0001257,False
+spasticity of the legs,spasticity,HP:0001257,False
+spasticity of the lower extremities,spasticity,HP:0001257,False
+spasticity of the lower limbs,spasticity,HP:0001257,False
+spasticity of the upper and lower limbs,spasticity,HP:0001257,False
+spasticity of the upper limbs,spasticity,HP:0001257,False
+spasticity or stiffness at rest,spasticity,HP:0001257,False
+spasticity with hyperreflexia,spasticity,HP:0001257,False
+spasticity with hyperreflexia,hyperreflexia,HP:0001347,False
+speech articulation difficulties,speech articulation difficulties,HP:0009088,False
+speech delay,speech delay,HP:0000750,False
+speech delay with stuttering,speech delay,HP:0000750,False
+speech delay with stuttering,stuttering,HP:0025268,False
+speech difficulties,speech difficulties,HP:0000750,False
+speech impairment,speech impairment,HP:0002167,False
+speech problems,None detected,None,False
+sphincter disturbances,sphincter disturbances,HP:0002839,False
+sporadic seizures,seizures,HP:0001250,False
+squint,squint,HP:0000486,False
+stagnation of motor development,None detected,None,False
+staring gaze,staring gaze,HP:0025401,False
+status dystonicus,None detected,None,False
+steppage gait,steppage gait,HP:0003376,False
+steppage waddling gait,waddling gait,HP:0002515,False
+stereotypic laughter,None detected,None,False
+stiff legs,None detected,None,False
+stiff neck,stiff neck,HP:0025258,False
+stiffness,None detected,None,False
+stiffness in tongue,None detected,None,False
+stiffness in upper limbs,None detected,None,False
+stiffness of lower limbs,None detected,None,False
+stiffness of the limbs,None detected,None,False
+stiffness of the lower limbs,None detected,None,False
+strabismus,strabismus,HP:0000486,False
+stridor,stridor,HP:0010307,False
+stuttering,stuttering,HP:0025268,False
+subnormal somatic development,None detected,None,False
+subtle ataxia of the hands and arms,ataxia,HP:0001251,False
+subtle orofacial dyskinesias,orofacial dyskinesias,HP:0002310,False
+supranuclear gaze palsy,supranuclear gaze palsy,HP:0000605,False
+supranuclear ophthalmoplegia,supranuclear ophthalmoplegia,HP:0000623,False
+supranuclear palsy,None detected,None,False
+supranuclear vertical gaze palsy,vertical gaze palsy,HP:0000511,False
+sustained clonus,clonus,HP:0002169,False
+sustained clonus in the Achilles tendons,clonus,HP:0002169,False
+sustained muscle contractions,None detected,None,False
+sustained provoked clonus,clonus,HP:0002169,False
+swallowing difficulties,swallowing difficulties,HP:0002015,False
+swallowing dysfunction,None detected,None,False
+swallowing problems,None detected,None,False
+symmetric distal to proximal gradient of weakness,None detected,None,False
+symmetrical weakness and atrophy in the ankles,None detected,None,False
+talipes cavus,talipes,HP:0001883,False
+talipes equinovarus,talipes equinovarus,HP:0001762,False
+task specific dysphonia,dysphonia,HP:0001618,False
+temporal lobe epilepsy,epilepsy,HP:0001250,False
+tendon contractures,contractures,HP:0001371,False
+testicular atrophy,testicular atrophy,HP:0000029,False
+tetraparesis,tetraparesis,HP:0002273,False
+tetraplegia,tetraplegia,HP:0002445,False
+thenar muscle atrophy,thenar muscle atrophy,HP:0003393,False
+thick vermilion of lips,None detected,None,False
+thickening of peripheral nerves,None detected,None,False
+thin face,thin face,HP:0000275,False
+thin face and body habitus,thin face,HP:0000275,False
+thin face with sharp features,thin face,HP:0000275,False
+thin limbs,None detected,None,False
+thin vermilion borders,thin vermilion borders,HP:0000233,False
+thinly myelinated nerve fibers,None detected,None,False
+tight heel cords,None detected,None,False
+tinnitus,tinnitus,HP:0000360,False
+tiptoe walking,None detected,None,False
+titubation,titubation,HP:0030187,False
+toe walking,toe walking,HP:0040083,False
+tongue atrophy,tongue atrophy,HP:0012473,False
+tongue fasciculation,tongue fasciculation,HP:0001308,False
+tongue fasciculations,tongue fasciculations,HP:0001308,False
+tonic clonic movements,None detected,None,False
+tonic clonic seizures,seizures,HP:0001250,False
+torsion dystonia,torsion dystonia,HP:0001304,False
+torsion spasms of the limbs,None detected,None,False
+torsion spasms of the neck,None detected,None,False
+torsion spasms of the spine,None detected,None,False
+torticollis,torticollis,HP:0000473,False
+transient aphasia,aphasia,HP:0002381,False
+transient feeding difficulties,feeding difficulties,HP:0011968,False
+trembling of both hands,None detected,None,False
+tremor,tremor,HP:0001337,False
+tremor in the hands,tremor,HP:0001337,False
+tremor of the limbs,tremor,HP:0001337,False
+tremor of the upper limb,tremor,HP:0001337,False
+tremors at birth,tremors,HP:0001337,False
+tremulous cervical dystonia,cervical dystonia,HP:0000473,False
+tremulous movements,None detected,None,False
+Trendelenburg gait,None detected,None,False
+Trendelenburg sign,None detected,None,False
+truncal and limb ataxia,limb ataxia,HP:0002070,False
+truncal ataxia,truncal ataxia,HP:0002078,False
+truncal hypotonia,truncal hypotonia,HP:0008936,False
+truncal instability,None detected,None,False
+truncal muscle weakness,muscle weakness,HP:0001324,False
+trunk ataxia,trunk ataxia,HP:0002078,False
+trunk involvement,None detected,None,False
+trunk tremor,tremor,HP:0001337,False
+tube feeding requirement,None detected,None,False
+twisting movements,None detected,None,False
+twisting movements of the upper and lower limbs,None detected,None,False
+twisting of the limbs,None detected,None,False
+typical absence seizures,typical absence seizures,HP:0011147,False
+typical spasmodic dysphonia,spasmodic dysphonia,HP:0012049,False
+ulnar deviation,None detected,None,False
+uncomfortable and unpleasant sensations in the legs,None detected,None,False
+uncomfortable sensations in the legs,None detected,None,False
+uncoordinated eye movements,None detected,None,False
+unilateral extensor plantar response,extensor plantar response,HP:0003487,False
+unilateral limb dystonia,limb dystonia,HP:0002451,False
+unilateral sensorineural hearing loss,sensorineural hearing loss,HP:0000407,False
+unilateral sustained ankle clonus,ankle clonus,HP:0011448,False
+unpleasant sensations in the legs,None detected,None,False
+unpleasant sensory sensations in the upper extremities and hands,None detected,None,False
+unstable gait,None detected,None,False
+unstable tandem walk,None detected,None,False
+unsteadiness,None detected,None,False
+unsteadiness in standing,None detected,None,False
+unsteady arm movements,None detected,None,False
+unsteady ataxic gait,ataxic gait,HP:0002066,False
+unsteady gait,unsteady gait,HP:0002317,False
+upbeat nystagmus,upbeat nystagmus,HP:0011477,False
+upper extremity dystonia,dystonia,HP:0001332,False
+upper extremity spasticity,spasticity,HP:0001257,False
+upper limb ataxia,limb ataxia,HP:0002070,False
+upper limb clumsiness,clumsiness,HP:0002312,False
+upper limb contractures,limb contractures,HP:0003121,False
+upper limb dysmetria,upper limb dysmetria,HP:0020036,False
+upper limb incoordination,limb incoordination,HP:0002311,False
+upper limb involvement,None detected,None,False
+upper limb involvement with atrophy of hand muscles,None detected,None,False
+upper limb muscle atrophy,muscle atrophy,HP:0003202,False
+upper limb muscle weakness,upper limb muscle weakness,HP:0003484,False
+upper limb postural tremor,upper limb postural tremor,HP:0007351,False
+upper limb spasticity,upper limb spasticity,HP:0006986,False
+upper limb spasticity with weakness,upper limb spasticity,HP:0006986,False
+upper limb weakness,limb weakness,HP:0003690,False
+upper motor neuron involvement,None detected,None,False
+upper motor neuron signs,None detected,None,False
+urinary frequency,None detected,None,False
+urinary incontinence,urinary incontinence,HP:0000020,False
+urinary sphincter problems,None detected,None,False
+urinary symptoms,None detected,None,False
+urinary urge incontinence,None detected,None,False
+urinary urgency,urinary urgency,HP:0000012,False
+valgosity of the hips,None detected,None,False
+valgus deformities of the feet,None detected,None,False
+variable distal muscle weakness and atrophy,distal muscle weakness,HP:0002460,False
+variable distal sensory impairment,distal sensory impairment,HP:0002936,False
+variable extensor plantar responses,extensor plantar responses,HP:0003487,False
+variable limb ataxia,limb ataxia,HP:0002070,False
+variable limb spasticity,spasticity,HP:0001257,False
+variable sensory impairment,sensory impairment,HP:0003474,False
+vertical gaze evoked nystagmus,nystagmus,HP:0000639,False
+vertical gaze limitation,None detected,None,False
+vertical nystagmus,vertical nystagmus,HP:0010544,False
+vertigo,vertigo,HP:0002321,False
+very mild dysarthria,dysarthria,HP:0001260,False
+very mild weakness of small hand muscles,small hand,HP:0200055,False
+vestibular hypofunction,vestibular hypofunction,HP:0001756,False
+vibration sensation impairment,None detected,None,False
+vibratory sense impairment in the arms,None detected,None,False
+vibratory sense loss,None detected,None,False
+visual acuity loss,None detected,None,False
+visual deficits,None detected,None,False
+visual disturbances such as diplopia,diplopia,HP:0000651,False
+visual failure,None detected,None,False
+visual hallucinations,visual hallucinations,HP:0002367,False
+visual impairment,visual impairment,HP:0000505,False
+visual impairment due to fibrotic scarring of the macula,visual impairment,HP:0000505,False
+visual impairment due to fibrotic scarring of the macula,scarring,HP:0100699,False
+visual symptoms due to optic atrophy,optic atrophy,HP:0000648,False
+vocal cord palsy,None detected,None,False
+vocal cord paralysis,vocal cord paralysis,HP:0001605,False
+vocal cord paresis,vocal cord paresis,HP:0001604,False
+vocal myoclonus,myoclonus,HP:0001336,False
+voice tremor,tremor,HP:0001337,False
+vomiting,vomiting,HP:0002013,False
+waddling gait,waddling gait,HP:0002515,False
+walking abnormalities,None detected,None,False
+walking difficulties,None detected,None,False
+walking difficulty,None detected,None,False
+wasting,None detected,None,False
+wasting of distal lower limb muscles,None detected,None,False
+wasting of hand and foot muscles,None detected,None,False
+wasting of lower limbs,None detected,None,False
+wasting of the calf muscles,None detected,None,False
+wasting of the intrinsic hand muscles,None detected,None,False
+wasting of the shoulder girdle muscles,None detected,None,False
+wasting of the small muscles of the hands and feet,None detected,None,False
+wasting of the upper and lower limbs,None detected,None,False
+weak ankles,None detected,None,False
+weak cough,cough,HP:0012735,False
+weak cry,weak cry,HP:0001612,False
+weak distal muscle weakness of the upper and lower extremities,distal muscle weakness,HP:0002460,False
+weak intrinsic hand muscles,None detected,None,False
+weakness,None detected,None,False
+weakness and atrophy of intrinsic hand muscles,None detected,None,False
+weakness and atrophy of the forearms,None detected,None,False
+weakness and atrophy of the left hand,None detected,None,False
+weakness and cramping of the distal upper limbs,None detected,None,False
+weakness and flexion of the left hand and ankle,None detected,None,False
+weakness causing impaired gait,impaired gait,HP:0001288,False
+weakness in the intrinsic hand muscles,None detected,None,False
+weakness in the left leg,None detected,None,False
+weakness in the lower extremities,None detected,None,False
+weakness leading to impaired gait,impaired gait,HP:0001288,False
+weakness of ankle muscles,None detected,None,False
+weakness of bulbar neck flexor muscles,None detected,None,False
+weakness of distal lower limb muscles,None detected,None,False
+weakness of distal muscles of the lower limbs,weakness of distal muscles,HP:0002460,False
+weakness of foot dorsiflexion,None detected,None,False
+weakness of intrinsic hand muscles,None detected,None,False
+weakness of lower limb muscles,None detected,None,False
+weakness of lower limbs,None detected,None,False
+weakness of lower limbs with brisk reflexes,brisk reflexes,HP:0001348,False
+weakness of peroneal muscles,None detected,None,False
+weakness of shoulder girdle,None detected,None,False
+weakness of the anterior tibial muscles,None detected,None,False
+weakness of the distal limb muscles,None detected,None,False
+weakness of the distal upper limbs,None detected,None,False
+weakness of the dorsiflexors of the feet,None detected,None,False
+weakness of the lower limbs,None detected,None,False
+weakness of the muscles in the legs,None detected,None,False
+weakness of the neck muscles,None detected,None,False
+weakness of the pelvic girdles,None detected,None,False
+weakness of the proximal limb muscles,None detected,None,False
+weakness of the right hand,None detected,None,False
+weakness of the right lower limb,None detected,None,False
+weakness of the shoulder girdles,None detected,None,False
+wheelchair use,None detected,None,False
+whispering dysphonia,dysphonia,HP:0001618,False
+wide based ataxic gait,ataxic gait,HP:0002066,False
+wide based gait,wide based gait,HP:0002136,False
+wide mouth,wide mouth,HP:0000154,False
+wide mouth with full lips,wide mouth,HP:0000154,False
+wide mouth with full lips,full lips,HP:0012471,False
+widely spaced teeth,widely spaced teeth,HP:0000687,False
+widespread fasciculations of muscles,fasciculations,HP:0002380,False
+word finding difficulty,None detected,None,False
+worsening of hand muscle weakness with cold,hand muscle weakness,HP:0030237,False
+worsening of symptoms at rest,None detected,None,False
+worsening of symptoms in the evening or night,None detected,None,False
+worsening spasticity in lower extremities,spasticity,HP:0001257,False
+wrist and finger contractures,contractures,HP:0001371,False
+wrist cramp,None detected,None,False
+wrist drop,wrist drop,HP:0031189,False
+writers cramp,None detected,None,False
+writers cramp,None detected,None,False
+writing difficulties,None detected,None,False
+writing tremor,tremor,HP:0001337,False

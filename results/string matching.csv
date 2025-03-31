@@ -1,0 +1,32 @@
+extracted_term,hpo_term,hpo_id,negated
+abnormal bladder function,None detected,None,FALSE
+abnormal cognition,None detected,None,FALSE
+abnormal eye movements,abnormal eye movements,HP:0000496,FALSE
+abnormal eye movements or nystagmus,abnormal eye movements,HP:0000496,FALSE
+abnormal eye movements or nystagmus,nystagmus,HP:0000639,FALSE
+abnormal eye signs,abnormal eye,HP:0000478,FALSE
+abnormal gait,abnormal gait,HP:0001288,FALSE
+abnormal hand posturing,None detected,None,FALSE
+abnormal horizontal pursuit,None detected,None,FALSE
+abnormal ocular movements,abnormal ocular movements,HP:0000496,FALSE
+abnormal postures,None detected,None,FALSE
+abnormal posturing,abnormal posturing,HP:0002533,FALSE
+abnormal saccadic movements,None detected,None,FALSE
+abnormal saccadic pursuit,None detected,None,FALSE
+abnormal shuffling gait,shuffling gait,HP:0002362,FALSE
+abnormal smooth pursuit,None detected,None,FALSE
+abnormal spastic gait,spastic gait,HP:0002064,FALSE
+abnormal speech,None detected,None,FALSE
+abnormal steppage gait,steppage gait,HP:0003376,FALSE
+abnormal tongue shape,abnormal tongue,HP:0000157,FALSE
+abnormal trunk posture,None detected,None,FALSE
+abnormal writing,None detected,None,FALSE
+abolished deep tendon reflexes,None detected,None,FALSE
+abolished reflexes in all 4 limbs,None detected,None,FALSE
+abolished tendon reflexes,None detected,None,FALSE
+abolition of upgaze,None detected,None,FALSE
+absence of distal deep tendon reflexes,None detected,None,FALSE
+absence of speech,None detected,None,FALSE
+absence seizures,absence seizures,HP:0002121,FALSE
+absent Achilles reflexes,None detected,None,FALSE
+absent Achilles tendon reflex,None detected,None,FALSE
