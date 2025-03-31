@@ -1,6 +1,14 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Mar 30 16:10:13 2025
+
+@author: danielhier
 """
 
-
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
 spaCy-Based Term Normalization Script
 -------------------------------------
 
@@ -32,19 +40,26 @@ Requirements:
 Notes:
 - Cosine similarity ranges from -1 (opposite) to 1 (identical).
 - Ensure CSV files are UTF-8 encoded and contain no missing values in required columns.
-- Adjust file paths in the script to match your local directory structure before running.
 """
+
 import pandas as pd
 import spacy
 import numpy as np
 from tqdm import tqdm
+from pathlib import Path
 
 # Load spaCy model
 nlp = spacy.load('en_core_web_lg')
 
-# File paths
-hp_terms_path = '/Users/danielhier/Desktop/LLM Normalization/hp_terms.csv'
-well_formed_terms_path = '/Users/danielhier/Desktop/LLM Normalization/well_formed_terms.csv'
+# Set paths relative to the scripts/ directory
+base_dir = Path(__file__).resolve().parent.parent
+data_dir = base_dir / 'data'
+results_dir = base_dir / 'results'
+
+# Input and output file paths
+hp_terms_path = data_dir / 'hp_terms.csv'
+well_formed_terms_path = data_dir / 'well_formed_terms.csv'
+output_file_path = results_dir / 'normalization_by_Spacy.csv'
 
 # Read the CSV files into Pandas dataframes
 df_hp_terms = pd.read_csv(hp_terms_path)
@@ -69,22 +84,21 @@ def compute_similarity_vector(vector1, vector2):
 closest_matches = []
 
 for index, row in tqdm(df_well_formed_terms.iterrows(), total=df_well_formed_terms.shape[0], desc="Processing well-formed terms"):
-    well_formed_term = row['extracted_term']  # assuming 'extracted_term' is the column name
+    well_formed_term = row['extracted_term']
     well_formed_doc = nlp(well_formed_term)
     well_formed_vector = well_formed_doc.vector
-    
+
     best_match = None
     best_match_id = None
     highest_similarity = -1
-    
+
     for hp_term, hp_vector in hp_vectors.items():
         similarity = compute_similarity_vector(well_formed_vector, hp_vector)
-        
         if similarity > highest_similarity:
             highest_similarity = similarity
             best_match = hp_term
             best_match_id = df_hp_terms[df_hp_terms['hp_term'] == hp_term]['hp_id'].values[0]
-            
+
     closest_matches.append({
         'well_formed_term': well_formed_term,
         'best_match': best_match,
@@ -95,9 +109,9 @@ for index, row in tqdm(df_well_formed_terms.iterrows(), total=df_well_formed_ter
 # Convert the closest matches to a DataFrame
 df_closest_matches = pd.DataFrame(closest_matches)
 
-# Save the DataFrame to a CSV file
-output_file_path = '/Users/danielhier/Desktop/LLM Normalization/normalization_by_Spacy.csv'
+# Save the results to CSV
 df_closest_matches.to_csv(output_file_path, index=False)
 
-# Display the closest matches
-print(df_closest_matches)
+# Display the first few results
+print(df_closest_matches.head())
+print(f"Closest matches saved to {output_file_path}")

@@ -1,0 +1,1821 @@
+extracted_term,matched_hp_term,matched_hp_id,similarity
+abnormal bladder function,Poor bladder function,HP:0000009,0.9590262141122551
+abnormal cognition,Abnormality of cognition,HP:0100543,0.9643354944403211
+abnormal eye movements,Abnormal eye movement,HP:0000496,0.9907733619327036
+abnormal eye movements or nystagmus,Downbeat nystagmus,HP:0010545,0.9519904932227125
+abnormal eye signs,Abnormal eye structure,HP:0012372,0.9745849843461993
+abnormal gait,Abnormal gait,HP:0001288,0.9999999999997388
+abnormal hand posturing,Abnormal posturing,HP:0002533,0.9451765559695827
+abnormal horizontal pursuit,Abnormal visual pursuit,HP:0007772,0.9663340713924367
+abnormal ocular movements,Abnormal ocular movements,HP:0000496,0.9956138589879221
+abnormal postures,Abnormal postural reaction,HP:0033329,0.915919918905031
+abnormal posturing,Abnormal posturing,HP:0002533,0.9999999999997884
+abnormal saccadic movements,Abnormality of saccadic eye movements,HP:0000570,0.9718543258775465
+abnormal saccadic pursuit,Abnormality of saccadic eye movements,HP:0000570,0.9730273421629599
+abnormal shuffling gait,Scissoring gait,HP:0012407,0.9233824324932918
+abnormal smooth pursuit,Abnormal smooth pursuits,HP:0000617,0.9999999999997229
+abnormal spastic gait,Abnormal gait,HP:0001288,0.9528031118008652
+abnormal speech,Abnormal speech,HP:0002167,0.9999999999995329
+abnormal steppage gait,Abnormal gait,HP:0001288,0.9612250544518262
+abnormal tongue shape,Abnormal tongue morphology,HP:0030809,0.9918804282436616
+abnormal trunk posture,Abnormal head movements,HP:0002457,0.9439324747349246
+abnormal writing,Abnormal gestures,HP:4000090,0.9861559530135257
+abolished deep tendon reflexes,Deep tendon reflexes absent,HP:0001284,0.9584932599263493
+abolished reflexes in all 4 limbs,EMG: impaired neuromuscular transmission,HP:0100285,0.8825024805304402
+abolished tendon reflexes,Deep tendon reflexes absent,HP:0001284,0.9480607504429527
+abolition of upgaze,Transient decreased IgG2 in blood,HP:0041062,0.8809756297955971
+absence of distal deep tendon reflexes,Deep tendon reflexes absent,HP:0001284,0.9630179844101421
+absence of speech,Abnormal speech discrimination,HP:0001963,0.9376185900020134
+absence seizures,Partial seizure with behavior arrest,HP:0011173,0.9528959950275792
+absent Achilles reflexes,Absent cremasteric reflex,HP:0031829,0.9247607540982797
+absent Achilles tendon reflex,Tight achilles tendon,HP:0001771,0.9569121289812138
+absent Achilles tendon reflexes,Achilles tendon contractures,HP:0001771,0.9390164006779987
+absent ankle jerk reflexes,Absent knee jerk reflex,HP:0006844,0.965490575029583
+absent ankle jerks,Absent knee jerk reflex,HP:0006844,0.9649215845679562
+absent ankle reflexes,Absent ankle reflexes,HP:0003438,0.9620834876904361
+absent corneal reflex,Absent corneal reflex,HP:0034252,0.999999999999757
+absent deep tendon reflexes,Deep tendon reflexes absent,HP:0001284,0.9722992143386527
+absent deep tendon reflexes in all extremities,Deep tendon reflexes absent,HP:0001284,0.9199634711398188
+absent deep tendon reflexes in the legs,Deep tendon reflexes absent,HP:0001284,0.9495816774167803
+absent detrusor contractility,Detrusor sphincter dyssynergia,HP:0025488,0.9190208454054613
+absent gag reflex,Absent ankle reflexes,HP:0003438,0.9240646176528488
+absent knee jerk reflexes,Absent knee jerk reflex,HP:0006844,0.976047518691843
+absent language,Absent pulse,HP:0032554,0.9500101128056603
+absent muscle stretch reflexes,Deep tendon reflexes absent,HP:0001284,0.9378137275381845
+absent or limited speech,Absent speech development,HP:0001344,0.9050274002872979
+absent reflexes,Absent ankle reflexes,HP:0003438,0.9221546699484453
+absent reflexes at the ankle,Increased deep tendon reflexes in the lower limbs,HP:0002395,0.9196398809671139
+absent reflexes at the ankles,Increased deep tendon reflexes in the lower limbs,HP:0002395,0.9120849487091619
+absent sensory nerve action potentials,Abnormal peripheral action potential amplitude,HP:0030179,0.94598771865651
+absent speech,Absent nipple,HP:0002561,0.9752659469899395
+absent tendon reflexes,Deep tendon reflexes absent,HP:0001284,0.9698861599643138
+acetabular dysplasia,Acetabular hypoplasia,HP:0003274,0.9793552347296856
+achalasia,Anal achalasia,HP:6000018,0.9772688313291831
+Achilles contractures,Achilles tendonitis,HP:0025273,0.9260795671218526
+Achilles tendon contractures,Achilles tendon contractures,HP:0001771,0.9957811353120669
+acquired microcephaly,Acquired microcephaly,HP:0005484,0.9772196375668191
+acropathy,Acromelia,HP:0010884,0.9247000954846866
+action tremor,Terminal tremor,HP:0002080,0.9778611996564535
+action tremor of the hand,Hand tremor,HP:0002378,0.9351168468865778
+action tremor of the hands,Hand tremor,HP:0002378,0.9352337062041686
+acute onset of dysarthria,Rigid dysarthria,HP:0002464,0.9582352711825126
+acute respiratory stridor,Inspiratory stridor,HP:0005348,0.9397581598493673
+adducted thumbs,Adducted thumbs,HP:0001181,0.9729167419670293
+afebrile seizures,Gastroenteritis-related afebrile seizure,HP:0032893,0.9260489158644182
+aggression,Aggression,HP:0000718,0.9999999999996217
+aggressive behaviors,Aggressive behavior,HP:0000718,0.9841078902145709
+agraphia,Agraphia,HP:0010526,0.9999999999997391
+akathisia,Akathisia,HP:0031943,0.9999999999997115
+akinesia,Akinesia,HP:0002304,0.9999999999997697
+akinetic rigid parkinsonism,Parkinsonian disease,HP:0001300,0.948048185162054
+akinetic rigid syndrome,hyperkinetic disorder,HP:0000752,0.9367032849300896
+akinetic rigidity,Fetal akinesia,HP:0001989,0.9366915297308721
+altered finger nose test,Abnormal finger-nose-finger test,HP:0001310,0.9047848797376755
+altered heel knee test,Impaired heel-walking ability,HP:6000490,0.915873975181585
+amblyopia,Axial myopia,HP:0031730,0.9402225399862579
+ambulation with walker,Impaired toe-walking ability,HP:0034052,0.9239300153573528
+amyotrophy of the forearms,Amyotrophy involving the upper limbs,HP:0009129,0.9570429338043858
+amyotrophy of the hands,Amyotrophy involving the upper limbs,HP:0009129,0.9525594155014897
+amyotrophy of the lower legs,Amyotrophy involving the upper limbs,HP:0009129,0.9569335505598991
+anarthria,Hemarthrosis,HP:0005261,0.9385117156539963
+ankle areflexia,Areflexia of upper limbs,HP:0012046,0.9412093236571707
+ankle clonus,Elbow clonus,HP:0011728,0.9861763129386376
+ankle contractures,Ankle contracture,HP:0034677,0.9851202703904833
+ankle foot orthotics,Hindfoot equinus,HP:0008138,0.8982334274663021
+ankle joint instability,Joint instability,HP:0001382,0.9503878120633564
+ankle sprains,Knee dislocations,HP:0004976,0.8876963574760262
+anosmia,Specific anosmia,HP:0012247,0.9498178522509302
+anteverted nostrils,Anteverted nose,HP:0000463,0.9776480729081519
+anxiety,Anxiety,HP:0000739,0.999999999999714
+apathy,AEA,HP:0034070,0.9456932888927835
+aphasia,Nominal aphasia,HP:0030784,0.9567494184245064
+aphonia,Aphonia,HP:0001686,0.9999999999997596
+appendicular ataxia,Appendicular ataxia,HP:0002070,0.9999999999998119
+appendicular dysmetria,Appendicular hypotonia,HP:0012389,0.9460841664636975
+appendicular hypertonia,Appendicular hypertonia,HP:0002509,0.9999999999998787
+appendicular spasticity,Appendicular spasticity,HP:0034353,0.9999999999998642
+apraxia,Apraxia of speech,HP:0011098,0.9648738863605825
+apraxia of eyelid opening,Upper eyelid retraction,HP:0500044,0.944461959404
+arachnodactyly,Megalodactyly,HP:0004099,0.9602630580002539
+arched eyebrows,Arched eyebrows,HP:0002553,0.980312594796172
+arched feet,Arched eyebrows,HP:0002553,0.9685878848333098
+arching back,Fallen arches,HP:0001763,0.8938681015616003
+arching of the neck,Fragmentation of the end part of the middle hand bones,HP:0010261,0.9010551150420468
+areflexia,Areflexia in lower limbs,HP:0002522,0.9468816300831092
+areflexia in the lower limbs,Areflexia of upper limbs,HP:0012046,0.9549498166162753
+areflexia of the lower limbs,Areflexia of upper limbs,HP:0012046,0.9449974253622484
+Argyll Robertson pupils,Marfanoid habitus,HP:0001519,0.928143922623181
+arm involvement,Short arms,HP:0009824,0.9140805196901322
+arm tremor,Hand tremor,HP:0002378,0.989071517421328
+arrest and regression of motor function,"Psychomotor regression, progressive",HP:0002376,0.9032883034702913
+arthrogryposis,Arthrogryposis,HP:0002804,0.9999999999997979
+articulation problems,Speech articulation difficulties,HP:0009088,0.9427251254101837
+asymmetric proximal muscle weakness,Late-onset proximal muscle weakness,HP:0003694,0.9585373109922546
+asymmetric resting tremor,Postural tremor of arms,HP:0007351,0.9512810821375205
+asymmetric tremor,Head tremor,HP:0002346,0.9493628178880885
+asymmetric weakness,Asymmetric ears,HP:0010722,0.9802471787201061
+ataxia,"Ataxia, sensory",HP:0010871,0.9775065223758669
+ataxia of the arms,Spastic ataxia,HP:0002497,0.9292192859967457
+ataxia of the upper limbs,"Gait ataxia, progressive",HP:0007240,0.9195113996730313
+ataxic episodes,"Ataxia, sensory",HP:0010871,0.9645698240132433
+ataxic gait,Ataxic gait,HP:0002066,0.9999999999998287
+ataxic movements,"Ataxia, sensory",HP:0010871,0.9657075044924351
+athetoid movements,Athetoid movements,HP:0002305,0.9966226845931937
+athetosis,Athetoid movements,HP:0002305,0.9298700060006161
+atonia,Atonic seizures,HP:0010819,0.9311331863791572
+atonic seizures,Partial atonic seizure,HP:0020220,0.9431576480832374
+atrophic optic discs,Abnormal optic disc morphology,HP:0012795,0.9427479899106574
+atrophy,Atrophy of one side of the face,HP:0011331,0.9832429775887364
+atrophy in the intrinsic hand muscles,Intrinsic hand muscle atrophy,HP:0008954,0.9596159329653147
+atrophy of all extremities,Distal limb muscle atrophy,HP:0003693,0.9140499822230302
+atrophy of hand muscles,Intrinsic hand muscle atrophy,HP:0008954,0.9501726876330082
+atrophy of intrinsic hand muscles,Intrinsic hand muscle atrophy,HP:0008954,0.9680591885038695
+atrophy of lower limb muscles,Distal limb muscle atrophy,HP:0003693,0.9632416644384957
+atrophy of lower limbs,Distal limb muscle atrophy,HP:0003693,0.9491373766299315
+atrophy of peroneal muscles,Peroneal atrophy,HP:0009049,0.9581109374428923
+atrophy of the anterior tibial peroneal muscles,Peroneal atrophy,HP:0009049,0.9392345324093375
+atrophy of the distal limb muscles,Distal limb muscle atrophy,HP:0003693,0.9691896482713399
+atrophy of the distal lower limb muscles,Distal upper limb muscle atrophy,HP:0007149,0.9664128490915352
+atrophy of the distal muscles of the forearm,"Distal muscle atrophy, upper and lower limbs",HP:0003693,0.9391179477860243
+atrophy of the hand muscles,Intrinsic hand muscle atrophy,HP:0008954,0.9434255270671978
+atrophy of the intrinsic foot muscles,Proximal lower limb muscle atrophy,HP:0008956,0.9466300858318007
+atrophy of the intrinsic hand muscles,Intrinsic hand muscle atrophy,HP:0008954,0.9602766862423152
+"atrophy of the intrinsic hand, foot, and calf muscles",Proximal upper limb muscle atrophy,HP:0008948,0.9407190470017144
+atrophy of the legs,"Distal muscle atrophy, upper and lower limbs",HP:0003693,0.9288425147603682
+atrophy of the lower limbs,Distal limb muscle atrophy,HP:0003693,0.9458137210722323
+atrophy of the paraspinal muscles,Paraspinal muscle hypertrophy,HP:0012894,0.9529817062882977
+atrophy of the peroneal muscles,Peroneal atrophy,HP:0009049,0.9551159335923883
+atrophy of the posterior tibial muscles,Tibialis muscle degeneration,HP:0011399,0.9468223445454041
+attacks of athetosis,Spasmodic croup,HP:0033000,0.9210640172487803
+attacks of chorea,Negative chorea,HP:0040200,0.9267910282057614
+attacks of dystonia,Focal dystonia,HP:0004373,0.9562343743431035
+attacks of muscle weakness mainly in limbs,Distal upper limb muscle weakness,HP:0008959,0.9226041952284136
+attention deficit with hyperactivity,Attention deficit-hyperactivity disorder,HP:0007018,0.9624081799334057
+attention deficits,Poor attention span,HP:0000736,0.9603599912036911
+atypical absence seizures,Atypical absence seizures,HP:0007270,0.9639598257935975
+atypical gait disturbance,"Gait ataxia, progressive",HP:0007240,0.9373054464505882
+autism spectrum disorder,Autism spectrum disorder,HP:0000729,0.9999999999997596
+autistic behavior,Autistic behaviors,HP:0000729,0.999999999999813
+automutilation such as hand biting,Decreased circulating alpha-mannosidase activity,HP:0034712,0.8893226622752253
+awkward gait,Gait difficulties,HP:0001288,0.9437078225353461
+awkward in toed gait,Tiptoe gait,HP:0030051,0.9317309894373554
+axial dystonia,Cranial dystonia,HP:0012048,0.975578325776674
+axial hypotonia,"Hypotonia, axial, in infancy",HP:0009062,0.9590660801304235
+axial rigidity,Helical atelectasis,HP:0033658,0.9057877404649797
+axial weakness,Axial muscle weakness,HP:0003327,0.9722851558203562
+Babinski sign,Positive Babinski sign,HP:0003487,0.938152605983485
+back pain,Hip pain,HP:0030838,0.9499557244642569
+balance problems,Fluid retention,HP:0000969,0.9159738885741624
+ballismus,Ballismus,HP:0100248,0.9999999999997756
+behavioral abnormalities,Behavioral abnormality,HP:0000708,0.988264115823507
+behavioral and psychiatric disturbances,Behavioral/psychiatric abnormalities,HP:0000708,0.9545614518506647
+behavioral changes,Behavioral disturbances,HP:0000708,0.9742249109265664
+behavioral disturbances,Behavioral disturbances,HP:0000708,0.9477548870720026
+behavioral issues,Behavioral problems,HP:0000708,0.9778028066939368
+behavioral problems,Behavioral disturbances,HP:0000708,0.9776581128095015
+behavioral problems with aggressive features,Behavioral/psychiatric abnormalities,HP:0000708,0.9070263583921396
+bifid uvula,Bifid palatine uvula,HP:0000193,0.9724872291456842
+bilateral cavus feet,Cavus foot,HP:0001761,0.9529843784057463
+bilateral extensor plantar responses,Extensor plantar response,HP:0003487,0.9827110667076944
+bilateral facial weakness,Bilateral facial weakness,HP:0001349,0.9999999999997614
+bilateral foot drop,Bilateral clubfoot,HP:0001776,0.9358837505872543
+bilateral hand tremor,Hand tremor,HP:0002378,0.9770514165178262
+bilateral hand tremors,Hand tremor,HP:0002378,0.9691545204019774
+bilateral lower limb hyperreflexia,Hyperreflexia in upper limbs,HP:0007350,0.9678416258690065
+bilateral optic atrophy,Optic nerve atrophy,HP:0000648,0.9657029497777747
+bilateral pes cavus,pes cavus,HP:0001761,0.9699199235386515
+bilateral pes equinovarus,Equinovarus deformity,HP:0008110,0.9356471439665945
+bilateral progressive visual failure,Slowly progressive visual loss,HP:0000529,0.966616772416675
+bilateral upgoing plantar responses,Multiple plantar creases,HP:0008113,0.9159150616903454
+bilateral vocal cord paralysis,Bilateral vocal cord paralysis,HP:0012820,0.9999999999998643
+bladder disturbance,Loss of bladder control,HP:0000020,0.9440256541370832
+bladder disturbances,Bladder pain,HP:0032171,0.927697840922707
+bladder dysfunction,Autonomic bladder dysfunction,HP:0005341,0.9463156171415347
+bladder incontinence,Bladder incontinence,HP:0000020,0.9999999999998469
+bladder urgency,Bladder pain,HP:0032171,0.9539728449991052
+blepharoptosis,Blepharoptosis,HP:0000508,0.9999999999997853
+blepharospasm,Blepharoptosis,HP:0000508,0.9334432933081509
+blindness,Blindness,HP:0000618,0.9999999999996599
+blindness from optic atrophy,Leber optic atrophy features,HP:0001112,0.9401931919516838
+blurred vision,Blurred vision,HP:0000622,0.9999999999997355
+body temperature instability,Body temperature instability,HP:0005968,0.9999999999998388
+bowel urgency,Abnormal bowel sounds,HP:0030142,0.9585062800044077
+brachial dystonia,Truncal dystonia,HP:0002530,0.9677388031513615
+brachycephaly,Megacephaly,HP:0000256,0.9671419156059281
+bradykinesia,Hyperkinesia,HP:0002487,0.9609886764665451
+bradykinesia of the tongue,Hypokinesia of the lower extremities,HP:0033414,0.9184757309372734
+brief attacks of dystonia,Episodic dystonia,HP:0002268,0.939955558470067
+brisk deep tendon reflexes,Deep tendon reflexes absent,HP:0001284,0.970324776314639
+brisk deep tendon reflexes in the lower extremities,Brisk lower extremity reflexes,HP:0002395,0.9224011537423846
+brisk lower extremity reflexes,Brisk lower extremity reflexes,HP:0002395,0.9538298646725459
+brisk lower limb reflexes,Tonic neck reflex asymmetrical and persistent,HP:0032549,0.9248584096757356
+brisk reflexes,Abdominal reflex absent,HP:0031827,0.9312662661447313
+brisk reflexes throughout,Abdominal reflex absent,HP:0031827,0.9318184018506148
+brisk reflexes with clonus at the ankles,Palatal myoclonus,HP:0010530,0.9246916046923239
+brisk tendon reflexes,Deep tendon reflexes absent,HP:0001284,0.9700513211555583
+brisk upper limb reflexes,Tonic neck reflex asymmetrical and persistent,HP:0032549,0.9241586198159841
+broad based gait,Wide based gait,HP:0002136,0.9190837203517017
+broad nasal bridge,Broad nasal bridge,HP:0000431,0.9999999999997946
+broad nasal root,Broad nasal root,HP:0000431,0.9999999999997782
+bulbar dysfunction,Bulbar weakness,HP:0001283,0.9440036482544474
+bulbar dystonia,Focal dystonia,HP:0004373,0.9763973947014166
+bulbar weakness,Bulbar weakness,HP:0001283,0.9999999999997217
+bulbous nose,Bulbous nose,HP:0000414,0.999999999999759
+bulging eyes,Bluish lips,HP:0034030,0.9307415511853644
+cafe au lait spots,Cafe au lait spots,HP:0000957,0.9741176718122276
+calf hypertrophy,Calf hypertrophy,HP:0008981,0.9999999999998374
+cataplexy,Cataplexy,HP:0002524,0.9999999999997926
+cataracts,"Cataract, progressive",HP:0007834,0.967660560185617
+central apnea,Central apnoea,HP:0002871,0.9689403850312986
+central hypotonia,Central hypotonia,HP:0001252,0.9999999999998793
+central hypoventilation,Central hypoventilation,HP:0007110,0.9999999999998748
+central retinal degeneration,Peripheral retinal degeneration,HP:0007769,0.9935100514199938
+central visual impairment or optic atrophy,Optic nerve atrophy,HP:0000648,0.9474164596456106
+cerbellar dysarthria,Cerebellar ataxia,HP:0001251,0.9465136756342405
+cerebellar ataxia,Cerebellar ataxia,HP:0001251,0.9999999999999012
+cerebellar ataxic gait,Cerebellar ataxia,HP:0001251,0.9826717621731447
+cerebellar atrophy,Diffuse cerebellar atrophy,HP:0100275,0.9790707937123118
+cerebellar dysarthria,Cerebellar ataxia,HP:0001251,0.9563461405112321
+cerebellar dysfunction,Cerebellar abnormalities,HP:0001317,0.9786759794102241
+cerebellar limb ataxia,Cerebellar ataxia,HP:0001251,0.9901289360712818
+cerebellar oculomotor disturbance,Oculomotor abnormalities,HP:0000496,0.96538524122844
+cerebellar signs,Cerebellar signs,HP:0001317,0.9892768384179493
+cervical dystonia,Cervical dystonia,HP:0000473,0.9999999999998913
+Charcot joints,Charcot joint,HP:0002821,0.9942128024701685
+chest deformities,Spinal deformities,HP:0008443,0.9515305798663882
+chest deformity,Hand deformities,HP:0001155,0.9659124062923146
+childhood absence epilepsy,Epilepsy,HP:0001250,0.9423521992632896
+childhood onset seizures,Focal seizure without motor onset,HP:0032679,0.9407234221471201
+chorea,Negative chorea,HP:0040200,0.9633760251511095
+choreic movements,Choreic movements,HP:0002072,0.9903352115150156
+choreic movements in the distal limbs,Palatal myoclonus,HP:0010530,0.9129304310386089
+choreoathetoid movements,Choreoathetoid movements,HP:0001266,0.9980586469292708
+choreoathetoid movements of the extremity,Akinesia of the upper extremities,HP:0033412,0.9332695039853008
+choreoathetosis,"Choreoathetosis, intermittent",HP:0007098,0.9824332913550412
+chronic cough,Chronic cough,HP:0034315,0.9999999999997499
+chronic diarrhea,Chronic diarrhea,HP:0002028,0.9999999999998397
+claw hand deformities,Claw hand deformity,HP:0034337,0.9838664780651323
+claw hands,Hairy elbow,HP:0004780,0.929619566996358
+claw toes,Hammer toe,HP:0001765,0.9425936575148399
+clawed toes,Absent thumb,HP:0009777,0.9176314754693498
+cleft palate,Cleft of palate,HP:0000175,0.9999999999998332
+clonic movements,Clonic seizure,HP:0020221,0.9586371869966154
+clonic seizures,Clonic seizure,HP:0020221,0.9736490417063315
+clonus,Clonic seizure,HP:0020221,0.8992485264715316
+clouded consciousness,Cloudy lens,HP:0000518,0.937389123616417
+clubfeet,Clubfeet,HP:0001762,0.9999999999997351
+clubfoot,Clubfoot,HP:0001762,0.9999999999997112
+clumsiness,Clumsiness,HP:0002312,0.9999999999998381
+clumsy gait,Abnormal gait,HP:0001288,0.9602407381509661
+coarse facial features,Coarse facial features,HP:0000280,0.9740196958967102
+coarse features,Coarse face,HP:0000280,0.9687797079153845
+cognitive decline,Cognitive decline,HP:0001268,0.9999999999996932
+cognitive delay,Cognitive delay,HP:0001263,0.9999999999997033
+cognitive deterioration,Intellectual deterioration,HP:0001268,0.9697001549114914
+cognitive impairment,Cognitive impairment,HP:0100543,0.9999999999998188
+cognitive issues,Cognitive delay,HP:0001263,0.966882100169063
+cognitive regression,Cognitive regression,HP:0034332,0.9999999999996917
+cogwheel ocular pursuit,Chaotic rapid conjugate ocular movements,HP:0007295,0.9204059890153006
+cogwheel rigidity,Cogwheel rigidity,HP:0002396,0.9999999999998468
+cogwheel tone without rigidity,Cogwheel rigidity,HP:0002396,0.907147731352713
+color blindness,Color blindness,HP:0007641,0.9999999999998066
+coma,Coma,HP:0001259,0.999999999999461
+complete areflexia,Areflexia in lower limbs,HP:0002522,0.9579906636636272
+complete vertical gaze palsy,Vertical gaze palsy,HP:0000511,0.9860159670152109
+complex partial seizures,Complex partial seizure,HP:0002384,0.9516788277733689
+complex partial seizures with secondary generalization,Partial seizure with secondary generalization,HP:0007334,0.9531889675029069
+compulsive behaviors,Repetitive compulsive behavior,HP:0008762,0.9623692385359068
+congenital contractures,congenital contractures,HP:0002803,0.9903615768042232
+congenital hip dislocation,Congenital hip dislocations,HP:0001374,0.9999999999998413
+congenital nystagmus,"Nystagmus, congenital horizontal",HP:0007859,0.9813258237230962
+constipation,Constipation,HP:0002019,0.9999999999997687
+contractures,Contracture,HP:0034392,0.9848265342855148
+contractures in lower extremities,Scissoring of the lower extremities,HP:0012407,0.9202971622124643
+contractures of all joints in the lower limbs,Contractures of the joints of the upper limbs,HP:0100360,0.9098899167245145
+contractures of the extremities,Scissoring of the lower extremities,HP:0012407,0.9063959939083776
+contractures of the knees and ankles,Contractures of the joints of the upper limbs,HP:0100360,0.9070115222376277
+convergent squint,Convergent squint,HP:0020045,0.9999999999997836
+convergent strabismus,Convergent strabismus,HP:0020045,0.9999999999998541
+cortical blindness,Cortical blindness,HP:0100704,0.9999999999998453
+cortical visual impairment,Cortical visual impairment,HP:0100704,0.9999999999998952
+cramping in the lower limbs,Intermittent painful muscle spasms,HP:0011964,0.9212666988951391
+cramps,Muscle cramps,HP:0003394,0.9405038630015844
+crying bouts,Feeding difficulties,HP:0011968,0.9249747470029867
+deafness,Deafness,HP:0000365,0.9999999999997526
+decreased consciousness,Diminished motivation,HP:0000745,0.9582031742449392
+decreased deep tendon reflexes,Deep tendon reflexes absent,HP:0001284,0.9695484793891556
+decreased dexterity,Impaired fine motor skills,HP:0007010,0.8855126579584641
+decreased distal muscle bulk,Distal muscle wasting,HP:0003693,0.9604074132619975
+decreased distal position sense,Decreased distal vibration sense,HP:0006886,0.9362079186667853
+decreased distal sensation,Decreased distal sensation,HP:0002936,0.9843514676542486
+decreased distal vibration sense,Decreased distal vibration sense,HP:0006886,0.9693193808856079
+decreased exercise tolerance,Poor exercise tolerance,HP:0003546,0.9425253677579453
+decreased fine motor skills in the hands,Impaired fine motor skills,HP:0007010,0.9386916455031487
+decreased forced vital capacity,Decreased vital capacity,HP:0002792,0.9287275232353764
+decreased hearing,Decreased fertility,HP:0000144,0.9493952495400562
+decreased heart rate bordering bradycardia,Sinus bradycardia,HP:0001688,0.9382520466199974
+decreased IQ,decreased IQ,HP:0001249,0.9742267500700441
+decreased median motor NCVs,Decreased motor NCV,HP:0003431,0.9450054515079371
+decreased muscle mass,Decreased muscle mass,HP:0003199,0.9729018991002819
+decreased muscle mass of the shanks,Shortening of the shankbone,HP:0005736,0.934662963849969
+decreased muscle strength in the hands,Decreased facial muscle strength,HP:0030319,0.9232783032057021
+decreased or absent deep tendon reflexes,Decreased/absent deep tendon reflexes,HP:0001315,0.9591400489000158
+decreased or absent reflexes,Decreased or absent ankle reflexes,HP:0200101,0.9045361998152495
+decreased patellar reflexes,Decreased patellar reflexes,HP:0011808,0.9561424957333453
+decreased position sense,Increased distance between eyes,HP:0000316,0.9289582006016869
+decreased pupillary reaction to light,Abnormal pupillary light reflex,HP:0007695,0.9229346319432205
+decreased range of motion,Limited movement of hinge joints,HP:0006064,0.9205471337442886
+decreased reactivity to electric stimulation,Impaired vibratory sensation,HP:0002495,0.9087118598015683
+decreased reflexes,Decreased reflex response,HP:0001265,0.9485745519214651
+decreased reflexes in lower limbs,Increased deep tendon reflexes in the lower limbs,HP:0002395,0.9206057699211609
+decreased reflexes in the lower limbs,Increased deep tendon reflexes in the lower limbs,HP:0002395,0.9100498931700965
+decreased sensation,Decreased taste,HP:0000224,0.952242106214859
+decreased shank muscle mass,Shortening of the shankbone,HP:0005736,0.9429834799598265
+decreased tendon reflexes,Deep tendon reflexes absent,HP:0001284,0.9623023588642448
+decreased vibration and position sense,Decreased vibration sense at ankles,HP:0006938,0.9373274505866722
+decreased vibration sense,Decreased vibration sense,HP:0002495,0.9716534091986091
+decreased vibration sense at the ankles,Impaired vibration sensation in the lower limbs,HP:0002166,0.9306658006713768
+decreased vibration sense in lower limbs,Impaired vibration sensation in the lower limbs,HP:0002166,0.9482679141596343
+decreased vibration sense in the lower limbs,Decreased lower limb vibratory sense,HP:0002166,0.9318677947242882
+decreased vibration sense in the toes,Decreased vibration sense at ankles,HP:0006938,0.9430898236414388
+decreased vibratory sensation,Impaired vibratory sensation,HP:0002495,0.9829526034451594
+decreased vibratory sense below the knees,Decreased lower limb vibratory sense,HP:0002166,0.9556298071317497
+decreased visual acuity,Decreased visual acuity,HP:0007663,0.9866434158380467
+decreased visual evoked potentials,Abnormal visual evoked responses,HP:0000649,0.9532125540783161
+decreased vital capacity,Decreased vital capacity,HP:0002792,0.974048822299875
+deep tendon reflexes,Deep tendon reflexes absent,HP:0001284,0.9869058594251942
+deficits in executive function,Impaired executive functioning,HP:0033051,0.9617175821136427
+delayed early motor development,Delay in motor development,HP:0001270,0.9640888667492881
+delayed early motor milestones,Delayed early motor milestones,HP:0001270,0.9612146486841235
+delayed gross motor development,Limited gross motor development,HP:0002194,0.9805689783826824
+delayed language,Language delay,HP:0000750,0.9582071990343785
+delayed motor and language development,Delayed fine motor development,HP:0010862,0.9524174446691062
+delayed motor development,Delay in motor development,HP:0001270,0.9738688664905418
+delayed motor milestones,Delayed early motor milestones,HP:0001270,0.9397171160365035
+delayed motor skills,Gross motor delay,HP:0002194,0.9542693752824959
+delayed psychomotor development,Delayed psychomotor development,HP:0001263,0.9902180628542832
+delayed walking,Delayed milestones,HP:0001263,0.9618371554217796
+delusions,Delusions,HP:0000746,0.9812671204445456
+dementia,Dementia,HP:0000726,0.9999999999997851
+depressed deep tendon reflexes,Deep tendon reflexes absent,HP:0001284,0.9689717845505685
+depressed or absent deep tendon reflexes,Decreased/absent deep tendon reflexes,HP:0001315,0.9543106841930716
+depression,Depression,HP:0000716,0.9999999999995745
+developmental and motor delay,No development of motor milestones,HP:0001270,0.9451298661773682
+developmental arrest,Developmental arrest,HP:0007281,0.9999999999997405
+developmental delay,Developmental delay,HP:0001263,0.9999999999997073
+developmental delay of speech and motor skills,Mental and motor retardation,HP:0001263,0.9311717350159026
+developmental dyspraxia,Verbal dyspraxia,HP:0011098,0.9697938649979029
+dexterity difficulties,Impaired fine motor skills,HP:0007010,0.8836809779276461
+difficulties chewing,Difficulty speaking,HP:0002465,0.9499854839024178
+difficulties climbing stairs,Difficulty walking backward,HP:0031847,0.9214302861980785
+difficulties in eating,Impaired self monitoring,HP:0033070,0.8961884205239313
+difficulties swallowing,Difficulty swallowing,HP:0002015,0.952470184553115
+difficulties using the hands,Lack of purposeful hand use,HP:0032588,0.8958270667236405
+difficulties with fine movements of the hands,Impaired fine motor skills,HP:0007010,0.8930873701468758
+difficulty breathing,Difficulty breathing,HP:0002094,0.96150767209697
+difficulty climbing stairs,Difficulty walking backward,HP:0031847,0.948405267472131
+difficulty expressing needs,Difficulty communicating emotions,HP:5200122,0.9256401587983306
+difficulty in crawling,Difficulty walking backward,HP:0031847,0.9245013545695209
+difficulty in opening of the eyelids,Bilateral blockage of the rear opening of the nasal cavity,HP:0004502,0.9110624427234756
+difficulty jumping,Difficulty breathing,HP:0002094,0.979307181520337
+difficulty lifting above the head,Impaired neck-righting reflex,HP:0033330,0.8854124858995179
+difficulty running,Difficulty running,HP:0009046,0.9349713887672501
+difficulty swallowing,Difficulty swallowing,HP:0002015,0.9743441089998944
+difficulty walking,Difficulty in walking,HP:0002355,0.9685885972561852
+difficulty walking and running,Difficulty walking backward,HP:0031847,0.9232582586640111
+difficulty walking on heels,Difficulty walking backward,HP:0031847,0.9451231912390907
+difficulty walking with support,Difficulty walking backward,HP:0031847,0.9287358991751142
+difficulty walking without support,Difficulty walking backward,HP:0031847,0.9324547297623985
+difficulty with fine motor tasks,Impaired fine motor skills,HP:0007010,0.9557090114735187
+difficulty with handwriting,Poor motor coordination,HP:0002275,0.9062560930590992
+difficulty writing,Difficulty speaking,HP:0002465,0.9305482501107517
+diffuse muscle weakness with axial predominance,Diffuse muscle atrophy,HP:0003700,0.9239553362101797
+diffusely depigmented hair and skin at birth,Hyperpigmented skin patches,HP:0001034,0.9456987892351921
+dilated fixed and unequal pupils,Unequal pupil dilatation,HP:0009916,0.9309747974871565
+diminished blink rate,Elevated blink rate,HP:0034776,0.9640726200620454
+diminished deep tendon reflexes in arms and knees,Increased deep tendon reflexes in the lower limbs,HP:0002395,0.9417936494049937
+diminished manual dexterity,Defective or absent horizontal voluntary eye movements,HP:0000657,0.8790130139908346
+diminished muscle bulk distally,"Generalized muscle atrophy, proximal and distal",HP:0009055,0.9331625381487308
+diminished or absent limb reflexes,Defective or absent horizontal voluntary eye movements,HP:0000657,0.9166325853181291
+diminished sensation of all modalities in the distal parts of the extremities,Decreased vibratory sense in the lower extremities,HP:0002166,0.9095037940368723
+diminished tendon reflexes,Deep tendon reflexes absent,HP:0001284,0.9574988545067472
+diplopia,Hemianopic blurring,HP:0001125,0.9032153753500349
+disabling daytime drowsiness,Abnormal drowsiness,HP:0002329,0.9248902879830867
+discoloration,Blue discoloration of the skin,HP:0000961,0.9502824806874888
+disinhibition,Inactivity,HP:0001254,0.8918599800370866
+dislocation of hips,Hip dislocation,HP:0002827,0.9538124086233282
+dislocation of knees,Knee dislocations,HP:0004976,0.9538160736807828
+dislocations of elbows,Large joint dislocations,HP:0005008,0.9383590897278372
+dislocations of knees,Large joint dislocations,HP:0005008,0.9408249072853234
+disordered skin and hair pigmentation,Abnormal skin pigmentation,HP:0001000,0.9611471691713125
+disorientation,Disorientation,HP:0001289,0.9999999999996362
+disrupted ocular pursuit movements,Disrupted ocular pursuit movements,HP:0000617,0.9803954205553578
+disrupted saccades,Impaired saccades,HP:0000570,0.9687349928243467
+distal amyotrophy,Amyotrophy of distal limb muscles,HP:0003693,0.9735292815531041
+distal atrophy,Distal muscle atrophy,HP:0003693,0.9607338376400439
+distal atrophy and severe weakness of the hands and ankles,Distal upper limb muscle atrophy,HP:0007149,0.9359965560522916
+distal contractures,Thumb extension contracture,HP:0034667,0.9323640345697962
+distal hypoesthesia,Hypopallesthesia,HP:0002495,0.9320466124443086
+distal joint laxity,Distal joint laxity,HP:0020152,0.9999999999998653
+distal leg atrophy,Distal limb muscle atrophy,HP:0003693,0.9743719987447043
+distal limb deformities,Lower limb deformities,HP:0002814,0.9640052482523267
+distal limb muscle weakness,Distal limb muscle weakness,HP:0002460,0.9999999999998799
+distal limb weakness,Distal limb weakness,HP:0002460,0.9999999999998685
+distal lower limb wasting,Distal limb weakness,HP:0002460,0.9493388452844815
+distal lower limb weakness,Distal limb weakness,HP:0002460,0.9898646021420633
+distal motor and sensory impairment,Distal sensory impairment in lower limbs,HP:0002936,0.9703237887034766
+distal muscle atrophy,Distal muscle atrophy,HP:0003693,0.9999999999998891
+distal muscle atrophy in the lower limbs,Proximal lower limb muscle atrophy,HP:0008956,0.9760718059727976
+distal muscle atrophy particularly of the intrinsic hand muscles,Proximal upper limb muscle atrophy,HP:0008948,0.9631217106291234
+distal muscle wasting,"Muscle weakness, distal",HP:0002460,0.9614778603631171
+distal muscle wasting in the upper and lower limbs,Distal upper limb muscle atrophy,HP:0007149,0.9497709899174234
+distal muscle weakness,Distal muscular weakness,HP:0002460,0.9926320878852292
+distal muscle weakness and atrophy,Distal muscle atrophy,HP:0003693,0.9811378470667887
+distal muscle weakness and atrophy affecting the lower limbs,Distal upper limb muscle atrophy,HP:0007149,0.9628455169137343
+distal muscle weakness in the upper and lower limbs,Distal upper limb muscle weakness,HP:0008959,0.9613293619925657
+distal muscular atrophy,Distal muscular atrophy,HP:0003693,0.9999999999998749
+distal muscular weakness,Distal muscular weakness,HP:0002460,0.9999999999998173
+distal numbness and subjective coldness of the lower limbs,Distal upper limb muscle weakness,HP:0008959,0.9038278260010706
+distal sensory abnormalities,Distal sensory loss,HP:0002936,0.9763992627391318
+distal sensory change,Distal sensory loss,HP:0002936,0.9799495267960466
+distal sensory impairment,Distal sensory impairment in lower limbs,HP:0002936,0.9777515567236925
+distal sensory impairment at the toes,Distal sensory impairment in lower limbs,HP:0002936,0.9661859544942825
+distal sensory impairment in lower limbs to vibration,Distal sensory impairment in lower limbs,HP:0002936,0.9557791158322867
+distal sensory impairment of the lower limbs,Distal sensory impairment in lower limbs,HP:0002936,0.9494401720321067
+distal sensory impairment particularly in the lower limbs,Distal sensory impairment in lower limbs,HP:0002936,0.9420456248530671
+distal sensory loss,Distal sensory loss,HP:0002936,0.9999999999998694
+distal sensory loss in the hands and feet,"Distal sensory loss, upper and lower limbs",HP:0002936,0.9488986215612556
+distal sensory loss in the lower limbs,"Distal sensory loss, upper and lower limbs",HP:0002936,0.9602123771005932
+distal upper limb wasting,Abnormal upper limb muscles,HP:0001446,0.9451132803097808
+distal upper limb weakness,Distal upper limb muscle weakness,HP:0008959,0.985618100313124
+distal wasting in all limbs,"Muscle weakness, distal, progressive",HP:0009063,0.9431198548443843
+distal weakness,Distal muscular weakness,HP:0002460,0.9662267645995578
+distal weakness affecting the upper limb,Distal upper limb muscle weakness,HP:0008959,0.9613253360181284
+distal weakness and atrophy in the upper extremities,Distal upper limb muscle atrophy,HP:0007149,0.9381320992274079
+distal weakness and atrophy of the limbs,Distal upper limb muscle atrophy,HP:0007149,0.9494013112215265
+distally pronounced muscular weakness of the arms and legs,Distal upper limb muscle weakness,HP:0008959,0.9366219283150964
+diurnal variation of symptoms,Sleep rhythm inversion,HP:0031849,0.9006234854145614
+dizziness,Dizziness,HP:0002321,0.9999999999997642
+dorsal flexion of the great toes,Plantar flexion contractures,HP:0008112,0.9338780316672413
+double vision,Double vision,HP:0000651,0.9999999999996853
+down or upslanting palpebral fissures,Upslanting palpebral fissures,HP:0000582,0.974224311680203
+downbeat nystagmus,Downbeat nystagmus,HP:0010545,0.9999999999998024
+downbeating nystagmus,Downbeat nystagmus,HP:0010545,0.9923174196996615
+drooling,Drooling,HP:0002307,0.9669514830078833
+dysarthria,Dysarthric speech,HP:0001260,0.9803669790998324
+dysarthric speech,Dysarthric speech,HP:0001260,0.9999999999998689
+dysautonomia,Dysautonomia,HP:0012332,0.9999999999997788
+dysconjugate eye gaze,Disconjugate eye movements,HP:0000549,0.9298999627835426
+dysdiadochokinesia,Dysdiadochokinesia,HP:0002075,0.999999999999842
+dysdiadochokinesis,Dysdiadochokinesia,HP:0002075,0.9770291952026473
+dysesthetic sensations in feet,Dysesthesias,HP:0012534,0.9268495416498248
+dysfunction of bowel and bladder,Bowel obstruction,HP:0005214,0.9138329576397686
+dysgraphia,Speech dyspraxia,HP:0011098,0.9415017417614688
+dyskinesia,Dyskinesias,HP:0100660,0.9948426467605604
+dyskinesias,Dyskinesias,HP:0100660,0.9999999999998175
+dyskinetic movements in the left limb and trunk,Hypokinesia of the upper extremities,HP:0033413,0.9258256512734505
+dysmetria,Lower limb dysmetria,HP:0020035,0.948229947553266
+dysmetric saccades,Dysmetric horizontal saccades,HP:0032015,0.981191835132194
+dysmetric saccadic eye movements,Dysmetric eye saccades,HP:0000641,0.9819599378466206
+dysmetric vertical saccades,Dysmetric vertical saccades,HP:0032014,0.9927419379253772
+dysmorphic facial features,Dysmorphic facial features,HP:0001999,0.9935951036808103
+"dysmorphic features (prominent and bulbous nose, wide mouth, coarse features)",Hypoplasia of columella,HP:0002000,0.897983710063115
+dysphagia,Neuromuscular dysphagia,HP:0002068,0.9279695744207762
+dysphonia,Spasmodic dysphonia,HP:0012049,0.9543616120379742
+dyspnea,Dyspnea at rest,HP:0033710,0.9838247590056226
+dystonia,Dystonic movements,HP:0001332,0.9811168722274457
+dystonia affecting the legs,Generalised dystonia,HP:0007325,0.9453507567577711
+dystonia episodes of the face,Facial Dystonia,HP:0012179,0.9378160843468146
+dystonia involving the face,Facial Dystonia,HP:0012179,0.9516666820873714
+dystonia involving the jaw,Facial Dystonia,HP:0012179,0.9432329097760717
+dystonia involving the larynx,Cervical dystonia,HP:0000473,0.938050204387958
+dystonia involving the tongue,Tongue dystonia,HP:0031008,0.9439137967983204
+dystonia involving the trunk,Dystonic gait,HP:0031954,0.951617797596737
+dystonia of the craniocervical region,Cervical dystonia,HP:0000473,0.9544335107039618
+dystonia of the feet,Dystonic gait,HP:0031954,0.9526602366295959
+dystonia of the lower limbs,Dystonic gait,HP:0031954,0.9378124147712189
+dystonia of the trunk,Dystonic movements,HP:0001332,0.9549504314620064
+dystonia of the upper limbs,Dystonic gait,HP:0031954,0.9356339360948639
+dystonic arm posturing,Dystonic gait,HP:0031954,0.9653530378916007
+dystonic cramps,Dystonic movements,HP:0001332,0.9472689836702378
+dystonic hand posturing,Dystonic gait,HP:0031954,0.9699958618446242
+dystonic head jerks,Dystonic movements,HP:0001332,0.9486000603358912
+dystonic movements,Dystonic movements,HP:0001332,0.9955153727890756
+dystonic movements of the right hand,Dystonic gait,HP:0031954,0.9228731568321314
+dystonic posture of toes,Dystonic gait,HP:0031954,0.9617032335902456
+dystonic posture or movement,Dystonic gait,HP:0031954,0.958273378069114
+dystonic posturing,Dystonic movements,HP:0001332,0.9757521191576255
+dystonic posturing of the hands,Dystonic gait,HP:0031954,0.9503632797803836
+dystonic posturing of the head and arm,Cranial dystonia,HP:0012048,0.9314755862925661
+dystonic posturing of the limbs,Dystonic gait,HP:0031954,0.9530368684754768
+dystonic posturing of the upper limbs,Dystonic gait,HP:0031954,0.9418213962576553
+dystonic spasms,Dystonic movements,HP:0001332,0.9613785072236237
+dystonic torticollis,Dystonic gait,HP:0031954,0.9519499822941628
+dystonic tremor in upper limbs,Dystonia tremor,HP:0030185,0.9605076739543803
+early loss of color discrimination,Disturbed color vision,HP:0000551,0.9163111885807292
+early onset hearing loss,Severe hearing loss,HP:0012714,0.9438815404531515
+easy fatigability,Fatigable weakness of swallowing muscles,HP:0030195,0.9053662187529149
+elongated face,Circular face,HP:0000311,0.9556112996506174
+emotional lability,Mood lability,HP:0000712,0.9602981201577229
+end range nystagmus,Rotatory Nystagmus,HP:0001583,0.9571591667393621
+epilepsy,Epilepsy,HP:0001250,0.9999999999996965
+episodic breath holding,Episodic slow breathing,HP:0004881,0.9711446238513776
+episodic dyskinesias,Episodic dystonia,HP:0002268,0.967551743623613
+episodic muscle cramps,Episodic paralysis,HP:0003768,0.9382023648084449
+equino-varus deformity,Equinovalgus deformity,HP:0001772,0.9724420586321227
+exaggerated deep tendon reflexes,Deep tendon reflexes absent,HP:0001284,0.974133111121363
+exaggerated jaw jerk,Lower jaw shifted to one side,HP:0009940,0.9374399586445654
+exaggerated lumbar lordosis,Exaggerated lumbar lordosis,HP:0002938,0.9999999999998807
+exaggerated startle reflex,Increased startle response,HP:0002267,0.961660423186304
+exaggerated startle response,Increased startle response,HP:0002267,0.9712885415493385
+executive dysfunction,Memory impairment,HP:0002354,0.9536370303595257
+exercise induced paroxysmal dystonia,Episodic dystonia,HP:0002268,0.9550753298207513
+exotropia,Secondary exotropia,HP:0031721,0.9791021851937418
+explosive speech,Explosive speech,HP:0002168,0.9999999999997059
+expressive ataxic speech,Ataxic gait,HP:0002066,0.9574010476120158
+expressive language delay,Severe expressive language delay,HP:0006863,0.9696209980656237
+expressive speech delay,Moderate expressive language delay,HP:0011345,0.9408951701231961
+extensor plantar responses,Extensor plantar response,HP:0003487,0.9980931238576607
+external ophthalmoplegia,Internal ophthalmoplegia,HP:0007942,0.9928284708872024
+extreme hypertonia,Hypertonic seizures,HP:0010818,0.9596297936139854
+eye movement abnormalities,Eye movement abnormalities,HP:0000496,0.9935565382282905
+eyelid apraxia,Eyelid ptosis,HP:0000508,0.9569220904433818
+eyelid myoclonia,Eyelid myoclonia,HP:0025097,0.9999999999998178
+face involvement,Face weakness,HP:0030319,0.9654253647529153
+facial dystonia,Facial Dystonia,HP:0012179,0.9999999999998449
+facial grimacing,Facial grimacing,HP:0000273,0.9835017784298669
+facial hypomimia,Hypomimia,HP:0000338,0.9505311463722804
+facial hypotonia,Facial hypoplasia,HP:0000274,0.9530859559799746
+facial lingual fasciculations,Facial-lingual fasciculations,HP:0007089,0.9975922239387237
+facial myoclonus,Myoclonus of facial muscles,HP:0011468,0.9807518945631494
+facial myokymia,Myokymia,HP:0002411,0.9707632474968135
+facial palsy with reduced tongue mobility,Congenital bilateral facial palsy,HP:0007188,0.9507372000281906
+facial tics,Facial tics,HP:0011468,0.9753893796292158
+facial weakness,Facial weakness,HP:0030319,0.9999999999997711
+failure to acquire language,Deficit applying language skills across context,HP:5200128,0.928440090006207
+failure to thrive,Marked failure to thrive,HP:0001525,0.91139586253934
+fasciculations,Fasciculation,HP:0002380,0.9947989816352706
+fasciculations in the lower limbs,Limb fasciculation,HP:0007289,0.9568157550215838
+fasciculations of the periorbital region and limbs,Facial-lingual fasciculations,HP:0007089,0.9418431692461712
+fast horizontal or rotary nystagmus,Rotatory Nystagmus,HP:0001583,0.9644185862484053
+fatigue following ataxic attacks,Ataxic gait,HP:0002066,0.9246997929987207
+faucial dystonia,Facial Dystonia,HP:0012179,0.9630165108842824
+febrile seizures,Febrile convulsion,HP:0002373,0.9601939300592025
+feeding difficulties,Feeding difficulties,HP:0011968,0.9913769686994139
+feeding difficulties requiring a gastrostomy tube,Nasogastric tube feeding in infancy,HP:0011470,0.9297021322885747
+feeding problems,Feeding problems,HP:0011968,0.9882370622512352
+feeling of muscle slowness or stiffness,Proximal limb muscle stiffness,HP:0007066,0.9218111769511826
+fetal akinesia,Fetal akinesia,HP:0001989,0.9999999999998493
+fine finger control difficulties,Mirror hand movements,HP:0001335,0.9219791626486656
+fine motor incoordination,Impaired fine motor skills,HP:0007010,0.9480285795258948
+fine twitching in the face,Patchy loss of skin colour on arms,HP:0007526,0.9091277230096434
+fine twitching in the hand muscles,Progressive paralysis or weakness of muscles of eye movement,HP:0000544,0.9168134432517073
+fixed facial expression,Flat facial expression,HP:5200015,0.9578963688901296
+flaccidity,Flaccid neck,HP:0000467,0.9565493264797267
+flat face,Flat face,HP:0012368,0.9999999999997103
+flat feet,Flat feet,HP:0001763,0.9843337814125743
+flexion contractures,Flexion contractures,HP:0001371,0.9941434526402323
+flexion contractures of the fingers,Elbow flexion contractures,HP:0002987,0.9358551855000926
+flexion contractures of the legs,Plantar flexion contractures,HP:0008112,0.9463868509952993
+flexion contractures of the limbs,Plantar flexion contractures,HP:0008112,0.9421716522620809
+flexion contractures of the toes,Plantar flexion contractures,HP:0008112,0.9454626091140597
+flexion deformities of the interphalangeal joints,Flexion contractures of proximal interphalangeal joints,HP:0100490,0.960734654713056
+flexion dystonia of the fingers,Truncal dystonia,HP:0002530,0.9313795423824563
+flexion of the elbows,Limited elbow flexion,HP:0006376,0.9396949247795963
+flexion of the knees,Limited knee flexion/extension,HP:0005085,0.9356176857128863
+focal dystonia,Focal dystonia,HP:0004373,0.9999999999997884
+focal myoclonic seizures,Focal myoclonic seizures,HP:0011166,0.9806684833134175
+focal seizures,Focal seizure with loss of awareness,HP:0002384,0.969411977618108
+foot abnormalities,Abnormal feet structure,HP:0001760,0.95992293337659
+foot and wrist drop,Club foot on both sides,HP:0001776,0.9291995315068924
+foot clonus,Elbow clonus,HP:0011728,0.9704306641204319
+foot deformities,Foot deformities,HP:0001760,0.9891356696730778
+foot deformities (pes cavus or pes valgus),Valgus foot deformity,HP:0008081,0.9269599395478954
+foot deformities (pes cavus),Talipes foot deformities,HP:0001883,0.9337277306771773
+foot deformities including pes cavus and hammertoes,Talipes foot deformities,HP:0001883,0.9272477112673828
+foot deformities such as hammertoes,Structural foot deformity,HP:0010219,0.9274873581538782
+foot deformities such as pes cavus and hammertoes,Talipes foot deformities,HP:0001883,0.9175316123544713
+foot deformities such as pes cavus or claw toes,Talipes foot deformities,HP:0001883,0.9277783491883699
+foot deformity,Foot deformities,HP:0001760,0.9999999999998347
+foot dragging,Foot drop,HP:0009027,0.9430726000787405
+foot drop,Foot drop,HP:0009027,0.9999999999996534
+foot dystonia,Leg dystonia,HP:0031959,0.9865408050454392
+foot eversion,Forefoot adduction contracture,HP:0034680,0.9263899132345995
+foot or ankle deformities,Foot deformities,HP:0001760,0.9532077895073517
+foot paroxysmal exercise induced dyskinesia,Tardive dyskinesia,HP:0040141,0.9266596239522826
+freckles,Freckling,HP:0001480,0.9860923116917644
+frequent falling due to lower limb weakness,Distal upper limb muscle weakness,HP:0008959,0.9179635423882987
+frequent falls,Frequent falls,HP:0002359,0.9567201050447376
+frequent falls when walking,Frequent falls,HP:0002359,0.9173666175726981
+frequent infections,Frequent infections,HP:0002719,0.9857027360029205
+frequent respiratory infections,Frequent respiratory infections,HP:0002205,0.9886754724229246
+frequent tripping,Intermittent lack of energy,HP:0011973,0.9089331967903235
+frontotemporal dementia,Frontotemporal dementia,HP:0002145,0.9999999999998562
+gait abnormalities,Gait abnormalities,HP:0001288,0.9931641177872728
+gait abnormality,Gait abnormalities,HP:0001288,0.9999999999998357
+gait and balance problems,Gait instability,HP:0002317,0.9552331631239
+gait and postural abnormalities,Gait abnormalities,HP:0001288,0.9602440621900109
+gait ataxia,"Gait ataxia, progressive",HP:0007240,0.9907120781442472
+gait difficulties,Gait difficulties,HP:0001288,0.996940566293071
+gait disorder with falls,Gait abnormalities,HP:0001288,0.9390300194069501
+gait disturbance,Gait disturbances,HP:0001288,0.9999999999998471
+gait disturbances,Gait abnormalities,HP:0001288,0.9730084682575693
+gait disturbances due to cerebellar ataxia,"Cerebellar ataxia, progressive",HP:0002073,0.9634486793904936
+gait impairment,Gait abnormalities,HP:0001288,0.9687448860882242
+gait instability,Gait instability,HP:0002317,0.99999999999979
+gastroesophageal reflux,Gastroesophageal reflux disease,HP:0002020,0.9933225076411617
+gastrointestinal dysfunction,Gastrointestinal pain,HP:0002027,0.9643313247931196
+gastrointestinal symptoms,Gastrointestinal pain,HP:0002027,0.9908144239445166
+gaze evoked horizontal nystagmus,Gaze-evoked nystagmus,HP:0000640,0.9739585524798647
+gaze evoked nystagmus,Gaze-evoked nystagmus,HP:0000640,0.9765957786333558
+gaze fixation instability,Visual gaze preference,HP:0025518,0.9494058960354426
+gaze palsy,Vertical gaze palsy,HP:0000511,0.9802718478329415
+gaze paretic nystagmus,Horizontal jerk nystagmus,HP:0007286,0.9646003983863599
+general cognitive decline,Progressive cognitive decline,HP:0001268,0.9613954681335116
+generalized areflexia,Areflexia in lower limbs,HP:0002522,0.9574914114900008
+generalized convulsive seizures,Bilateral convulsive seizures,HP:0002069,0.9597628666340804
+generalized dystonia,Focal dystonia,HP:0004373,0.9829361845037208
+generalized epilepsy,Epilepsy,HP:0001250,0.9750712145792102
+generalized epileptic seizures,Epileptic spasms,HP:0011097,0.960584220802431
+generalized fasciculations,Fasciculation,HP:0002380,0.9612519039439841
+generalized hypertonia,Generalized hypertonic seizure,HP:0010818,0.9663516192985722
+generalized hypotonia,"Hypotonia, generalised",HP:0001290,0.9590931664412627
+generalized hypotonia at birth,"Hypotonia, in neonatal onset",HP:0001319,0.9618104794952745
+generalized motor seizures,Partial seizure without motor onset,HP:0032679,0.9615153403476189
+generalized muscle weakness,Progressive muscular weakness,HP:0003323,0.9705415410677206
+generalized seizure,Focal seizure,HP:0007359,0.9600287146405319
+generalized seizures,Focal seizure with loss of awareness,HP:0002384,0.9488771244659235
+generalized tonic clonic seizures,Generalised tonic-clonic seizure (without specification of onset),HP:0002069,0.9732361899074544
+generalized wasting,Weakness of one side of body,HP:0001269,0.9413169558889458
+genu recurvatum,Genu recurvata,HP:0002816,0.9946200699172728
+glaucoma,Glaucoma,HP:0000501,0.9999999999997454
+global developmental delay,"Global developmental delay, profound",HP:0012736,0.9844093787473638
+global developmental stagnation,Developmental stagnation at onset of seizures,HP:0006834,0.9383945702487952
+glossoptosis,Glossal abnormality,HP:0000157,0.9357816729405838
+Gowers sign,Gower sign,HP:0003391,0.9500677256519804
+grimacing,Facial grimacing,HP:0000273,0.9275920911341939
+gross motor delay,Gross motor delay,HP:0002194,0.9999999999996949
+growth retardation,Growth retardation,HP:0001510,0.9999999999997917
+gum hypertrophy,Gum hypertrophy,HP:0000212,0.9999999999997844
+hallucinations,Hallucinations of smell,HP:5200200,0.9694383450998084
+hammer toes,Hammer toe,HP:0001765,0.9913715657150544
+hammertoes,Hammertoe,HP:0001765,0.9872663214621239
+hand clapping,Hand-wringing,HP:0012171,0.9504295275814701
+hand deformity,Hand deformities,HP:0001155,0.9999999999997997
+hand dystonia,Arm dystonia,HP:0031960,0.9876028870577934
+hand muscle weakness,Hand muscle weakness,HP:0030237,0.9999999999998299
+hand muscle weakness and atrophy,Intrinsic hand muscle atrophy,HP:0008954,0.9604315682510686
+hand tremor,Hand tremor,HP:0002378,0.9999999999997418
+hand weakness,Shoulder weakness,HP:0003547,0.9668402217257388
+handwriting difficulties,Cognitive seizure,HP:0032680,0.9268347713406123
+head and trunk titubation,Head titubation,HP:0002599,0.9549405995349499
+head banging,Head jerking,HP:0006961,0.9757301384095302
+head lag,Head lag,HP:0032988,0.9999999999997053
+head nodding,Head jerking,HP:0006961,0.9789774886746285
+head shaking,Head jerking,HP:0006961,0.9677459122597949
+head titubation,Head titubation,HP:0002599,0.9999999999998458
+head tremor,Head tremor,HP:0002346,0.9999999999997855
+headache,Headache,HP:0002315,0.9999999999996221
+hearing impairment,Severe hearing impairment,HP:0012714,0.967989139383979
+hearing loss,Deafness,HP:0000365,0.9427815902552137
+high arched feet,High-arched foot,HP:0001761,0.9891481494296022
+high arched palate,High arched palate,HP:0000218,0.9999999999997857
+high arches,High stepping,HP:0003376,0.9435108569812684
+high foot arches,High-arched foot,HP:0001761,0.9402161660825012
+high frequency low amplitude tremor of the hands,Cerebellar tremor,HP:0002080,0.9206037602846809
+high frequency small amplitude tremor in both hands,Postural tremor of arms,HP:0007351,0.9189474521401978
+high palate,High palate,HP:0000218,0.999999999999814
+high pitched voice,Low pitched voice,HP:0010300,0.9547353398496469
+hip joint instability,Hip joint pain,HP:0003365,0.9560336809021133
+hirsutism,Dorsal hirsutism,HP:0034042,0.9607285020648033
+hoarse voice,Hoarse voice,HP:0001609,0.9999999999997482
+hobby horse gait,Hobby horse gait,HP:0031856,0.9999999999998421
+hollowed cheeks,Hollow cheeks,HP:0009938,0.9203880990101745
+horizontal and vertical gaze evoked nystagmus,Gaze-evoked nystagmus,HP:0000640,0.9599193589890168
+horizontal gaze evoked nystagmus,Gaze-evoked nystagmus,HP:0000640,0.9720180294099553
+horizontal gaze limitation,Impaired horizontal visual pursuit,HP:0001151,0.9421549688120133
+horizontal gaze nystagmus,Horizontal jerk nystagmus,HP:0007286,0.9793587152907948
+horizontal nystagmus,Vertical nystagmus,HP:0010544,0.990530489943969
+hyperactive deep tendon reflexes in the lower limbs,Hyperactive deep tendon reflexes,HP:0006801,0.945678099429242
+hyperactive reflexes,Hyperactive behaviour,HP:0000752,0.9352607713393665
+hyperactivity,Hyperactive behavior,HP:0000752,0.9645813500685311
+hyperextensibility of the wrists and ankles,Hyperextensible hand joints,HP:0005639,0.9412980826871603
+hyperextension of the knees and elbows,Proximal finger joint hyperextensibility,HP:0005190,0.9345341501764237
+hyperhidrosis,Nocturnal hyperhidrosis,HP:0030166,0.9706252440125884
+hyperlordotic spine,Hyperostosis of lower jaw,HP:0004472,0.9379943261837571
+hypermetric saccades,Hypermetric saccades,HP:0007338,0.990492328671196
+hypermetropia,High-grade hypermetropia,HP:0008499,0.9649102586351076
+hypermobility,Hypermobility of all joints,HP:0002761,0.9741375470514063
+hypermotor activity,Oral motor hypotonia,HP:0030190,0.9277827405384752
+hypernasal speech,Hypernasal voice,HP:0001611,0.9850199858457008
+hyperopic astigmatism,Hyperopic astigmatism,HP:0000484,0.999999999999875
+hyperreflexia,hyperreflexia,HP:0001347,0.9999999999997986
+hyperreflexia in the upper and lower limbs,Hyperreflexia in upper limbs,HP:0007350,0.9600675753424004
+hyperreflexia in upper and lower limbs,Hyperreflexia in upper limbs,HP:0007350,0.9717346775075599
+hyperreflexia of the knee,Hyperreflexia in upper limbs,HP:0007350,0.9456616045020169
+hyperreflexia of the lower limbs,Hyperreflexia in upper limbs,HP:0007350,0.960632680012396
+hyperreflexia of the upper and lower limbs,Hyperreflexia in upper limbs,HP:0007350,0.950757419630268
+hyperreflexia of the upper limbs,Hyperreflexia in upper limbs,HP:0007350,0.9601461807111314
+hyperreflexia with extensor plantar responses,Extensor plantar reflexes,HP:0003487,0.9483621982479018
+hypertelorism,Ocular hypertelorism,HP:0000316,0.9507178337802362
+hypertonia,Muscle hypertonia,HP:0001276,0.9662588547814108
+hypertonic urinary bladder disturbances,Hypertrophy of the urinary bladder wall,HP:0008635,0.9507944079441011
+hypertonicity,Hypertonicity,HP:0001276,0.9999999999997946
+hypertrichosis,Hypertrichosis of the eyebrow,HP:0000574,0.9831772246119492
+hypertrophic muscles,Hypertrophic muscles,HP:0003712,0.995304905225376
+hypertrophy of calf muscles,Muscular hypertrophy of the calf muscles,HP:0008981,0.962524720763928
+hyperventilation,Hypoventilation during sleep,HP:0002877,0.9615341595423358
+hypo or areflexia,Hyporeflexia/areflexia in lower limbs,HP:0002600,0.9331771212023912
+hypoactive deep tendon reflexes,Hypoactive to absent deep tendon reflexes,HP:0001315,0.9629255854269478
+hypoactive reflexes,Hyperreflexia in lower limbs,HP:0002395,0.9302141935490701
+hypoesthesia of the lower limbs,Hypokinesia of the lower extremities,HP:0033414,0.8985137290671873
+hypokinesia,Hypokinesia of the tongue,HP:0000183,0.9875333197258801
+hypometric ocular saccades,Hypometric horizontal saccades,HP:0007975,0.9861070853799808
+hypometric saccades,Hypometric saccades,HP:0000571,0.9917957563810991
+hypomielination of the spinal cord,Cervical spinal cord atrophy,HP:0010873,0.9192286870696987
+hypomimia,Hypomimia,HP:0000338,0.999999999999833
+hypomimic face,Hypomimia,HP:0000338,0.9649265553855855
+hypomotor seizures,Oculomotor abnormalities,HP:0000496,0.9301680132821886
+hypophonia,Hypophonia,HP:0001621,0.9999999999997959
+hyporeflexia,hyporeflexia,HP:0001265,0.9999999999997378
+hyporeflexia of the lower limbs,Hyporeflexia of upper limbs,HP:0012391,0.959874528240949
+hyporeflexia of the upper limbs,Hyporeflexia of upper limbs,HP:0012391,0.9602349268833327
+hyporeflexia or areflexia in the lower limbs,Hyporeflexia of upper limbs,HP:0012391,0.9451265315351214
+hypothyroidism,Secondary hypothyroidism,HP:0008245,0.9866474486940878
+hypotonia,"Hypotonia, severe",HP:0006829,0.9663537648691145
+hypotrophy,Hypotrophy of all teeth,HP:0006311,0.9788581330254983
+hypotrophy of the forearm muscles,Hypotrophic neck muscle,HP:0008984,0.9546570817643862
+ideomotor apraxia,Oral-motor apraxia,HP:0007301,0.9542383013074479
+imbalance,Imbalance,HP:0002172,0.999999999999757
+impaired dexterity,Impaired fine motor skills,HP:0007010,0.9090621216957047
+impaired distal vibration sensation,Impaired vibration sensation in the lower limbs,HP:0002166,0.958838152244924
+impaired dorsiflexion of the feet,Passive dorsiflexion of the 5th finger more than 90 degrees,HP:0031534,0.9471343310777445
+impaired gait,Impaired gait,HP:0001288,0.9999999999997571
+impaired intellectual development,Delayed intellectual development,HP:0001263,0.9688148042163259
+impaired optokinetic nystagmus,Horizontal opticokinetic nystagmus,HP:0008026,0.9643031742178485
+impaired saccades,Impaired saccades,HP:0000570,0.9839526041970338
+impaired sensation,Impaired vision,HP:0000505,0.9654193224230525
+impaired sensation at the ankles,Impaired vibration sensation in the lower limbs,HP:0002166,0.9227331219881474
+impaired sensation of all modalities predominantly affecting the lower limbs,Distal sensory impairment of the lower extremities,HP:0002936,0.905200936542033
+impaired smell,Impaired vision,HP:0000505,0.9605493525113749
+impaired smooth pursuit,Abnormal smooth pursuits,HP:0000617,0.9640189423210481
+impaired strength distally,Weakness of distal muscles,HP:0002460,0.9140279424890277
+impaired swallowing (dysphagia),Neuromuscular dysphagia,HP:0002068,0.9249568222825039
+impaired vibration sense in the lower legs,Impaired vibration sensation in the lower limbs,HP:0002166,0.9450375828201381
+impaired vibratory sense in the legs,Impaired vibratory sensation,HP:0002495,0.9662428089489481
+impairment in vibration sense,Impairment of the the acoustic reflex,HP:0040122,0.9537807057502816
+impulse control behaviors,Impulse control disorders,HP:0000734,0.9543522756488959
+impulsivity,Impulsivity,HP:0100710,0.9999999999997512
+inability to achieve head control,Poor head control,HP:0002421,0.9119969855067154
+inability to communicate verbally,Lack of verbal response to verbal cues,HP:5200054,0.8998913920258816
+inability to crawl,Difficulty walking backward,HP:0031847,0.8924145515790932
+inability to hold head up,Impaired neck-righting reflex,HP:0033330,0.8953903867164749
+inability to hold up the head,Dislocated arm joints,HP:0030310,0.8762648899057467
+inability to roll over,Difficulty walking backward,HP:0031847,0.8701331886583931
+inability to run,Impaired heel-walking ability,HP:6000490,0.873824218514808
+inability to run or climb stairs,Difficulty walking down stairs,HP:0033235,0.8955817569531699
+inability to sit or walk,Impaired toe-walking ability,HP:0034052,0.9069843904043701
+inability to sit unsupported,Difficulty walking backward,HP:0031847,0.8708912751083673
+inability to speak,Impaired speech development,HP:0000750,0.8816130764237528
+inability to stand,Inability to walk on heels,HP:0009027,0.9089615985937672
+inability to stand without assistance,Difficulty walking backward,HP:0031847,0.8873406127227094
+inability to walk,Inability to walk on heels,HP:0009027,0.9194343456916224
+inability to walk independently,Inability to walk on heels,HP:0009027,0.9300715149988041
+inability to walk on heels,Inability to walk on heels,HP:0009027,0.9331116167576238
+inability to walk on the heels or tiptoes,Impaired heel-walking ability,HP:6000490,0.8808809088605581
+inability to walk or speak,Inability to walk on heels,HP:0009027,0.911476117132852
+inability to walk unaided,Impaired toe-walking ability,HP:0034052,0.8873791091419333
+inability to walk unsupported,Impaired toe-walking ability,HP:0034052,0.8893952050947189
+inability to walk without aid,Impaired toe-walking ability,HP:0034052,0.905307647246607
+incontinence,Bladder incontinence,HP:0000020,0.9738265469701327
+incoordination,Incoordination,HP:0002311,0.9999999999997382
+incoordination in the arms,Incoordination,HP:0002311,0.9243904121378583
+incoordination of the hands,Incoordination of limb movements,HP:0002311,0.9428403474789889
+increased ankle reflexes,Increased muscle tone of arm or leg,HP:0002509,0.9278063404017313
+increased deep tendon reflexes,Deep tendon reflexes absent,HP:0001284,0.9714585554035974
+increased falls,Increased fracture rate,HP:0002757,0.8967131709818635
+increased jaw and glabellar reflexes,Glabellar abnormality,HP:0002056,0.9204107950548062
+increased knee reflexes,Decreased knee jerk reflex,HP:0011808,0.9302205938508494
+increased lower limb reflexes,Increased deep tendon reflexes in the lower limbs,HP:0002395,0.9302989134488358
+increased muscle tone,Increased muscle tone,HP:0001276,0.9751404215712552
+increased muscle tone in lower limbs,Increased muscle tone of arm or leg,HP:0002509,0.9461517061758806
+increased muscle tone in the lower limbs,Increased muscle tone of arm or leg,HP:0002509,0.925798482007591
+increased patellar reflex,Decreased patellar reflexes,HP:0011808,0.9848573606511277
+increased reflexes,Decreased reflex response,HP:0001265,0.9425433304472568
+increased serum creatine kinase,Increased serum creatine kinase,HP:0003236,0.9906806755592464
+increased startle induced falls,Increased startle response,HP:0002267,0.96136088671731
+increased tendon reflexes,Deep tendon reflexes absent,HP:0001284,0.9654331089000228
+increased tone,Increased reflexes,HP:0001347,0.9551885690051761
+increased tone in all 4 limbs,Increased muscle tone of arm or leg,HP:0002509,0.8962202071166995
+increased tone in the legs,Increased muscle tone of arm or leg,HP:0002509,0.9222806158998963
+increased tone in the lower limbs,Increased muscle tone of arm or leg,HP:0002509,0.9172185396793566
+increased tone in upper and lower limbs,Increased muscle tone of arm or leg,HP:0002509,0.9239675265185294
+inguinal hernias,Inguinal hernia,HP:0000023,0.9824218784927576
+insidious progressive visual loss,Slowly progressive visual loss,HP:0000529,0.9496758363288899
+insomnia,Insomnia middle,HP:0031355,0.9794311263160043
+inspiratory stridor,Inspiratory stridor,HP:0005348,0.999999999999835
+intellectual disability,Intellectual disability,HP:0001249,0.9999999999996345
+intellectual impairment,Intellectual impairment,HP:0100543,0.9999999999997417
+intention tremor,Terminal tremor,HP:0002080,0.9814332284985984
+intention tremor in hands,Lip tremor,HP:0032006,0.9630671504049747
+intention tremor in the upper limbs,Limb tremor,HP:0200085,0.9329937898970162
+intentional tremor,Essential tremor,HP:0030186,0.9775844392796039
+interictal cerebellar deficits,Cerebellar abnormalities,HP:0001317,0.9604121943874262
+intermittent cranial nerve involvement manifest as Bell palsy,Cranial nerve VI palsy,HP:0006897,0.9591818420817896
+intermittent dystonic symptoms,Dystonic movements,HP:0001332,0.9713831390328703
+intermittent hemidystonia,Hemidystonia,HP:0032005,0.9608912463891467
+intermittent limb stiffness,Toe stiffness,HP:0025265,0.9388141291269618
+intermittent myoclonic jerks,Myoclonic spasms,HP:0003739,0.957831562041192
+intractable epilepsy,Refractory status epilepticus,HP:0032867,0.928851010944516
+intractable focal occipital epilepsy,EEG with occipital epileptiform discharges,HP:0033720,0.9461596696657827
+intractable seizures,Focal seizure with loss of awareness,HP:0002384,0.9196246979760114
+involuntary choreiform movements,Involuntary dystonic or choreiform movements,HP:0007166,0.9743485466542068
+involuntary dystonic movements,Involuntary dystonic or choreiform movements,HP:0007166,0.965813321423651
+involuntary facial twitching,Involuntary facial contraction,HP:0000317,0.9661749792575761
+involuntary flexing and extending movements,"Involuntary muscle stiffness, contraction, or spasm",HP:0001257,0.9049583010593628
+involuntary leg jerks,Involuntary jerking movements,HP:0001336,0.957424786160998
+involuntary movements,Involuntary movements,HP:0004305,0.9927871862309674
+involuntary movements affecting the face,Involuntary facial muscle spasms,HP:0011468,0.9364393113842253
+involuntary movements affecting the jaw,Involuntary facial contraction,HP:0000317,0.928203009841609
+involuntary movements affecting the tongue,Intermittent involuntary muscle spasm,HP:0001281,0.9260094409072749
+involuntary movements of the legs,Involuntary muscle contractions,HP:0004305,0.9354456923557852
+"involuntary movements of the limbs, trunk, and face",Involuntary facial muscle spasms,HP:0011468,0.9128668705807532
+involuntary orobulbar spasms,Involuntary facial muscle spasms,HP:0011468,0.9501983050396021
+"involuntary posturing of the trunk, neck, or limbs",Involuntary facial muscle spasms,HP:0011468,0.8962598536086541
+involuntary pronation of the right arm,"Involuntary, rapid, rhythmic eye movements",HP:0000639,0.9123847157663262
+involuntary sustained muscle contractions,Involuntary rhythmic muscular contractions and relaxations,HP:0002169,0.9772592518422853
+involvement of craniofacial muscles,Abnormal craniofacial muscle tone,HP:0012179,0.9619332568468423
+involvement of the upper extremities,Duplication of bones involving the upper extremities,HP:0009142,0.9057694811174277
+IQ less than 60,low IQ,HP:0001249,0.9231060206577216
+irregular vertical pursuit,Irregular visual pursuit movements,HP:0000617,0.9585053983846163
+irresistible desire to move the legs,Uncontrollable movement in upper arms,HP:0006986,0.9115591214115046
+irresistible desire to move the lower extremities,Scissoring of the lower extremities,HP:0012407,0.908478052959614
+irritability,Irritability,HP:0000737,0.9999999999997566
+isolated hand dystonic tremor,Dystonia tremor,HP:0030185,0.9723655009723767
+isolated weakness of ankle dorsiflexion,Plantar flexion contractures,HP:0008112,0.9260495392384608
+jaw opening with hypersalivation,Hyponasal speech,HP:0100271,0.9259576686605617
+jerking head movements,Jerking head movements,HP:0006961,0.9545517706186503
+jerking movements of the arms,Uncontrollable movement in upper arms,HP:0006986,0.8897571916082275
+jerking movements of the head,Abnormal head movements,HP:0002457,0.9009776564699217
+jerking movements of the legs,Progressive paralysis or weakness of muscles of eye movement,HP:0000544,0.8899770334638076
+jerking of the lower limbs,Distal upper limb muscle weakness,HP:0008959,0.906690530309176
+jerking of the upper limbs,Distal upper limb muscle weakness,HP:0008959,0.9065006545819655
+jerky cervical dystonia,Cervical dystonia,HP:0000473,0.9810756599223551
+jerky ocular pursuit,Jerky smooth pursuit,HP:0008003,0.9606971959987604
+jerky smooth pursuit,Jerky smooth pursuit,HP:0008003,0.9999999999998357
+jerky tremor predominantly affecting the upper limbs,Myoclonic tremor,HP:0033054,0.9180701312749194
+jittery movements,Slowness of movements,HP:0002067,0.9272530153580902
+joint contractures,"Joint contractures, progressive",HP:0005876,0.9807625872622756
+joint pains,Joint swelling,HP:0001386,0.9726335263872155
+joint position sense loss,Joints move beyond expected range of motion,HP:0001382,0.9274109383348713
+juvenile myoclonic epilepsy,"Myoclonic epilepsy, progressive",HP:0002123,0.9794050639512591
+kinetic ataxia,Progressive ataxia,HP:0002073,0.9590461668102153
+knee contractures,Knee contractures,HP:0034671,0.9863871913884414
+kyphoscoliosis,Kyphoscoliosis,HP:0002751,0.9999999999998528
+kyphosis,Hyperkyphosis,HP:0002808,0.9385229074348996
+lack of deep tendon reflexes,Deep tendon reflexes absent,HP:0001284,0.9683321456604169
+lack of intentional movements,Impaired self monitoring,HP:0033070,0.9144514090239695
+lack of language development,Lack of language development,HP:0001344,0.9590236728475078
+lack of reflexes in the upper and lower limbs,Hyperreflexia in upper limbs,HP:0007350,0.9115952317767367
+lack of response to auditory stimuli,Impaired vibratory sensation,HP:0002495,0.9199823948607344
+lack of response to tactile stimuli,Tactile sensory seeking,HP:5200065,0.924610962469496
+lack of response to visual stimuli,Olfactory agnosia,HP:5200405,0.9113947829902929
+lack of smooth pursuit,Absent smooth pursuit,HP:0007179,0.963536589526205
+lack of speech,Poor speech discrimination,HP:0001963,0.9297953956834466
+lagophthalmos,Paralytic lagophthalmos,HP:0030003,0.9605504707846078
+language delay,Language delay,HP:0000750,0.9999999999997253
+large calves,Wide calf bone,HP:0012107,0.8711442253523181
+laryngeal adductor dysphonia,Laryngeal stidor,HP:0006511,0.9432474224672973
+laryngeal dysfunction,Laryngeal abnormalities,HP:0001600,0.9618728253168951
+laryngeal dystonia,Cervical dystonia,HP:0000473,0.958470762767696
+laryngeal involvement,Laryngeal mass,HP:0034412,0.9735756940955264
+late onset afebrile generalized tonic clonic seizures,Generalized tonic-clonic seizure with focal onset,HP:0007334,0.9538369401557868
+late onset cerebellar ataxia,Cerebellar ataxia,HP:0001251,0.9833025991605763
+later deterioration of motor skills,Progressive mental and motor deterioration,HP:0007272,0.9559868002329478
+learning difficulties,Difficulty speaking,HP:0002465,0.9202199012712942
+learning disabilities,Specific learning disability,HP:0001328,0.9402808659033227
+learning disability,Specific learning disability,HP:0001328,0.9427720504770541
+leg cramps,Muscle cramps,HP:0003394,0.9598954613236026
+leg cramps during the day with exercise,Muscle cramps following exercise,HP:0003710,0.9271987215261915
+leg pains,Leg pain,HP:0012514,0.9473249511537021
+leg tremor,Limb tremor,HP:0200085,0.9878513575708585
+leg weakness,Leg weakness,HP:0007340,0.999999999999695
+limb and truncal ataxia,Progressive truncal ataxia,HP:0007221,0.9714214228448256
+limb ataxia,Trunk ataxia,HP:0002078,0.9723772410281477
+limb contractures,Limb contractures,HP:0003121,0.9873274390749056
+limb dysmetria,Lower limb dysmetria,HP:0020035,0.966797189731999
+limb dystonia,Limb dystonia,HP:0002451,0.9999999999998118
+limb hyperreflexia,Leg hyperreflexia,HP:0002395,0.9800392246142391
+limb hypertonia,Lower limb hypertonia,HP:0006895,0.9746608394895813
+limb incoordination,Limb incoordination,HP:0002311,0.999999999999826
+limb muscle weakness,Limb muscle weakness,HP:0003690,0.9999999999998412
+limb spasticity,Lower limb spasticity,HP:0002061,0.9798582287496137
+limb tremors,Limb tremor,HP:0200085,0.9907590298469432
+limb weakness,Limb weakness,HP:0003690,0.9999999999996748
+limitation of eye movements,Abnormal eye movement,HP:0000496,0.9248000467743677
+limited hip abduction,Limited hip abduction,HP:0003184,0.9999999999997947
+limited lateral ocular movements,Impaired ocular abduction,HP:0000634,0.9535223834725554
+"limited movements of shoulders, hips, and knees",Dislocated leg joints,HP:0030311,0.8727658110802107
+limited neck flexion,Limited lateral neck flexion,HP:0033481,0.9882531446870518
+limping gait,Crouch gait,HP:0025682,0.9601644830825163
+long toes,Long toe,HP:0010511,0.9895520479849184
+lordosis,Lordosis,HP:0003307,0.9999999999996124
+loss of ability to read and write,Deficit applying language skills across context,HP:5200128,0.8781534688985976
+loss of ability to walk,Impaired toe-walking ability,HP:0034052,0.9039974744693196
+loss of acquired language skills,Deficit applying language skills across context,HP:5200128,0.9453237362627742
+loss of acquired motor skills,Impaired fine motor skills,HP:0007010,0.93749615885892
+loss of acquired speech,Impaired speech development,HP:0000750,0.9277679126774036
+loss of ambulation,Impairment of activities of daily living,HP:0031058,0.9060810913319985
+loss of ankle reflexes,Decreased or absent ankle reflexes,HP:0200101,0.9306168903256573
+loss of consciousness,Transient global amnesia,HP:0010534,0.9048571108574446
+loss of control of legs,Instability or lack of coordination of central trunk muscles,HP:0002078,0.9082388335883915
+loss of developmental milestones,Delayed intellectual development,HP:0001263,0.9290099720537237
+loss of distal joint position sense,Distal joint laxity,HP:0020152,0.9473405787989018
+loss of handwriting ability,Impaired fine motor skills,HP:0007010,0.9369435494227126
+loss of independent ambulation,Impairment of activities of daily living,HP:0031058,0.9054160150787478
+loss of motor skills,Impaired fine motor skills,HP:0007010,0.9407828140671575
+loss of reflexes in the lower limbs,Progressive paralysis or weakness of muscles of eye motility,HP:0000544,0.909475533734777
+loss of sphincter control,Sphincter disturbance,HP:0002839,0.9603340843455287
+loss of terminal digits,Abnormal development of end part of bone,HP:0002656,0.9121640111609077
+loss of the ability to run,Impaired fine motor skills,HP:0007010,0.8471123161886288
+loss of vibration sense,Decreased vibration sense,HP:0002495,0.9388400890366103
+loss of vision,Progressive vision loss,HP:0000529,0.947838364223852
+loss or lack of independent ambulation,Impairment of activities of daily living,HP:0031058,0.9073107742716877
+low alertness,Decreased alertness,HP:0032044,0.9459149595490881
+low hanging columella,Low-hanging columella,HP:0009765,0.9569786953679287
+low set ears,Low set ears,HP:0000369,0.9796156366316107
+lower bulbar palsies,Bulbar palsies,HP:0001283,0.9712138011415157
+lower extremity muscle weakness,Lower extremity weakness,HP:0007340,0.976467505402317
+lower extremity weakness,Lower extremity weakness,HP:0007340,0.9921836044787542
+lower leg weakness,Leg weakness,HP:0007340,0.9729231656310823
+lower limb amyotrophy,Lower limb amyotrophy,HP:0007210,0.9916197696513873
+lower limb areflexia,Areflexia of upper limbs,HP:0012046,0.9644425433750676
+lower limb atrophy,Lower limb atrophy,HP:0008944,0.975051109958528
+lower limb contractures,Upper limb pain,HP:0012513,0.945573559535074
+lower limb dystonia,Limb dystonia,HP:0002451,0.9782763122070602
+lower limb hyperreflexia,Leg hyperreflexia,HP:0002395,0.9824923086938726
+lower limb hyporeflexia,Hyporeflexia in lower limbs,HP:0002600,0.9653092617509925
+lower limb involvement,Lower limb weakness,HP:0007340,0.9500370911424051
+lower limb muscle atrophy,Distal limb muscle atrophy,HP:0003693,0.9839500259280632
+lower limb muscle spasticity,Muscle spasticity,HP:0001257,0.9746546878387685
+lower limb muscle wasting,"Hand muscle wasting, bilateral",HP:0009130,0.953555846121547
+lower limb muscle weakness,Lower limb muscle weakness,HP:0007340,0.9879317871058102
+lower limb spasticity,Lower limb spasticity,HP:0002061,0.9841968626178754
+lower limb spasticity primarily affecting the hamstring and posterior tibial muscles,Proximal lower limb muscle atrophy,HP:0008956,0.9208607560730667
+lower limb stiffness,Leg muscle stiffness,HP:0008969,0.9659774057244683
+lower limb weakness,Lower limb weakness,HP:0007340,0.978095796879187
+lumbar hyperlordosis,Exaggerated lumbar lordosis,HP:0002938,0.9364825595853659
+lumbar lordosis,Lumbar lordosis,HP:0002938,0.9999999999998632
+lumbar scoliosis,Lumbar scoliosis,HP:0004626,0.99999999999988
+macular dystrophy,Macular dystrophy,HP:0007754,0.999999999999834
+marked atrophy of the muscles in the legs,"Distal muscle atrophy, upper and lower limbs",HP:0003693,0.9166834197337534
+marked bilateral spasticity in the legs,Lower limb spasticity,HP:0002061,0.9261420377036075
+marked distal sensory loss in all four extremities,"Distal sensory loss, upper and lower limbs",HP:0002936,0.9085897728915284
+marked distal upper limb weakness,Distal upper limb muscle weakness,HP:0008959,0.9758449768298596
+marked distal weakness and wasting of the lower limbs,Distal upper limb muscle weakness,HP:0008959,0.9393798205924087
+marked hyperlaxity,Joint hyperlaxity,HP:0001382,0.9226960346812602
+marked kyphosis,Hyperkyphosis,HP:0002808,0.9408703078635913
+marked muscular atrophy,Proximal muscle atrophy,HP:0007126,0.9543836028514102
+marked reduction of all sensory modalities below the elbows and knees,"Distal sensory loss, especially vibratory sense",HP:0002166,0.920340325213368
+marked sensory abnormalities,Abnormality of central sensory function,HP:0011730,0.9293317866240443
+marked short stature,Severe short stature,HP:0003510,0.9796003482310005
+marked spasticity,"Spasticity, progressive",HP:0002191,0.9618833210724358
+marked weakness,Mild fever,HP:0011134,0.9372278055300745
+markedly increased tone,Histamine high in blood,HP:0034446,0.9078558094950154
+mask like face,Mask-like facial appearance,HP:0000298,0.9222452935706882
+mechanical ventilation requirement,Respiratory distress requiring mechanical ventilation,HP:0004887,0.9380876708151044
+memory deficits,Memory impairment,HP:0002354,0.9633975626484786
+mental impairment,Mental impairment,HP:0033667,0.9999999999997623
+mental retardation,Mental retardation,HP:0001249,0.9999999999997462
+microcephaly,"Microcephaly, acquired",HP:0005484,0.981977043173081
+micrognathia,Agnathia,HP:0009939,0.9822939152368579
+micrographia,Micrographia,HP:0031908,0.999999999999757
+mild action tremor in the upper limbs,Myoclonic tremor,HP:0033054,0.9287031653641663
+mild akinesia,Akinesia,HP:0002304,0.9599997070758313
+mild amyotrophy of the hands,Amyotrophy involving the upper limbs,HP:0009129,0.9480036071399085
+mild ataxia,Progressive ataxia,HP:0002073,0.974008442931155
+mild ataxia of upper and lower limbs,Intermittent cerebellar ataxia,HP:0002131,0.9211009563337652
+mild atrophy of intrinsic foot muscles,"Distal muscle atrophy, upper and lower limbs",HP:0003693,0.9498990171154074
+mild atrophy of proximal muscles,Proximal muscle atrophy,HP:0007126,0.9561141546857168
+mild bladder control issues,Poor bladder function,HP:0000009,0.9245984897829153
+mild bladder urgency,Bladder pain,HP:0032171,0.9291774295095752
+mild bradykinesia,Hyperkinesia,HP:0002487,0.9396913380678866
+mild cerebellar tremors,Cerebellar tremor,HP:0002080,0.9779886037900822
+mild cognitive deficits,Cognitive abnormality,HP:0100543,0.9443218990019535
+mild cognitive delay,Cognitive delay,HP:0001263,0.93836135593836
+mild cognitive deterioration,Progressive language deterioration,HP:0007064,0.9547554808178624
+mild cognitive impairment,Cognitive impairment,HP:0100543,0.9721523244053494
+mild distal lower limb atrophy,Distal upper limb muscle atrophy,HP:0007149,0.973687352483031
+mild distal sensory impairment,Distal sensory impairment in lower limbs,HP:0002936,0.9618246837809467
+mild distal sensory loss,Distal sensory loss,HP:0002936,0.9770223435640475
+mild dysarthria,Rigid dysarthria,HP:0002464,0.9783546355088434
+mild dysmetria of the upper limbs,Upper limb dysmetria,HP:0020036,0.9397553181264267
+mild dysmorphism,Facial dysmorphism,HP:0001999,0.9427692679909307
+mild dysphagia,Dyspnea at rest,HP:0033710,0.9284431198464219
+mild facial muscle weakness,Bilateral facial muscle weakness,HP:0430025,0.9687762400664285
+mild facial weakness,Facial weakness,HP:0030319,0.9594010952559122
+mild gait ataxia,"Gait ataxia, progressive",HP:0007240,0.9739888002264615
+mild hand atrophy,Intrinsic hand muscle atrophy,HP:0008954,0.9346396253519448
+mild hearing loss,Severe hearing loss,HP:0012714,0.9719857906204596
+mild horizontal gaze evoked nystagmus,Gaze-evoked nystagmus,HP:0000640,0.9682494388441558
+mild hyperreflexia,hyperreflexia,HP:0001347,0.9803635464991297
+mild increases in muscle tone,Severely decreased muscle tone,HP:0006829,0.9411894838303365
+mild increases in tone,Decreased sensory NCV,HP:0003448,0.8980744206223911
+mild intellectual disability,Intellectual disability,HP:0001249,0.9530202209183865
+mild intention tremor,Terminal tremor,HP:0002080,0.9662059953649438
+mild kyphosis,Hyperkyphosis,HP:0002808,0.9428943164904642
+mild language delay,Mild expressive language delay,HP:0011346,0.9776310433068547
+mild learning difficulties,Specific learning disability,HP:0001328,0.9284237106637151
+mild limb dystonia,Leg dystonia,HP:0031959,0.9678340768347599
+mild limb involvement,Lower limb weakness,HP:0007340,0.9322317376723963
+mild lordosis,Lordosis,HP:0003307,0.950669781236588
+mild lower limb ataxia,"Gait ataxia, progressive",HP:0007240,0.9591662629623334
+mild memory impairment,Memory impairment,HP:0002354,0.9631147380412063
+mild mental delay,"Intellectual disability, mild",HP:0001256,0.9317164476062941
+mild mental retardation,Mild mental retardation,HP:0001256,0.9999999999998042
+mild microcephaly,Mild microcephaly,HP:0040196,0.9999999999998035
+mild motor dyspraxia,Verbal dyspraxia,HP:0011098,0.9583131596559475
+mild muscle weakness and atrophy affecting only the lower limbs,"Symmetrical, proximal limb muscle atrophy",HP:0007126,0.9439123663207982
+mild muscle weakness of the anterior tibial peroneal and posterior tibial muscles,Scapuloperoneal myopathy,HP:0009054,0.9091944182933365
+mild nystagmus,nystagmus,HP:0000639,0.9709029588243371
+mild parkinsonism,Parkinsonian disease,HP:0001300,0.9527918137872883
+mild pes cavus,pes cavus,HP:0001761,0.9762884279261083
+mild proximal contractures,Distal muscular weakness,HP:0002460,0.9286334388885522
+mild proximal muscle weakness,Late-onset proximal muscle weakness,HP:0003694,0.9727768912260019
+mild proximal weakness,Distal muscular weakness,HP:0002460,0.9574281886574899
+mild ptosis,Mild fever,HP:0011134,0.9169892400980293
+mild pyramidal signs,Pyramidal signs,HP:0007256,0.9148112671355835
+mild resting tremor,Rest tremor,HP:0002322,0.9717867394369972
+mild rigidity,Rigidity,HP:0002063,0.9132266411440871
+mild sensory impairment,Mild hearing impairment,HP:0012712,0.9493934342041009
+mild sensory impairment of the distal lower legs,"Distal sensory loss, upper and lower limbs",HP:0002936,0.9354856824463055
+mild sensory loss,Distal sensation loss,HP:0002936,0.939044716544179
+mild signs of sensory neuropathy,"Peripheral sensory neuropathy, distal",HP:0007067,0.9500607814044448
+mild slurring of speech,Fatigable weakness of speech muscles,HP:0030194,0.8924956798264935
+mild spasticity,"Spasticity, progressive",HP:0002191,0.966058232150244
+mild spasticity of the lower limbs,Distal upper limb muscle weakness,HP:0008959,0.9278999125445121
+mild spasticity of the upper limbs,Distal upper limb muscle weakness,HP:0008959,0.9276553260708269
+mild to moderate cognitive delay,Moderate visual impairment,HP:0030515,0.9107964491985903
+mild to moderate cognitive impairment,Cognitive impairment,HP:0100543,0.9429622114062579
+mild to moderate developmental delay,"Global developmental delay, moderate",HP:0011343,0.923549086336869
+mild to moderate spasticity,"Spasticity, progressive",HP:0002191,0.9445260683827783
+mild to moderate speech delay,Moderate expressive language delay,HP:0011345,0.9283767324826634
+mild unsteadiness,Unsteady walk,HP:0002317,0.9218896979758004
+mild upper limb ataxia,"Gait ataxia, progressive",HP:0007240,0.9588863773097326
+mild upper limb cogwheel rigidity,Spasticity and rigidity of muscles,HP:0001276,0.9164129982666899
+mild upper limb dysmetria,Upper limb dysmetria,HP:0020036,0.9786521366372007
+mild upper limb hyperreflexia,Hyperreflexia in upper limbs,HP:0007350,0.9688691388913728
+mild upper limb involvement,Distal limb weakness,HP:0002460,0.9371749117159461
+mild urinary urgency,Urinary urgency,HP:0000012,0.9746893620741917
+mild weakness of the distal hand muscles,Distal upper limb muscle weakness,HP:0008959,0.9526249517833861
+mild weakness of the proximal lower limb muscles,Distal upper limb muscle weakness,HP:0008959,0.9637415715141413
+mildly decreased sensation of pain and vibration in the feet,Decreased touch sensation in extremities,HP:0006937,0.9183238357846963
+mildly decreased vibration sense at the ankles,Impaired vibration sensation in the lower limbs,HP:0002166,0.9319618661137852
+mildly diminished sensation for all modalities in regions distal to the ankles,"Distal sensory loss, especially vibratory sense",HP:0002166,0.9174294621017802
+mildly impaired intellectual development,Delayed intellectual development,HP:0001263,0.9374945366381063
+mildly impaired position sense,Impaired vibration sensation in the lower limbs,HP:0002166,0.9425074749021306
+mildly impaired smooth pursuit,Absent smooth pursuit,HP:0007179,0.9422403510809967
+mildly impaired vibration sense,Impaired vibration sensation in the lower limbs,HP:0002166,0.9533620692136977
+mildly increased muscle tone,Severely decreased muscle tone,HP:0006829,0.9458240177233596
+mildly increased serum creatine kinase,Mildly increased serum creatine kinase,HP:0008180,0.9848903784126688
+mildly reduced muscle strength in ankle dorsiflexors,Neck flexor muscle weakness,HP:0003722,0.9259714643149699
+mini myoclonus,Action myoclonus,HP:0034360,0.9699042654648312
+minimal ataxia,Progressive ataxia,HP:0002073,0.9627995756879205
+minimally reactive pupils,Inflammatory abnormality of the skin,HP:0011123,0.8980366253312527
+miosis,Autophony,HP:6000032,0.9126492562826621
+mixed hearing loss pattern,Mixed hearing loss,HP:0000410,0.9821386584606383
+moderate degree of amyotrophy in the lower extremities,Amyotrophy involving the extremities,HP:0003202,0.9350127323791164
+moderate intellectual disability,Intellectual disability,HP:0001249,0.9271862584149758
+moderate muscle weakness,Progressive muscular weakness,HP:0003323,0.9594248900962532
+moderate to severe cognitive deficits,Focal motor impaired awareness seizure,HP:0032712,0.9226877581758854
+monotone speech,Skew foot,HP:0032649,0.8901551464248604
+mood abnormalities,Mood alterations,HP:0000712,0.9626675803893961
+mood disorders,Psychiatric disorders,HP:0000708,0.9533337357890517
+motor aphasia,Motor aphasia,HP:0002427,0.999999999999782
+motor deficits,Functional motor problems,HP:0004302,0.9434119772691963
+motor delay,Motor seizure,HP:0020219,0.9632024294235001
+motor disturbances,Functional motor problems,HP:0004302,0.9339175888594563
+motor disturbances in all limbs,Focal motor impaired awareness seizure,HP:0032712,0.9231900132741658
+motor fluctuations,Fluctuations in consciousness,HP:0007159,0.8927720089021912
+motor impairment (mild to moderate),Gross motor impairment,HP:0007015,0.9384383484777477
+motor neuropathy,Peripheral motor neuropathy,HP:0007178,0.9789082986418037
+motor restlessness,Bulbar weakness,HP:0001283,0.927740370944962
+motor skills delay,Impaired fine motor skills,HP:0007010,0.9475940242804858
+multiple joint contractures,Multiple joint contractures,HP:0002828,0.9862699952778735
+muscle atrophy,Muscle atrophy,HP:0003202,0.9999999999997585
+muscle atrophy affecting the upper and lower limbs,Proximal upper limb muscle atrophy,HP:0008948,0.9533622945628619
+muscle atrophy of the hands and feet,"Distal muscle atrophy, upper and lower limbs",HP:0003693,0.9472320630097006
+muscle atrophy of the paraspinal muscles,Paraspinal muscle hypertrophy,HP:0012894,0.9570260192237857
+muscle atrophy primarily affecting the lower limbs,Proximal upper limb muscle atrophy,HP:0008948,0.9519620771275903
+muscle cramping,Muscle cramps,HP:0003394,0.9643084807295819
+muscle cramps,Muscle cramps,HP:0003394,0.9849040055859094
+muscle fasciculation,Muscle fasciculation,HP:0002380,0.9999999999998662
+muscle hypertonia,Muscle hypertonia,HP:0001276,0.9999999999998532
+muscle hypotrophy,Muscle hypotrophy,HP:0003202,0.9999999999998646
+muscle spasms,Muscle spasms,HP:0002487,0.9831731308635168
+muscle stiffness,Muscle stiffness,HP:0003552,0.9999999999997831
+muscle tightening typically in an extremity,Absent/small muscles of extremities,HP:0009128,0.9191094746529097
+muscle wasting,Muscle weakness,HP:0001324,0.9682474691453078
+muscle weakness,Muscle weakness,HP:0001324,0.9999999999997577
+muscle weakness and atrophy in the distal upper limbs,Proximal upper limb muscle atrophy,HP:0008948,0.9660565977288703
+muscle weakness of limbs,Muscle weakness in lower limbs,HP:0007340,0.9542107432394056
+muscular atrophy,Muscular atrophy,HP:0003202,0.9999999999997362
+muscular hypertonia,Muscle hypertonia,HP:0001276,0.9840758972088488
+muscular hypertonia of the lower limbs,Upper limb hypertonia,HP:0200049,0.9575286233572462
+muscular hypotonia,Muscular hypotonia,HP:0001252,0.9999999999998437
+muscular pain,Muscle pain,HP:0003326,0.9776698339489611
+muscular rigidity,Muscle rigidity,HP:0002063,0.970985584989876
+mutism,Selective mutism,HP:5200001,0.945093877865978
+myalgia,Myalgias,HP:0003326,0.9738593626796673
+myoclonic jerks,Myoclonic jerks,HP:0001336,0.965845774938979
+myoclonic jerks affecting proximal muscles,Myoclonic spasms,HP:0003739,0.944870087424819
+myoclonic jerks affecting the upper limbs,Myoclonic spasms,HP:0003739,0.9313885730296375
+myoclonic or generalized seizures,Focal myoclonic seizures,HP:0011166,0.962019108357657
+myoclonic seizures,Myoclonic seizure,HP:0032794,0.9736373736623952
+myoclonus,Myoclonus of limbs,HP:0045084,0.9848690520716125
+myokymia of the face,Myokymia orbicularis,HP:0031166,0.9318417174866964
+myokymia of the limbs,Myokymia,HP:0002411,0.9311904368874597
+myokymic activity,Myokymia,HP:0002411,0.9624531146116851
+myopathic facies,Myopathic facial appearance,HP:0002058,0.9657125912452844
+myopia,Mild myopia,HP:0025573,0.9688689194286436
+myotonia,Myotonia of the jaw,HP:0012901,0.9747573377253121
+narrow based spastic gait,Broad based gait,HP:0002136,0.9230214048180277
+narrow chest,Narrow chest,HP:0000774,0.9999999999997039
+narrow myopathic face,Myopathic face,HP:0002058,0.9633728599878756
+nasal voice,Nasal voice,HP:0001611,0.9999999999997328
+nausea,Nausea,HP:0002018,0.9999999999995541
+neck dystonia,Leg dystonia,HP:0031959,0.9823784116968831
+neck muscle weakness,Neck muscle weakness,HP:0000467,0.999999999999809
+neck myoclonia,Spinal myoclonus,HP:0010531,0.963278991919084
+neck tremor,Head tremor,HP:0002346,0.985869931975242
+neck weakness,Shoulder weakness,HP:0003547,0.972234474823008
+need for assistance in walking,Difficulty walking backward,HP:0031847,0.885311315281924
+neonatal convulsions,Generalized convulsion,HP:0002069,0.9387153699558121
+neonatal hypotonia,"Hypotonia, neonatal",HP:0001319,0.972877642664643
+neurocognitive regression,Dyscognitive seizures,HP:0002384,0.9455834475881201
+neurogenic bladder,Urinary bladder inflammation,HP:0100577,0.9246821362104103
+neurogenic bladder dysfunction,Autonomic bladder dysfunction,HP:0005341,0.9605780705067091
+neuropathic joint degeneration,Degenerative joint disease,HP:0002758,0.9547495796918448
+neuropathic pain,Neuropathy,HP:0009830,0.9097591667632261
+no expressive language,Loss of expressive speech,HP:0002427,0.9089275609184052
+no head control,Uneven head shape,HP:0000267,0.9131016467048806
+no movement of the big toes,Lateral deviation of great toe,HP:0001822,0.9080365798165972
+no movement of the right vocal cord,Imperfect vocal cord adduction,HP:0005934,0.9013097860675996
+no social eye contact,Reduced social smiling,HP:5200102,0.8973304884473432
+no speech,AOB,HP:0009102,0.8571587921939632
+no spontaneous mobility,Lack of spontaneous play,HP:0000721,0.9199787467339182
+no spontaneous movement,Decreased spontaneous movement,HP:0002375,0.9313192727032661
+no visual reaction to light,Lack of skin coloration,HP:0200098,0.8930736086704005
+no voluntary movement of lower extremities below the knees,Decreased vibratory sense in the lower extremities,HP:0002166,0.9161998393313712
+nocturnal enuresis,Nocturnal enuresis,HP:0010677,0.9999999999998593
+nocturnal hypoventilation,Nocturnal hypopnea,HP:0002877,0.9608603410146473
+nocturnal insomnia,Sleep onset insomnia,HP:0031354,0.96613519249848
+nocturnal muscle jerks,Nocturnal myoclonus syndrome,HP:5200300,0.9299381477427727
+nocturnal secondary generalized tonic clonic seizures,Generalized tonic-clonic seizures on awakening,HP:0007193,0.9649266733995184
+nonambulatory,Non-ambulatory,HP:0002540,0.9321804661745688
+nonambulatory status,Non-ambulatory,HP:0002540,0.9140540498102692
+nonprogressive weakness,Nonprogressive intellectual disability,HP:0001249,0.9311881250733888
+nonspecific dysmorphic facial features,Dysmorphic facial features,HP:0001999,0.937275583099672
+nonspecific dysmorphic features such as bulbous nose and long face,Atypical facial expressions,HP:4000089,0.905957669548183
+nonspecific lower back pain,Nonspecific chronic villitis,HP:0033552,0.8905743387793603
+nonstimulus sensitive myoclonic jerks affecting face,Focal motor aware seizure with negative myoclonus,HP:0032857,0.935498030583771
+nonstimulus sensitive myoclonic jerks affecting hands,Focal impaired awareness myoclonic seizure,HP:0032730,0.9353036832377308
+nonverbal,Nonverbal,HP:0001344,0.9999999999995995
+numbness and weakness of the feet and legs,Distal upper limb muscle weakness,HP:0008959,0.905086811023528
+nystagmoid eye movement,"Nystagmus, continuous pendular",HP:0012043,0.9522973486474671
+nystagmus,nystagmus,HP:0000639,0.9999999999996998
+obesity,Obesity,HP:0001513,0.99999999999977
+obstructive sleep apnea,Obstructive sleep apnoea,HP:0002870,0.9881502102811651
+occasionally difficulty with bladder emptying,Painful or difficult urination,HP:0100518,0.9171997346288893
+ocular abnormalities,Ocular movement abnormalities,HP:0000496,0.9620883578778883
+ocular apraxia,Ocular motor apraxia,HP:0000657,0.9775459662092489
+ocular dysmetria,Ocular dyssynergia,HP:0010868,0.9469481686160957
+ocular elevation,Ocular absence,HP:0000528,0.9890825523440833
+ocular movement abnormalities,Ocular movement abnormalities,HP:0000496,0.9958997510723917
+oculogyric crises,Oculogyric crisis,HP:0010553,0.9862878692804764
+oculogyric spasms,Oculogyric crisis,HP:0010553,0.9426336895666987
+oculomotor abnormalities,Oculomotor abnormalities,HP:0000496,0.9969524184630987
+oculomotor apraxia,Oculomotor abnormalities,HP:0000496,0.9631804979016192
+oculomotor disturbance,Oculomotor abnormalities,HP:0000496,0.983586467646924
+open mouth,Open mouth,HP:0000194,0.9999999999996844
+open mouth posture,Open mouth appearance,HP:0000194,0.9616157563516398
+ophthalmoplegia,Internal ophthalmoplegia,HP:0007942,0.9839478458689018
+opisthotonic posturing,Opisthotonos,HP:0002179,0.929383439230047
+optic atrophy,Optic nerve atrophy,HP:0000648,0.9779686887113469
+optic disc pallor,Temporal optic disc pallor,HP:0012511,0.9827680106100369
+optic nerve atrophy,Optic nerve atrophy,HP:0000648,0.999999999999883
+optic nerve dysfunction,Optic nerve dysplasia,HP:0001093,0.9720318631039528
+optical atrophy,Retinal atrophy,HP:0001105,0.9444600614896534
+orofacial dyskinesia,Orofacial dyskinesias,HP:0002310,0.9971352444634012
+orofacial dystonia,Orofacial dyskinesias,HP:0002310,0.9789632040765576
+oromandibular dysfunction,Transverse maxillary insufficiency,HP:0002010,0.9326036692458229
+oromandibular dystonia,Orofacial dyskinesias,HP:0002310,0.9482722769297744
+oromotor dysfunction,Vestibular dysfunction,HP:0001756,0.931296173963713
+oromotor hypotonia,Oral motor hypotonia,HP:0030190,0.9671126268937464
+oropharyngeal dysmotility,Oropharyngeal dysphagia,HP:0200136,0.9740228292206287
+orthostatic hypotension,Postural hypotension,HP:0001278,0.9643300292741652
+oscillopsia,Oscillopsia,HP:0034773,0.9999999999997937
+overall decreased muscle bulk,Decreased muscle mass,HP:0003199,0.9343892297564003
+pain,Back pain,HP:0003418,0.9999999999995921
+pain in the distal lower limbs,"Distal sensory loss, upper and lower limbs",HP:0002936,0.9078547846951411
+pain in the lower extremities,Lower extremity weakness,HP:0007340,0.9089731864692343
+painful paresthesias,Paresthesias,HP:0003401,0.9255868485341475
+palatal myoclonus,Palatal myoclonus,HP:0010530,0.9999999999998526
+palatal tremor,Vocal tremor,HP:0012477,0.9533611507130547
+pale fundi,Pale eyelashes,HP:0002227,0.9112377590459251
+pale hair,Pale eyebrow,HP:0002226,0.9846273500801528
+pale optic disc,Pale optic disc,HP:0000543,0.9999999999997848
+pale optic discs,Pale optic disc,HP:0000543,0.9673298868542164
+paranoia,Paranoia,HP:0011999,0.999999999999698
+paresis,Cold paresis,HP:0031372,0.9275466975557594
+paresis of the hand muscles,"Facial paresis, bilateral",HP:0001349,0.9327764610412917
+paresthesias,Paresthesias,HP:0003401,0.9748199565567474
+paresthesias in the legs,Intermittent painful muscle spasms,HP:0011964,0.9175879985032345
+paresthesias on the lower limbs,Intermittent painful muscle spasms,HP:0011964,0.897969585633823
+paresthesias periorally,Perioral spasm,HP:0031989,0.9359681941540396
+parkinsonian features,Parkinsonian disease,HP:0001300,0.9878780479741774
+parkinsonian symptoms,Parkinsonian disease,HP:0001300,0.9893568999811949
+parkinsonism,Parkinsonian disease,HP:0001300,0.9684446024566156
+paroxysmal jerking of the trunk,Recurrent paroxysmal headache,HP:0002331,0.9329979003222638
+partial complex seizures,Partial seizure with loss of awareness,HP:0002384,0.9458188353165836
+partial seizures,Partial seizure with loss of awareness,HP:0002384,0.9632174313809038
+partial vocal cord paresis,Bilateral vocal cord paresis,HP:0012822,0.9777415127250468
+patchy pigmentation,Patchy lightened skin,HP:0001010,0.9628199079413567
+patchy vitiligo like depigmentation,Patchy depigmentation,HP:0005590,0.9495806793370236
+pectus carinatum,Pectus excavatum or carinatum,HP:0000766,0.9413132590637852
+pectus excavatum,Pectus excavatum or carinatum,HP:0000766,0.9809050333137056
+pendular eye movements,Horizontal pendular nystagmus,HP:0007811,0.9170900718729242
+pendular nystagmus,Horizontal pendular nystagmus,HP:0007811,0.9892584230592957
+perceptive hearing loss,"Conductive hearing loss, severe",HP:0012717,0.9651252514040426
+periodic ataxia,"Ataxia, sensory",HP:0010871,0.9552623403177555
+periodic slight head tremor,Head tremor,HP:0002346,0.9444282608294972
+periorbital twitching,Periorbital swelling,HP:0000629,0.9656436925946086
+peripheral nerve involvement,Peripheral nerve disease,HP:0001271,0.9699397089035098
+peripheral neuropathy,Peripheral motor neuropathy,HP:0007178,0.977617469039089
+peripheral neuropathy affecting the lower limbs,Distal limb muscle weakness due to peripheral neuropathy,HP:0002460,0.9456694261675375
+peripheral sensory neuropathy,Peripheral sensory neuropathy,HP:0000763,0.9999999999998598
+periventricular leukomalacia,Periventricular nodular heterotopia,HP:0032388,0.94551725530776
+peroneal muscle wasting,Peroneal atrophy,HP:0009049,0.9383118942160548
+peroneal muscular atrophy,Peroneal atrophy,HP:0009049,0.9737085785813097
+persistent nystagmus,"Nystagmus, horizontal",HP:0000666,0.970701199465032
+persistent smiling or laughing,Disturbance of facial expression,HP:0005324,0.9086741300219474
+pes cavus,pes cavus,HP:0001761,0.9999999999998078
+pes equinovarus,Pes equinovarus,HP:0001762,0.9999999999997633
+pes planus,Cutis aplasia,HP:0001057,0.9040972925478766
+photosensitive seizures,Photosensitive tonic-clonic seizures,HP:0007207,0.9182704221541429
+photosensitivity,Photosensitivity,HP:0000992,0.9999999999998527
+pigmentary retinopathy,Pigmentary retinal deposits,HP:0000580,0.9748052422879695
+pinprick sensation loss,Decreased pinprick sensation,HP:0007328,0.964453101598089
+poor balance,Poor appetite,HP:0004396,0.973224707045661
+poor circulation with lower limb edema,Peripheral edema of lower extremity,HP:0010741,0.9176643389112933
+poor cognitive function,Cognitive decline,HP:0001268,0.9397781976381291
+poor coordination,Poor coordination,HP:0002370,0.9999999999997486
+poor exercise tolerance,Poor exercise tolerance,HP:0003546,0.9999999999997918
+poor expressive language,Moderate expressive language delay,HP:0011345,0.9605133656685865
+poor eye contact,Poor eye contact,HP:0000817,0.9999999999997771
+poor feeding,Poor feeding,HP:0011968,0.9999999999997762
+poor fine motor skills,Impaired fine motor skills,HP:0007010,0.9702326051327932
+poor growth,Poor growth,HP:0001510,0.9999999999996877
+poor head control,Poor head control,HP:0002421,0.99999999999969
+poor motor coordination,Poor motor coordination,HP:0002275,0.9999999999998231
+poor motor patterning of the tongue,Abnormality of muscles of mastication,HP:0410011,0.9070858032010235
+poor muscle bulk,Low muscle tone,HP:0001252,0.9371326127470055
+poor or absent language,Poor visual behavior for age,HP:0025152,0.8877926597073668
+poor or absent smooth pursuit,Abnormal smooth pursuits,HP:0000617,0.9356136234221522
+poor or absent speech,Poor speech discrimination,HP:0001963,0.9211967957808372
+poor or absent visual contact,Moderate peripheral visual field loss,HP:0030525,0.9276812885959067
+poor or no antigravity movements,Bipedal oedema,HP:0033045,0.8847819741562452
+poor overall balance,Poor appetite,HP:0004396,0.9283593707311976
+poor overall growth,Poor growth,HP:0001510,0.9246269033168686
+poor speech or absence of speech,Abnormal speech rhythm,HP:5200012,0.9139173875277896
+poor vestibuloocular reflex,Abnormal vestibuloocular reflex,HP:0007670,0.9876952257849139
+poor vision,Poor vision,HP:0000505,0.9999999999995959
+poor weight gain,Poor weight gain,HP:0001508,0.9999999999998055
+position sense defects,Absent sense of taste,HP:0041051,0.9203671815643939
+positive Babinski sign,Positive Babinski sign,HP:0003487,0.9999999999998354
+positive Gowers sign,Positive Gower sign,HP:0003391,0.9584155689713496
+positive palmomental reflex,Palmomental reflex,HP:0030902,0.9593516514617579
+postural abnormalities,Abnormal postural reaction,HP:0033329,0.959530527364131
+postural arm tremor,Postural tremor of arms,HP:0007351,0.9865647517347127
+postural hand tremor,Postural tremor of arms,HP:0007351,0.9832040102767002
+postural hypotension,Postural hypotension,HP:0001278,0.9999999999998702
+postural instability,Abnormal postural reaction,HP:0033329,0.9490174957910658
+postural tremor,Postural tremor of arms,HP:0007351,0.9890472184949654
+postural tremor in the upper limbs,Postural tremor of arms,HP:0007351,0.9565202408029606
+postural tremor of the hands,Postural tremor of arms,HP:0007351,0.9528173648552949
+postural tremor of the head,Postural tremor of arms,HP:0007351,0.9597538501135183
+present reflexes at the knees and upper extremities,Decreased vibratory sense in the lower extremities,HP:0002166,0.9020237955774703
+preserved or increased reflexes,Impaired vibration sensation in the lower limbs,HP:0002166,0.8912761682554758
+primary progressive aphasia,Motor aphasia,HP:0002427,0.9649373181725928
+problems with bladder control,Poor bladder function,HP:0000009,0.9131584617225476
+problems with bowel control,Pain associated with bowel movements,HP:6000222,0.9417919247990322
+profound axonal loss,Axonal loss,HP:0003447,0.9550959444764777
+profound developmental delay,"Global developmental delay, severe",HP:0011344,0.9577757839595472
+profound psychomotor delays,Psychomotor delay,HP:0001263,0.957318077407773
+profound psychomotor disability,Psychomotor developmental delay,HP:0001263,0.9357814837878394
+prognathism,Prognathism,HP:0000303,0.9999999999997611
+progressive and severe spasticity,Muscle spasticity,HP:0001257,0.9387312720244347
+progressive ataxia,Progressive ataxia,HP:0002073,0.9999999999998024
+progressive cognitive decline,Progressive cognitive decline,HP:0001268,0.9999999999998102
+progressive difficulty walking and running,Impaired heel-walking ability,HP:6000490,0.9179101080079015
+progressive difficulty walking due to lower limb spasticity,Lower limb spasticity,HP:0002061,0.9397785745010568
+progressive distal amyotrophy,Amyotrophy of distal limb muscles,HP:0003693,0.9715079303253445
+progressive distal lower limb weakness,Distal limb weakness,HP:0002460,0.9765430145091302
+progressive distal upper extremity weakness,Distal upper limb muscle weakness,HP:0008959,0.9637981213748416
+progressive dysarthria,Rigid dysarthria,HP:0002464,0.9790507076791417
+progressive early onset dystonia,Focal dystonia,HP:0004373,0.9604028129193731
+progressive gait abnormalities,Gait abnormalities,HP:0001288,0.973408477496613
+progressive loss of leg strength,Distal muscle weakness in lower limbs,HP:0009053,0.9178424262760931
+progressive loss of vision,Progressive vision loss,HP:0000529,0.9557239949460662
+progressive lower extremity spasticity,Lower extremity akinesia,HP:0033411,0.9521424745513931
+progressive lower extremity weakness,Lower extremity weakness,HP:0007340,0.9760655955003891
+progressive lower limb spasticity,Lower limb spasticity,HP:0002061,0.9640452744685883
+progressive lower limb weakness,Distal limb weakness,HP:0002460,0.9701137326971524
+progressive microcephaly,Mild microcephaly,HP:0040196,0.9763221300855787
+progressive motor predominant axonal peripheral neuropathy,Axonal peripheral neuropathy,HP:0003477,0.9732046544428331
+progressive muscle atrophy,Proximal muscle atrophy,HP:0007126,0.9704689040706582
+progressive muscle weakness affecting upper and lower limbs,Distal upper limb muscle weakness,HP:0008959,0.9509148454929922
+progressive paraparesis,Spastic paraparesis,HP:0002313,0.945383548785748
+progressive peripheral neuropathy,Peripheral motor neuropathy,HP:0007178,0.9730270273592676
+progressive postnatal microcephaly,Postnatal microcephaly,HP:0005484,0.9849005069834652
+progressive proximal lower extremity weakness,Lower extremity weakness,HP:0007340,0.9630054086707444
+progressive scoliosis,Lumbar scoliosis,HP:0004626,0.9564171891084223
+progressive severe weakness,Progressive muscular weakness,HP:0003323,0.9480361255560845
+progressive spastic gait,Spastic paraparetic gait,HP:0031958,0.9590953082252068
+progressive spastic paraparesis,Progressive spastic paraparesis,HP:0007199,0.9999999999998591
+progressive spastic paraplegia,Progressive spastic paraplegia,HP:0007020,0.99999999999984
+progressive spastic tetraplegia,Progressive spastic paraplegia,HP:0007020,0.9768345842320738
+progressive spasticity affecting all 4 limbs,Lower limb spasticity,HP:0002061,0.921339861130735
+progressive spasticity mainly affecting lower limbs,Lower limb spasticity,HP:0002061,0.9274438966965344
+progressive spasticity of the lower limbs,Progressive spastic quadriparesis,HP:0002478,0.9285525264311248
+progressive spasticity of the upper and lower limbs,Distal upper limb muscle weakness,HP:0008959,0.9272064888244904
+progressive stiffness of the lower limbs,Distal upper limb muscle weakness,HP:0008959,0.9159524163590551
+progressive tightening of the lower extremities,Scissoring of the lower extremities,HP:0012407,0.9186978502710158
+progressive upper limb spasticity,Lower limb spasticity,HP:0002061,0.955146152237672
+progressive wasting of distal upper and lower extremity muscles,Distal upper limb muscle weakness,HP:0008959,0.9495411264781829
+progressively decreasing head circumference percentile,Decreased head circumference,HP:0040195,0.958291547722288
+projectile vomiting,Projectile vomiting,HP:0002587,0.9999999999997934
+prolongation of blink reflexes,Prolonged central motor conduction time,HP:0034399,0.9258055630199231
+prolonged febrile seizures,Febrile convulsion,HP:0002373,0.9597271215204659
+prolonged periods of rigidity in neonates,Foetal hyperkinesia,HP:0010519,0.9267304169320355
+prolonged staring spells,Brief seizures with staring spells,HP:0002121,0.9284498677803981
+prominent distal sensory loss,Distal sensory loss,HP:0002936,0.979815974615837
+pronounced spasticity,"Spasticity, progressive",HP:0002191,0.9611010297181612
+protuberant abdomen,Protuberances at ends of long bones,HP:0003105,0.9134344207417474
+proximal and distal muscle weakness,Proximal limb muscle weakness,HP:0003701,0.9637494103796793
+proximal and distal weakness in the lower limbs,Distal upper limb muscle weakness,HP:0008959,0.9515724980248943
+proximal limb muscle weakness,Proximal limb muscle weakness,HP:0003701,0.9999999999998725
+proximal lower limb weakness,Proximal limb weakness,HP:0003701,0.9895822447359844
+proximal muscle involvement,Proximal muscle wasting,HP:0007126,0.9561096907518908
+proximal muscle weakness,Proximal limb muscle weakness,HP:0003701,0.9834068432843917
+proximal muscle weakness of the lower and upper limbs,Distal upper limb muscle weakness,HP:0008959,0.9552297856243864
+proximal muscle weakness of the lower limbs,Distal upper limb muscle weakness,HP:0008959,0.9640558739278057
+proximal paresis of the legs,Proximal muscle weakness in upper limbs,HP:0008997,0.9283902841355884
+proximal upper limb weakness,Proximal limb weakness,HP:0003701,0.9839271555147472
+proximal weakness of the lower limbs,Distal upper limb muscle weakness,HP:0008959,0.9574522923062347
+proximally weak lower extremities,Lower extremity weakness,HP:0007340,0.9324047410480469
+pseudobulbar dysarthria,Rigid dysarthria,HP:0002464,0.954724545341436
+pseudobulbar palsy,Pseudobulbar palsy,HP:0007024,0.9999999999998385
+pseudobulbar signs,Pseudobulbar syndrome,HP:0007024,0.9793337987808176
+pseudohypertrophy of the calves,Pseudohypertrophy of the calves,HP:0003707,0.9241502442873908
+pseudopyramidal signs including exaggerated tendon reflexes and extensor plantar responses,Extrapyramidal muscular rigidity,HP:0007076,0.9148341583425497
+psychomotor delay,Psychomotor delay,HP:0001263,0.9999999999998347
+psychosis,Psychosis,HP:0000709,0.9999999999997076
+ptosis,Abnormal apoptosis,HP:4000056,0.8938012755839178
+pupillary abnormalities,Pupillary abnormalities,HP:0000615,0.9927316860156752
+quadriparesis,Spastic quadriparesis,HP:0001285,0.9763515380581619
+quadriplegia,Quadriplegia,HP:0002445,0.9999999999997741
+quadriplegic,Quadriplegia,HP:0002445,0.9873131159899614
+rapidly progressive asymmetric paralysis of the upper and lower limbs,Distal upper limb muscle weakness,HP:0008959,0.9172344716228975
+raspy voice,Ruddy face,HP:0001041,0.9320451471918928
+rebound nystagmus,Downbeat nystagmus,HP:0010545,0.9674377854271382
+recurrent and brief attacks of involuntary movement,Intermittent involuntary muscle spasm,HP:0001281,0.9472569811408258
+recurrent complex partial seizures,Partial onset seizure evolving into convulsive status epilepticus,HP:0032662,0.9338787547020013
+recurrent episodes of unilateral eyelid twitching,Unilateral facial muscle weakness,HP:0012799,0.9303684128368743
+reduced cervical motion,Limited cervical range of motion,HP:0000466,0.9748321589990809
+reduced distal sensation,Decreased distal sensation,HP:0002936,0.9697955257631198
+reduced dopaminergic innervation,Elevated urinary dopamine,HP:0011979,0.9239534521349628
+reduced hip flexion,Limited knee flexion/extension,HP:0005085,0.9582954292215335
+reduced or absent blink reflexes,Absent middle ear reflexes,HP:0008529,0.92105617939161
+reduced or absent reflexes,Absent middle ear reflexes,HP:0008529,0.9047683166876511
+reduced saccadic velocity,Impaired saccades,HP:0000570,0.9618599894955925
+reduced sensation,Diminished motivation,HP:0000745,0.9497435483050061
+reduced sensation in the lower limbs,Decreased touch sensation in extremities,HP:0006937,0.9122131434870543
+"reduced sensation to pinprick, light touch, vibration, and joint position in legs and feet",Decreased lower limb vibratory sense,HP:0002166,0.9007292395547006
+reduced spontaneous movements,Decreased spontaneous movement,HP:0002375,0.9518366169259999
+reduced superficial sensibility,"Thickened, discolored skin under nail",HP:0008392,0.8867073834917831
+reduced upgaze,Reduced production of gestures,HP:4000081,0.8919243482012047
+reduced vertical upgaze,Increased diffusing capacity,HP:0045050,0.8835926475587705
+reduced vibration sense,Decreased vibration sense,HP:0002495,0.9171399709588018
+reduced vision,Impaired vision,HP:0000505,0.9529153541516012
+reduced visual acuity,Decreased visual acuity,HP:0007663,0.975701938312207
+regression of skills,Regression of motor skills,HP:0033044,0.9517802478532051
+repetitive bilateral myoclonic jerks in the shoulders and arms,Neonatal bilateral symmetric myoclonic seizure,HP:0032836,0.9131123280883194
+repetitive movements,Repetitive movements,HP:0000733,0.9839442871152537
+respiratory muscle weakness,Respiratory muscle weakness,HP:0002747,0.9999999999998136
+resting tremor,Rest tremor,HP:0002322,0.9875473213609387
+restless legs,Dry cough,HP:0031246,0.9265979710245886
+restricted ocular movements,Abnormal ocular movements,HP:0000496,0.9683224554721158
+retching,Nail ridging,HP:0001807,0.8923486611188317
+retinal pigment abnormalities,Retinal pigment clumping,HP:0000580,0.9764329306660157
+retinal vessel tortuosity,Tortuosity of main retinal vessels,HP:0007768,0.9794150329083516
+retrocollis,Retrocollis,HP:0002544,0.9999999999998036
+retrognathia,Retrognathia of lower jaw,HP:0000278,0.9723555750913723
+rigid spine,Rigid spine,HP:0003306,0.9999999999996646
+rigidity,Rigidity,HP:0002063,0.999999999999691
+rolandic seizures,Epigastric auras,HP:0011159,0.9291759569586776
+Romberg sign,Positive Romberg sign,HP:0002403,0.9686220444979472
+Romberg sign positive,Positive Romberg sign,HP:0002403,0.9636459256377482
+rotary movements of the head and eyes,Limited head rotation,HP:0033357,0.890639589143689
+rotary nystagmus,Rotatory Nystagmus,HP:0001583,0.9830938966110131
+rotatory end gaze nystagmus,Rotatory Nystagmus,HP:0001583,0.9752840875691033
+running difficulties,Racing thoughts,HP:0033844,0.9470013373764959
+saccadic eye intrusions,Saccadic intrusion,HP:0032114,0.9661849144521951
+saccadic eye movements,Saccadic pursuit movements,HP:0001152,0.9767699096777571
+saccadic eye pursuit,Saccadic pursuit movements,HP:0001152,0.9875826462142259
+saccadic ocular pursuit,Saccadic pursuit movements,HP:0001152,0.9782509167787706
+saccadic pursuit,Saccadic pursuit movements,HP:0001152,0.9896561902684129
+saccadic pursuits,Saccadic pursuit movements,HP:0001152,0.9781732967527847
+scanning speech,Overlapping fingers,HP:0010557,0.914552490252489
+scapular winging,Winged scapulae,HP:0003691,0.9625651562394895
+scissor gait,Scissor gait,HP:0012407,0.999999999999846
+scissoring gait,Scissoring gait,HP:0012407,0.9999999999998257
+scissoring walk,Scissor walk,HP:0012407,0.96509567023092
+scissors gait,Scissor gait,HP:0012407,0.9766387664011901
+scoliosis,Lumbar scoliosis,HP:0004626,0.9510183065119076
+seizures,Partial seizure,HP:0007359,0.9361697521380995
+sensorimotor axonopathy,Sensorimotor peripheral neuropathy,HP:0007141,0.9526685323381711
+sensorimotor polyneuropathy,Sensorimotor peripheral neuropathy,HP:0007141,0.9740571994683987
+sensorineural deafness,Sensorineural deafness,HP:0000407,0.9999999999998517
+sensorineural hearing loss,Sensorineural hearing loss,HP:0000407,0.9999999999998417
+sensory abnormalities,Sensory impairment,HP:0003474,0.9609345297766033
+sensory ataxia,Spinal ataxia,HP:0010871,0.9755164847771909
+sensory deficits in a symmetrical stocking glove pattern,Distal vibratory impairment of the lower limbs,HP:0002166,0.8990832801049334
+sensory disturbance,Sensory aura,HP:0011157,0.976680385902125
+sensory impairment,Sensory impairment,HP:0003474,0.9999999999998322
+sensory loss,Sensory aura,HP:0011157,0.9464528066415733
+sensory loss affecting all modalities,Distal sensory loss to all modalities,HP:0003409,0.9327568561966999
+severe amyotrophy,Amyotrophy,HP:0003202,0.9726414227133529
+severe appendicular spasticity,Appendicular spasticity,HP:0034353,0.9851497950464482
+severe ataxia of gait,Ataxic gait,HP:0002066,0.9454690702808866
+severe atrophy and decreased sensation in the arms and legs,Distal upper limb muscle atrophy,HP:0007149,0.9135330615933468
+severe cerebellar atrophy,Diffuse cerebellar atrophy,HP:0100275,0.9749908921281868
+severe cognitive deficit,Severely impaired vision,HP:0001141,0.9377000604345411
+severe cognitive impairment,Cognitive impairment,HP:0100543,0.9656748533506011
+severe developmental delay,"Global developmental delay, mild",HP:0011342,0.9626113040562374
+severe distal muscle atrophy,Distal muscle atrophy,HP:0003693,0.9828316398631172
+severe distal weakness,Distal limb weakness,HP:0002460,0.9648909364852535
+severe dysarthria,Rigid dysarthria,HP:0002464,0.9819182361903578
+severe facial weakness,Facial weakness,HP:0030319,0.9660848820876483
+severe failure to thrive,Marked failure to thrive,HP:0001525,0.919484150286879
+severe fetal akinesia,Early severe fetal akinesia sequence,HP:0001989,0.9816353178252003
+severe foot deformity,Foot deformities,HP:0001760,0.9723244311296456
+severe gait disturbance,Gait abnormalities,HP:0001288,0.9462432149807855
+severe hypotonia,"Hypotonia, severe",HP:0006829,0.9636414049887975
+severe incapacitating spastic paraparesis,Progressive spastic paraparesis,HP:0007199,0.9450239939695101
+severe intellectual disability,"Intellectual disability, severe",HP:0010864,0.9470306128240088
+severe intractable epilepsy,Super-refractory status epilepticus,HP:0032868,0.9235202323352685
+severe kyphoscoliosis,Kyphoscoliosis,HP:0002751,0.9850528735552695
+severe mental deterioration,Progressive mental deterioration,HP:0002344,0.9826738542532139
+severe mental retardation,Severe mental retardation,HP:0010864,0.9999999999998173
+severe muscle wasting,"Muscle weakness, progressive",HP:0003323,0.95189237772899
+severe neurologic impairment,Neurologic deterioration,HP:0002344,0.9549098993410007
+severe spastic tetraparesis,Progressive spastic paraparesis,HP:0007199,0.9596867904219785
+severe spasticity,"Spasticity, progressive",HP:0002191,0.9639948973148266
+severe spasticity of the legs,Lower limb spasticity,HP:0002061,0.9252470658747002
+severe weakness,Weakness of one side of body,HP:0001269,0.9389636447076164
+severe weakness of the lower extremities,Lower extremity weakness,HP:0007340,0.9108248307321294
+severely delayed psychomotor development,Retarded psychomotor development,HP:0001263,0.97778069563423
+sexual dysfunction,Female sexual dysfunction,HP:0030014,0.9671657148130797
+short philtrum,Small philtrum,HP:0005326,0.9851427094089059
+short stature,Short stature,HP:0004322,0.9999999999996768
+shoulder girdle weakness,Shoulder girdle weakness,HP:0003547,0.9999999999997495
+shoulder myoclonia,Myoclonic absence,HP:0011150,0.9680455478668828
+shuffling gait,Shuffled walk,HP:0002362,0.9558681670712756
+significant hand involvement,Upper limb pain,HP:0012513,0.902451423822611
+significant sleep disturbances,Excessive sleepiness,HP:0100786,0.9300280486238295
+significant torticollis,Spasmodic torticollis,HP:0000473,0.924709663109251
+significant visual loss,Severe visual loss,HP:0001141,0.9601939775913223
+significantly delayed psychomotor development,Delayed psychomotor development,HP:0001263,0.978281432137276
+simple febrile seizures,Simple febrile convulsion,HP:0011171,0.9661325801911814
+skeletal abnormalities,Skeletal abnormalities,HP:0000924,0.9867345350012083
+skeletal deformities,Dental deformity,HP:0006482,0.9613970107357865
+skeletal muscle atrophy,Muscle atrophy,HP:0003202,0.9795689790107307
+skipping gait,Scissoring gait,HP:0012407,0.9172963102498599
+sleep disturbances,Sleep disturbance,HP:0002360,0.949999436161533
+sleep paralysis,Sleep rhythm inversion,HP:0031849,0.9273960811603243
+slight ataxia,Progressive ataxia,HP:0002073,0.9448198336306983
+slight deafness,Severe deafness,HP:0012714,0.9602716834503251
+slight difficulty with tandem gait,Abnormal gait,HP:0001288,0.926301097005951
+slight facial weakness,Bilateral facial weakness,HP:0001349,0.9431365743627576
+slight movement of the left vocal cord,Unilateral vocal cord paresis,HP:0012821,0.9041865431308085
+slight postural tremor,Postural tremor of arms,HP:0007351,0.9735659828850937
+slow movements,Slow movements,HP:0002067,0.9895832791864482
+slow ocular saccades,Slowed horizontal saccades,HP:0007885,0.9761732020304205
+slow or absent pupillary reactions,Persistent pupillary membrane,HP:0009917,0.9448939419466363
+slow pupillary reflexes,Abnormal pupillary light reflex,HP:0007695,0.9462425400741814
+slow pursuit,Slow movements,HP:0002067,0.9610560640704073
+slow saccades,Slow saccades,HP:0000514,0.9856247587107296
+slow smooth pursuit,Absent smooth pursuit,HP:0007179,0.9385792119574952
+slow spastic gait,Spastic paraparetic gait,HP:0031958,0.9539772215257747
+slow vertical saccades,Slowed horizontal saccades,HP:0007885,0.9845696177744081
+slowed mental processes,Impaired task shifting,HP:0033360,0.9239883147666906
+slowed saccades,Impaired saccades,HP:0000570,0.955238983873765
+slowed speech,Poor speech,HP:0002465,0.9335802934430427
+slowing of smooth pursuit eye movements,Impaired smooth pursuit ocular movements,HP:0000617,0.9637145969833628
+slowly progressive distal muscle weakness,Late-onset distal muscle weakness,HP:0003810,0.9775005543389282
+slowly progressive distal muscle weakness and atrophy mainly affecting the lower limbs,Distal upper limb muscle atrophy,HP:0007149,0.9436585650662346
+slowly progressive gait disturbances,Gait abnormalities,HP:0001288,0.9399418265711867
+slowly progressive motor dysfunction,Progressive mental and motor deterioration,HP:0007272,0.9461003025515872
+slowly progressive weakness,Progressive muscular weakness,HP:0003323,0.9555204267795476
+slowly progressive weakness of the distal lower limb muscles,Distal upper limb muscle weakness,HP:0008959,0.9573171812272088
+slurred speech,Hypernasal voice,HP:0001611,0.8984929205876842
+small amplitude tremor in both hands,Postural tremor of arms,HP:0007351,0.9316074724941021
+small body size,Relatively large head,HP:0004482,0.9457686668645663
+small head circumference,Small head circumference,HP:0000252,0.9999999999998249
+small pinpoint pupils,Small pinnae,HP:0008551,0.9527816531875366
+some proximal muscle weakness,Proximal limb muscle weakness,HP:0003701,0.9659999627605896
+spasmodic dysphonia,Spasmodic dysphonia,HP:0012049,0.9999999999998441
+spasmodic torticollis,Spasmodic torticollis,HP:0000473,0.97916440327481
+spastic ataxia,Spastic ataxia,HP:0002497,0.9999999999998491
+spastic diplegia,Spastic diplegic,HP:0001264,0.9923307653832064
+spastic dysarthria,Rigid dysarthria,HP:0002464,0.9664670545933043
+spastic dysphonia,Spasmodic dysphonia,HP:0012049,0.9817560703386906
+spastic gait,Spastic walk,HP:0002064,0.9669120626905456
+spastic gait abnormalities,Gait abnormalities,HP:0001288,0.9594898236441085
+spastic gait abnormality,Gait abnormalities,HP:0001288,0.9607891710645671
+spastic gait ataxia,Spastic ataxia,HP:0002497,0.9740603049864107
+spastic gait disorder,Spastic paraparetic gait,HP:0031958,0.9606782592300691
+spastic leg tone,Spastic walk,HP:0002064,0.9623988785238685
+spastic paraparesis,Spastic paraparesis,HP:0002313,0.9999999999998331
+spastic paraplegia,Progressive spastic paraplegia,HP:0007020,0.9844238893511021
+spastic paraplegia of the limbs,Progressive spastic paraplegia,HP:0007020,0.9520187590002833
+spastic paraplegia of the lower limbs,Progressive spastic paraplegia,HP:0007020,0.948032693651632
+spastic quadriparesis,Spastic quadriparesis,HP:0001285,0.9999999999998818
+spastic quadriplegia,Spastic quadriplegia,HP:0002510,0.999999999999861
+spastic tetraparesis,Spastic paraparesis,HP:0002313,0.9681938232723498
+spastic tetraplegia,Progressive spastic paraplegia,HP:0007020,0.9616703296307857
+spastic tongue protrusion,Spasticity of the facial muscles,HP:0002491,0.9562556651823447
+spasticity,"Spasticity, progressive",HP:0002191,0.9879664212143662
+spasticity affecting all four limbs,Spastic monoplegia,HP:6000316,0.9102602793255867
+spasticity in all 4 limbs,"Spasticity, progressive",HP:0002191,0.936022450490911
+spasticity in lower extremities,Akinesia of the upper extremities,HP:0033412,0.9419018530711195
+spasticity in the lower limbs,Lower limb spasticity,HP:0002061,0.9492987417254517
+spasticity in the upper extremities,Akinesia of the upper extremities,HP:0033412,0.9346071400488898
+spasticity in upper extremities,Akinesia of the upper extremities,HP:0033412,0.9451032124537564
+spasticity mainly affecting the lower limbs,Lower limb spasticity,HP:0002061,0.9243980017495819
+spasticity of all 4 limbs,Lower limb spasticity,HP:0002061,0.9233784866275598
+spasticity of all limbs,Lower limb spasticity,HP:0002061,0.9375424292219726
+spasticity of the arms,Spasticity of the facial muscles,HP:0002491,0.9362358394767797
+spasticity of the legs,Lower limb spasticity,HP:0002061,0.9315003902570381
+spasticity of the lower extremities,Akinesia of the upper extremities,HP:0033412,0.9285807047106355
+spasticity of the lower limbs,Lower limb spasticity,HP:0002061,0.9383806959880377
+spasticity of the upper and lower limbs,Akinesia of the upper extremities,HP:0033412,0.9276596375817711
+spasticity of the upper limbs,Lower limb spasticity,HP:0002061,0.9292523763690319
+spasticity or stiffness at rest,Spasticity and rigidity of muscles,HP:0001276,0.9299426451934361
+spasticity with hyperreflexia,Hyperreflexia in upper limbs,HP:0007350,0.9575032587329626
+speech articulation difficulties,Speech articulation difficulties,HP:0009088,0.9977875642457855
+speech delay,Speech delay,HP:0000750,0.999999999999739
+speech delay with stuttering,Abnormal speech rhythm,HP:5200012,0.9140467822537245
+speech difficulties,Speech difficulties,HP:0000750,0.980345174949117
+speech impairment,Impaired speech and language development,HP:0000750,0.9507316514674239
+speech problems,Speech difficulties,HP:0000750,0.9836076562870735
+sphincter disturbances,Sphincter disturbance,HP:0002839,0.9717570732061357
+sporadic seizures,Focal seizure with loss of awareness,HP:0002384,0.9384317252998449
+squint,Squint,HP:0000486,0.9999999999996165
+stagnation of motor development,Developmental stagnation at onset of seizures,HP:0006834,0.9376364243984199
+staring gaze,Staring eyes,HP:0025401,0.9503845637993604
+status dystonicus,Dystonic disease,HP:0001332,0.9601309962946692
+steppage gait,Crouch gait,HP:0025682,0.9545987278523
+steppage waddling gait,Waddling gait,HP:0002515,0.9473346578966868
+stereotypic laughter,Stereotypic behaviour,HP:0000733,0.932127097337785
+stiff legs,Stiff knee,HP:0025263,0.9774891669839282
+stiff neck,Stiff neck,HP:0025258,0.9999999999994504
+stiffness,Stiff joint,HP:0001387,0.9401084003467678
+stiffness in tongue,Tongue stiffness,HP:0031373,0.9299285755977834
+stiffness in upper limbs,Leg muscle stiffness,HP:0008969,0.9408142529506296
+stiffness of lower limbs,Toe stiffness,HP:0025265,0.9386708359714231
+stiffness of the limbs,Axial muscle stiffness,HP:0006921,0.9172320571847106
+stiffness of the lower limbs,Proximal limb muscle stiffness,HP:0007066,0.9343556721498824
+strabismus,Alternating strabismus,HP:0031717,0.9731220411791494
+stridor,Stimming,HP:0000733,0.9340687373399518
+stuttering,Stuttering,HP:0025268,0.9093244799804364
+subnormal somatic development,Dysharmonic skeletal maturation,HP:0200000,0.9173025594872967
+subtle ataxia of the hands and arms,Intermittent cerebellar ataxia,HP:0002131,0.9035614126095172
+subtle orofacial dyskinesias,Orofacial dyskinesias,HP:0002310,0.9888901754777196
+supranuclear gaze palsy,Horizontal supranuclear gaze palsy,HP:0007817,0.9922397078011065
+supranuclear ophthalmoplegia,Supranuclear ophthalmoplegia,HP:0000623,0.9999999999998497
+supranuclear palsy,Horizontal supranuclear gaze palsy,HP:0007817,0.9687505540925891
+supranuclear vertical gaze palsy,Horizontal supranuclear gaze palsy,HP:0007817,0.9906949264689632
+sustained clonus,Clonic seizure,HP:0020221,0.9439422899670307
+sustained clonus in the Achilles tendons,Patellar clonus,HP:0011449,0.9368838870725393
+sustained muscle contractions,Low muscle tone in trunk,HP:0008936,0.907496487185358
+sustained provoked clonus,Action myoclonus,HP:0034360,0.9361922677222078
+swallowing difficulties,Swallowing difficulties,HP:0002015,0.9494970962848608
+swallowing dysfunction,Vocal cord dysfunction,HP:0031801,0.9301243536515555
+swallowing problems,Swallowing difficulties,HP:0002015,0.943345520249517
+symmetric distal to proximal gradient of weakness,"Generalized muscle atrophy, proximal and distal",HP:0009055,0.899173123604831
+symmetrical weakness and atrophy in the ankles,"Symmetrical, proximal limb muscle atrophy",HP:0007126,0.9379419587837396
+talipes cavus,Talipes cavus equinovarus,HP:0004696,0.9445642253542702
+talipes equinovarus,Talipes cavus equinovarus,HP:0004696,0.9596026036654947
+task specific dysphonia,Spasmodic dysphonia,HP:0012049,0.9465734184873268
+temporal lobe epilepsy,Epilepsy,HP:0001250,0.9520390751920361
+tendon contractures,Tendon thickening,HP:0032523,0.9544675196130326
+testicular atrophy,Testicular degeneration,HP:0000029,0.9668117256487524
+tetraparesis,Trident sign,HP:0034044,0.9138088202734976
+tetraplegia,Tetraplegia/tetraparesis,HP:0030182,0.9609621353046272
+thenar muscle atrophy,Thenar atrophy,HP:0003393,0.9693877491036806
+thick vermilion of lips,Thin vermilion borders,HP:0000233,0.9717587217975849
+thickening of peripheral nerves,Peripheral nerve damage,HP:0009830,0.9225275294051369
+thin face,Thin face,HP:0000275,0.999999999999752
+thin face and body habitus,Thin body habitus,HP:0001533,0.9676603401575332
+thin face with sharp features,Fewer and broader ridges in brain,HP:0001302,0.9371762066681486
+thin limbs,Thin hair,HP:0002213,0.9751123904399461
+thin vermilion borders,Thin vermilion borders,HP:0000233,0.998242048631119
+thinly myelinated nerve fibers,Loss of larger myelinated nerve fibers,HP:0003387,0.9590292174321138
+tight heel cords,Tight heel cord,HP:0033526,0.9535193469086067
+tinnitus,tinnitus,HP:0000360,0.9999999999996909
+tiptoe walking,Tiptoe gait,HP:0030051,0.9541914064459599
+titubation,Titubation,HP:0030187,0.9999999999997731
+toe walking,Toe walking,HP:0030051,0.9667275836851702
+tongue atrophy,Atrophy of tongue surface,HP:0010298,0.9608830786778654
+tongue fasciculation,Tongue fasciculation,HP:0001308,0.9999999999998318
+tongue fasciculations,Tongue fasciculation,HP:0001308,0.996293927913872
+tonic clonic movements,Tonic-clonic convulsion,HP:0002069,0.9589271209152618
+tonic clonic seizures,Generalised tonic-clonic seizure (without specification of onset),HP:0002069,0.9726494243183988
+torsion dystonia,Focal dystonia,HP:0004373,0.9572122807355378
+torsion spasms of the limbs,Intermittent painful muscle spasms,HP:0011964,0.9077681362797512
+torsion spasms of the neck,Intermittent painful muscle spasms,HP:0011964,0.9078683348262274
+torsion spasms of the spine,Truncal dystonia,HP:0002530,0.9069632485793071
+torticollis,"Torticollis, congenital",HP:0005988,0.9150136946142511
+transient aphasia,Motor aphasia,HP:0002427,0.9528542249711245
+transient feeding difficulties,Feeding difficulties in infancy,HP:0008872,0.9161327470877555
+trembling of both hands,Bilateral wrist contracture,HP:0012453,0.8874531569131051
+tremor,Tremor,HP:0001337,0.9999999999996837
+tremor in the hands,Hand tremor,HP:0002378,0.9538417150127867
+tremor of the limbs,Limb tremor,HP:0200085,0.9343545816725908
+tremor of the upper limb,Limb tremor,HP:0200085,0.9345566358831392
+tremors at birth,Tremor of hand,HP:0002378,0.9356047957578805
+tremulous cervical dystonia,Cervical dystonia,HP:0000473,0.9758596072288857
+tremulous movements,"Tremor, postural",HP:0002174,0.9371275053299999
+Trendelenburg gait,Prominent Schwalbe lines,HP:0007873,0.9190890458416757
+Trendelenburg sign,Holster sign,HP:6000006,0.8861240425182437
+truncal and limb ataxia,Progressive truncal ataxia,HP:0007221,0.9718382192736852
+truncal ataxia,Progressive truncal ataxia,HP:0007221,0.9855621162742036
+truncal hypotonia,Truncal hypotonia,HP:0008936,0.999999999999838
+truncal instability,Truncal obesity,HP:0001956,0.9318798338249483
+truncal muscle weakness,Distal muscular weakness,HP:0002460,0.9475909049609652
+trunk ataxia,Trunk ataxia,HP:0002078,0.9999999999997824
+trunk involvement,Limb weakness,HP:0003690,0.9192636468445057
+trunk tremor,Limb tremor,HP:0200085,0.9841018727399518
+tube feeding requirement,Tube feeding,HP:0033454,0.9708665528200202
+twisting movements,Bending of the arm,HP:0006488,0.9365422152364936
+twisting movements of the upper and lower limbs,Distal upper limb muscle weakness,HP:0008959,0.8920801410124073
+twisting of the limbs,Anterior flaring of ribs,HP:0000904,0.8929413526559584
+typical absence seizures,Typical absence seizures,HP:0011147,0.9493969123891497
+typical spasmodic dysphonia,Spasmodic dysphonia,HP:0012049,0.989904416996212
+ulnar deviation,Ulnar deviation of hands,HP:0009487,0.9857132010705832
+uncomfortable and unpleasant sensations in the legs,Intermittent painful muscle spasms,HP:0011964,0.894612858865613
+uncomfortable sensations in the legs,Intermittent painful muscle spasms,HP:0011964,0.8961913555127722
+uncoordinated eye movements,Uncoordinated eye movement,HP:0000641,0.9950831251049355
+unilateral extensor plantar response,Extensor plantar reflexes,HP:0003487,0.9597383109341934
+unilateral limb dystonia,Dystonic gait,HP:0031954,0.9569639174841195
+unilateral sensorineural hearing loss,Bilateral sensorineural hearing loss,HP:0008619,0.980784072715977
+unilateral sustained ankle clonus,Unilateral clonic seizure,HP:0006813,0.9432042443513997
+unpleasant sensations in the legs,Intermittent painful muscle spasms,HP:0011964,0.8996485294445398
+unpleasant sensory sensations in the upper extremities and hands,Scissoring of the lower extremities,HP:0012407,0.8967058919955463
+unstable gait,Abnormal gait,HP:0001288,0.9551439372382672
+unstable tandem walk,Clumsy tandem walking,HP:0031629,0.9099180139428701
+unsteadiness,Unsteady walk,HP:0002317,0.9623371747097343
+unsteadiness in standing,Unsteady walk,HP:0002317,0.9496610308368661
+unsteady arm movements,Unsteady walk,HP:0002317,0.9418291535299315
+unsteady ataxic gait,Ataxic gait,HP:0002066,0.960960477514269
+unsteady gait,Unsteady walk,HP:0002317,0.9402934330913578
+upbeat nystagmus,Upbeat nystagmus,HP:0011477,0.9999999999998056
+upper extremity dystonia,Lower extremity akinesia,HP:0033411,0.9457341874533052
+upper extremity spasticity,Lower extremity weakness,HP:0007340,0.9537100633632231
+upper limb ataxia,"Gait ataxia, progressive",HP:0007240,0.9638734053697339
+upper limb clumsiness,Abnormal upper limb muscles,HP:0001446,0.9420623659652579
+upper limb contractures,Upper limb pain,HP:0012513,0.9525478018763996
+upper limb dysmetria,Upper limb dysmetria,HP:0020036,0.9999999999998185
+upper limb incoordination,Limb incoordination,HP:0002311,0.9629525802403656
+upper limb involvement,Upper limb pain,HP:0012513,0.9518908367474019
+upper limb involvement with atrophy of hand muscles,Distal upper limb muscle atrophy,HP:0007149,0.9551209289760201
+upper limb muscle atrophy,Distal upper limb muscle atrophy,HP:0007149,0.9857089510817484
+upper limb muscle weakness,Lower limb muscle weakness,HP:0007340,0.9810046903350713
+upper limb postural tremor,Postural tremor of arms,HP:0007351,0.9736030440217555
+upper limb spasticity,Lower limb spasticity,HP:0002061,0.9745340418880309
+upper limb spasticity with weakness,Distal upper limb muscle weakness,HP:0008959,0.9583153815488616
+upper limb weakness,Upper limb pain,HP:0012513,0.9733579059296793
+upper motor neuron involvement,Lower motor neuron signs,HP:0002366,0.9571526993185312
+upper motor neuron signs,Lower motor neuron signs,HP:0002366,0.9652303308236976
+urinary frequency,Urinary urgency,HP:0000012,0.9544190731969038
+urinary incontinence,Stress urinary incontinence,HP:0010992,0.9839675774048076
+urinary sphincter problems,Urethral sphincter sclerosis,HP:0008664,0.9589785260270784
+urinary symptoms,Urinary urgency,HP:0000012,0.9793746791628575
+urinary urge incontinence,Stress urinary incontinence,HP:0010992,0.9817124410194442
+urinary urgency,Urinary urgency,HP:0000012,0.9999999999997478
+valgosity of the hips,Coxa valga deformity,HP:0002673,0.9050276870326553
+valgus deformities of the feet,Valgus foot deformity,HP:0008081,0.9604468087313959
+variable distal muscle weakness and atrophy,Distal muscle atrophy,HP:0003693,0.9650542846187515
+variable distal sensory impairment,Distal sensory impairment in lower limbs,HP:0002936,0.9765509491270837
+variable extensor plantar responses,Extensor plantar response,HP:0003487,0.9810666328800476
+variable limb ataxia,Spastic ataxia,HP:0002497,0.952161342382581
+variable limb spasticity,Lower limb spasticity,HP:0002061,0.9856321939494127
+variable sensory impairment,Distal sensory impairment in lower limbs,HP:0002936,0.9578335566644477
+vertical gaze evoked nystagmus,Gaze-evoked nystagmus,HP:0000640,0.9723906885448907
+vertical gaze limitation,Impaired horizontal visual pursuit,HP:0001151,0.934284232323015
+vertical nystagmus,Vertical nystagmus,HP:0010544,0.9999999999997883
+vertigo,Non-spinning vertigo,HP:4000033,0.933069006658903
+very mild dysarthria,Rigid dysarthria,HP:0002464,0.964301049201789
+very mild weakness of small hand muscles,Distal muscle weakness in lower limbs,HP:0009053,0.93941154350674
+vestibular hypofunction,Vestibular dysfunction,HP:0001756,0.971252611707044
+vibration sensation impairment,Sensory impairment,HP:0003474,0.9570419267039187
+vibratory sense impairment in the arms,Distal vibratory impairment of the lower limbs,HP:0002166,0.9585214687363108
+vibratory sense loss,Impaired vibratory sense,HP:0002495,0.9669713255492028
+visual acuity loss,Loss of visual acuity,HP:0000529,0.9645906317424839
+visual deficits,"Visual loss, progressive",HP:0000529,0.95112883638564
+visual disturbances such as diplopia,Ocular movement abnormalities,HP:0000496,0.9161363776685044
+visual failure,Visual loss,HP:0000572,0.9626151788386937
+visual hallucinations,Visual hallucinations,HP:0002367,0.9822798637974628
+visual impairment,Visual impairment,HP:0000505,0.9999999999997877
+visual impairment due to fibrotic scarring of the macula,Retinal pigment epithelial atrophy,HP:0007722,0.9215210764256345
+visual symptoms due to optic atrophy,Optic nerve atrophy,HP:0000648,0.9481791749218489
+vocal cord palsy,Facial nerve palsy,HP:0010628,0.9570224905256325
+vocal cord paralysis,Bilateral vocal cord paralysis,HP:0012820,0.9651561589757631
+vocal cord paresis,Bilateral vocal cord paresis,HP:0012822,0.9692400619522631
+vocal myoclonus,Spinal myoclonus,HP:0010531,0.9636877323786917
+voice tremor,Vocal tremor,HP:0012477,0.982139768463557
+vomiting,Nausea and vomiting,HP:0002017,0.9498758642490169
+waddling gait,Waddling gait,HP:0002515,0.973486994054138
+walking abnormalities,Gait abnormalities,HP:0001288,0.9434415689440518
+walking difficulties,Difficulty in walking,HP:0002355,0.9376188185745805
+walking difficulty,Difficulty in walking,HP:0002355,0.9455193126969452
+wasting,Weakness,HP:0025406,0.9635804533644007
+wasting of distal lower limb muscles,Distal limb muscle weakness,HP:0002460,0.9493971072170722
+wasting of hand and foot muscles,"Hand muscle wasting, bilateral",HP:0009130,0.9417202932801284
+wasting of lower limbs,"Hand muscle wasting, bilateral",HP:0009130,0.920581189123909
+wasting of the calf muscles,"Hand muscle wasting, bilateral",HP:0009130,0.9352565722155016
+wasting of the intrinsic hand muscles,Intrinsic hand muscle weakness,HP:0009005,0.940377618567773
+wasting of the shoulder girdle muscles,Wasting of limb-girdle muscle,HP:0003797,0.9556483272287122
+wasting of the small muscles of the hands and feet,Distal upper limb muscle weakness,HP:0008959,0.9086316850288578
+wasting of the upper and lower limbs,Distal upper limb muscle atrophy,HP:0007149,0.9098599715303882
+weak ankles,Weak grip,HP:0033466,0.9600934696724864
+weak cough,Wet cough,HP:0031245,0.9474956103106488
+weak cry,Weak cry,HP:0001612,0.9999999999996924
+weak distal muscle weakness of the upper and lower extremities,Distal upper limb muscle weakness,HP:0008959,0.927492881764539
+weak intrinsic hand muscles,Intrinsic hand muscle weakness,HP:0009005,0.9584150015641673
+weakness,Weakness,HP:0025406,0.999999999999569
+weakness and atrophy of intrinsic hand muscles,Intrinsic hand muscle atrophy,HP:0008954,0.9649696145337787
+weakness and atrophy of the forearms,"Symmetrical, proximal limb muscle atrophy",HP:0007126,0.9373037817342462
+weakness and atrophy of the left hand,Distal upper limb muscle atrophy,HP:0007149,0.9228555460557851
+weakness and cramping of the distal upper limbs,Distal upper limb muscle weakness,HP:0008959,0.9276778192379618
+weakness and flexion of the left hand and ankle,Absent proximal finger flexion creases,HP:0006077,0.9027445631867896
+weakness causing impaired gait,Impaired gait,HP:0001288,0.9413175666920693
+weakness in the intrinsic hand muscles,Intrinsic hand muscle weakness,HP:0009005,0.9608277204984936
+weakness in the left leg,Unilateral facial muscle weakness,HP:0012799,0.9041591845475699
+weakness in the lower extremities,Lower extremity weakness,HP:0007340,0.9149657388379757
+weakness leading to impaired gait,Gait abnormalities,HP:0001288,0.9289201389626369
+weakness of ankle muscles,Distal muscle weakness in lower limbs,HP:0009053,0.9431498969135684
+weakness of bulbar neck flexor muscles,Neck flexor muscle weakness,HP:0003722,0.9662658608437741
+weakness of distal lower limb muscles,Distal upper limb muscle weakness,HP:0008959,0.9742607137599401
+weakness of distal muscles of the lower limbs,Distal upper limb muscle weakness,HP:0008959,0.9412645261833913
+weakness of foot dorsiflexion,Passive dorsiflexion of the 5th finger more than 90 degrees,HP:0031534,0.942017339955477
+weakness of intrinsic hand muscles,Intrinsic hand muscle weakness,HP:0009005,0.9686591841099386
+weakness of lower limb muscles,Distal upper limb muscle weakness,HP:0008959,0.9657268333307144
+weakness of lower limbs,Distal limb weakness,HP:0002460,0.9371915183200314
+weakness of lower limbs with brisk reflexes,Distal upper limb muscle weakness,HP:0008959,0.9318406905256157
+weakness of peroneal muscles,Peroneal atrophy,HP:0009049,0.9327809008863187
+weakness of shoulder girdle,"Muscle weakness, shoulder-girdle",HP:0003547,0.9735697643398444
+weakness of the anterior tibial muscles,Tibialis muscle weakness,HP:0008963,0.933908785864774
+weakness of the distal limb muscles,Distal limb muscle weakness,HP:0002460,0.9648061294651585
+weakness of the distal upper limbs,Distal upper limb muscle weakness,HP:0008959,0.9455175415363454
+weakness of the dorsiflexors of the feet,Passive dorsiflexion of the 5th finger more than 90 degrees,HP:0031534,0.9131106828998234
+weakness of the lower limbs,Distal upper limb muscle weakness,HP:0008959,0.9312730071315753
+weakness of the muscles in the legs,Weakness in muscles of upper arms and upper legs,HP:0003701,0.9169763859158584
+weakness of the neck muscles,Neck muscle weakness,HP:0000467,0.9507045427614407
+weakness of the pelvic girdles,Pelvic girdle weakness,HP:0003749,0.964187082570021
+weakness of the proximal limb muscles,Proximal limb muscle weakness,HP:0003701,0.963009672045754
+weakness of the right hand,Distal upper limb muscle weakness,HP:0008959,0.8987169059118755
+weakness of the right lower limb,Distal upper limb muscle weakness,HP:0008959,0.9138029331097337
+weakness of the shoulder girdles,Shoulder girdle weakness,HP:0003547,0.9567853734442414
+wheelchair use,Difficulty in walking,HP:0002355,0.9074223062789565
+whispering dysphonia,Spasmodic dysphonia,HP:0012049,0.9565770748539367
+wide based ataxic gait,Ataxic gait,HP:0002066,0.9413765787344842
+wide based gait,Wide based gait,HP:0002136,0.907556516626093
+wide mouth,Wide mouth,HP:0000154,0.9999999999996212
+wide mouth with full lips,Open mouth appearance,HP:0000194,0.9316559463071836
+widely spaced teeth,Widely spaced teeth,HP:0000687,0.9892301585970523
+widespread fasciculations of muscles,Tongue fasciculation,HP:0001308,0.9413856792107183
+word finding difficulty,Word-finding difficulty,HP:0030784,0.9999999999997707
+worsening of hand muscle weakness with cold,Distal muscle weakness in lower limbs,HP:0009053,0.9380769029606618
+worsening of symptoms at rest,Dyspnea at rest,HP:0033710,0.8908505016862305
+worsening of symptoms in the evening or night,Episodic vomiting,HP:0002572,0.8748529824127074
+worsening spasticity in lower extremities,Lower extremity akinesia,HP:0033411,0.9365806647425428
+wrist and finger contractures,Wrist contracture,HP:0001239,0.9550404714523328
+wrist cramp,Abdominal cramps,HP:0032155,0.9652957158610145
+wrist drop,Wrist drop,HP:0031189,0.9999999999997294
+writers cramp,Writer's cramp,HP:0002356,0.9599124371947442
+writers cramp,Writer's cramp,HP:0002356,0.9599124371947442
+writing difficulties,Difficulty speaking,HP:0002465,0.9339643959401253
+writing tremor,Hand tremor,HP:0002378,0.9780292452064984
