@@ -64,7 +64,7 @@ scripts/    # Python scripts for retriever + normalization pipeline
 - Uses precomputed BioBERT similarity scores for candidate terms
 
 
-### `Plot_model_accuracies.py.py`
+### `Plot_model_accuracies.py`
 - Plots a bar chart of model accuracies 
 ---
 
