@@ -63,6 +63,9 @@ scripts/    # Python scripts for retriever + normalization pipeline
 - Requires OpenAI API key  
 - Uses precomputed BioBERT similarity scores for candidate terms
 
+
+### `Plot_model_accuracies.py.py`
+- Plots a bar chart of model accuracies 
 ---
 
 ## ✅ Outputs
