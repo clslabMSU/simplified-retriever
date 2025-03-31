@@ -1,4 +1,4 @@
-##**simplified-retriever**
+** A simplified-retriever for normalizing biomedical terms to the HPO**
 
 Large language models (LLMs) have shown improved accuracy in phenotype term normalization tasks when augmented with retrievers that suggest candidate matches based on semantic similarity.
 
