@@ -24,7 +24,7 @@ project_root = Path(__file__).resolve().parents[1]
 input_file = project_root / "data" / "well_formed_terms.csv"
 output_file = project_root / "results" / "doc2hpo_extracted_terms.csv"
 output_file.parent.mkdir(parents=True, exist_ok=True)
-Count =30 #Set the nummber of terms you wish to normalize
+Count =500 #Set the nummber of terms you wish to normalize
 # Load the input terms
 df = pd.read_csv(input_file)
 terms = df['extracted_term'].tolist()
