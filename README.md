@@ -18,6 +18,7 @@ Install the required Python packages:
 pip install -r requirements.txt
 ```
 
+<<<<<<< HEAD
 Download the required spaCy model (if using the spaCy-based script):
 
 ```bash
@@ -87,3 +88,13 @@ This repository supports the findings of the published manuscript:
 > Authors: [Your Name et al.]  
 > Journal: [Name of Journal]  
 > DOI: [Add DOI or URL link here]
+=======
+Files:
+1) well_formed_terms.csv is a csv file with the header 'extracted_term'. It has 1820 rows (terms) all found in OMIM summaries and all are candidates to be normalized by being mapped to an HPO concept. This is our primary test file of terms.
+
+2) Generate_ BIOBERT_word_vectors_for_HPO_terms.py is a python program that generates a BioBERT embedding for each term in the HPO.
+
+3) HPO.csv is a CSV file with 18,988 HPO_Terms and their HPO_ID.  Column 1 is HPO_ID. Column 2 is HPO_Term
+
+4) Normalize by Spacy.py** is a python program that normalizes terms using the cosine similarity built into spaCy and word embeddings from **en_core_web_lg**
+>>>>>>> 4fca6748b0f95acab3b93bda4db78db1c97228da
